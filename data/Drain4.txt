@@ -1,0 +1,629 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Yu, KF
+   Lehmkuhl, F
+   Falk, D
+AF Yu, Kai-Feng
+   Lehmkuhl, Frank
+   Falk, Dimitri
+TI Quantifying land degradation in the Zoige Basin, NE Tibetan Plateau
+   using satellite remote sensing data
+SO JOURNAL OF MOUNTAIN SCIENCE
+LA English
+DT Article
+DE Alpine ecosystem; Wetlands; Degradation; Desertification; Zoige Basin;
+   Driving mechanisms
+ID AEOLIAN DESERTIFICATION; ALPINE WETLANDS; CLIMATE; PEATLAND; EVOLUTION;
+   RECORDS
+AB Considerable efforts have been dedicated to desertification research in the arid and semi-arid drylands of central Asia. However, there are few quantitative studies in conjunction with proper qualitative evaluation concerning land degradation and aeolian activity in the alpine realm. In this study, spectral information from two Landsat-5 TM scenes (04.08.1994 and 28.07.2009, respectively) was combined with reference information obtained in the field to run supervised classifications of eight landscape types for both time steps. Subsequently, the temporal and spatial patterns of the alpine wetlands/grasslands evolutions in the Zoige Basin were quantified and assessed based on these two classification maps. The most conspicuous change is the sharp increase of similar to 627 km(2) degraded meadow. Concerning other land-covers, shallow wetland increases similar to 107 km(2) and aeolian sediments (mobile dunes and sand sheets) have an increase of similar to 30 km(2). Considering the deterioration, an obvious decrease of 440 km(2) degraded wetland can be observed. Likewise, decrease of deep wetland (similar to 78 km(2)), humid meadow (similar to 80 km(2)) and undisturbed meadow (similar to 88 km(2)) were determined. These entire evolution matrixes undoubtedly hint a deteriorating tendency of the Zoige Basin ecosystem, which is characterized by significantly declined proportion of intact wetlands, meadow, rangeland and a considerable increase of degraded meadow and larger areas of mobile dunes. In particular, not only temporal alteration of the land cover categories, the spatial and topographical characteristics of the land degradation also deserves more attention. In the alpine rangelands, the higher terraces of the river channels along with their slopes are more liable to the degradation and desertification. This tendency has significantly impeded the nomadic and agriculture activities. The set of anthropozoogenic factors encompassing enclosures, overgrazing and trampling, rodent damaging and exceedingly ditching in the wetlands are assumed to be the main controlling mechanisms for the landscape degradation. A suite of strict protection policies is urgent and indispensable for self-regulation and restoration of the alpine meadow ecosystem. Controlling the size of livestock, less ditching in the rangeland, and the launching of a more strict nature reserve management by adjacent Ruoergai, Maqu and Hongyuan Counties would be practical and efficacious in achieving these objectives.
+C1 [Yu, Kai-Feng; Lehmkuhl, Frank; Falk, Dimitri] Rhein Westfal TH Aachen, Dept Geog, Templergraben 55, D-52056 Aachen, Germany.
+RP Yu, KF (corresponding author), Rhein Westfal TH Aachen, Dept Geog, Templergraben 55, D-52056 Aachen, Germany.
+EM kaifeng.yu@geo.rwth-aachen.de; flehmkuhl@geo.rwth-aachen.de;
+   dimitri.falk@geo.rwth-aachen.de
+FU German Research Foundation (DFG)German Research Foundation (DFG); China
+   Scholarship CouncilChina Scholarship Council [201306190112]
+FX The study was funded by the German Research Foundation (DFG) for the
+   fieldwork and China Scholarship Council (201306190112). We sincerely
+   appreciate the constructive discussion with Dr. G. Stauch regarding the
+   methodology and language. Two anonymous reviewers are sincerely
+   acknowledged for the constructive suggestions to improve the manuscript.
+NR 46
+TC 17
+Z9 21
+U1 5
+U2 64
+PU SCIENCE PRESS
+PI BEIJING
+PA 16 DONGHUANGCHENGGEN NORTH ST, BEIJING 100717, PEOPLES R CHINA
+SN 1672-6316
+EI 1993-0321
+J9 J MT SCI-ENGL
+JI J Mt. Sci.
+PD JAN
+PY 2017
+VL 14
+IS 1
+BP 77
+EP 93
+DI 10.1007/s11629-016-3929-z
+PG 17
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA EK8EK
+UT WOS:000394156500006
+DA 2021-07-21
+ER
+
+PT J
+AU Cox, M
+   Earwood, C
+   Jones, EBG
+   Jones, J
+   Straker, V
+   Robinson, M
+   Tibbett, M
+   West, S
+AF Cox, M
+   Earwood, C
+   Jones, EBG
+   Jones, J
+   Straker, V
+   Robinson, M
+   Tibbett, M
+   West, S
+TI An assessment of the impact of trees upon archaeology within a relict
+   wetland
+SO JOURNAL OF ARCHAEOLOGICAL SCIENCE
+LA English
+DT Article
+DE wetland management; Abbot's Way; neolithic; palaeoecology; trees; Sweet
+   Track
+AB An evaluation of a surviving stretch of the Abbot's Way, in the Somerset Levels and Moors, was undertaken to assess the consequences of the previous management regime and inform future management of the site. The scheduled site appeared to have been dewatered and desiccated as a consequence of tree planting and the effects of a deep, adjacent drainage ditch during the previous decade. The evaluation considered the condition of the Neolithic timbers and associated palaeoenvironmental record from three trenches and, where possible, compared the results with those obtained form the 1974 excavation (Girling, 1976). The results of this analysis suggest that the hydrological consequences of tree planting and colonization had a detrimental effect on both the condition of the timbers and insect remains. However, pollen and plant macro-fossils survived well although there was modern contamination. A trench opened outside the scheduled area. where the ground was waterlogged and supported a wet acid grassland flora, revealed similar problems of survival and condition. This almost certainly reflects a period of peat extraction and an associated seasonally fluctuating water table in the 1950s and 1960s; in fact pollen survived better in the scheduled dewatered area. These results are compared with those recovered from the Sweet Track which was evaluated in 1996. Both sites have been subject to recent tree growth but the Sweet Track has been positively managed in terms of hydrology. The most notable difference between the two sites is that insects and wood survived better at the Sweet Track sites than at the Abbot's Way. Insects seem to be a more sensitive indicator of site desiccation than plant remains. It is recommended that any programme of management of wetland for archaeology should avoid deliberate tree planting and natural scrub and woodland generation. It should also take into account past as well as present land use.
+C1 Bournemouth Univ, Sch Conservation Sci, Poole BH12 5BB, Dorset, England.
+   Univ Hong Kong, Dept Biol & Chem, Hong Kong, Peoples R China.
+   Univ Bristol, Sch Geogr Sci, Bristol BS8 1TH, Avon, England.
+   Univ Museum, Oxford OX1 3PW, England.
+RP Cox, M (corresponding author), Bournemouth Univ, Sch Conservation Sci, Poole BH12 5BB, Dorset, England.
+RI Jones, Gareth E. B./C-5137-2013; Tibbett, Mark/C-8425-2013; Tibbett,
+   Mark/P-2079-2019
+OI Tibbett, Mark/0000-0003-0143-2190
+NR 30
+TC 6
+Z9 6
+U1 0
+U2 6
+PU ACADEMIC PRESS LTD- ELSEVIER SCIENCE LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0305-4403
+EI 1095-9238
+J9 J ARCHAEOL SCI
+JI J. Archaeol. Sci.
+PD OCT
+PY 2001
+VL 28
+IS 10
+BP 1069
+EP 1084
+DI 10.1006/jasc.2000.0642
+PG 16
+WC Anthropology; Archaeology; Geosciences, Multidisciplinary
+SC Anthropology; Archaeology; Geology
+GA 486UL
+UT WOS:000171835300006
+DA 2021-07-21
+ER
+
+PT J
+AU Ouali, M
+   Daoud-Bouattour, A
+   Etteieb, S
+   Gammar, AM
+   Ben Saad-Limam, S
+   Ghrabi-Gammar, Z
+AF Ouali, Mounira
+   Daoud-Bouattour, Amina
+   Etteieb, Selma
+   Gammar, Amor Mokhtar
+   Ben Saad-Limam, Samia
+   Ghrabi-Gammar, Zeineb
+TI Joumine Marsh: National Park of lchkeul, Tunisia: floristic diversity,
+   vegetation mapping and dynamics (1925-2011).
+SO REVUE D ECOLOGIE-LA TERRE ET LA VIE
+LA French
+DT Article
+ID PEAT MOSSES SPHAGNUM; PLANT-COMMUNITIES; ECOLOGICAL SURVEY; NORTHWEST
+   AFRICA; STANDING WATERS; ICHKEUL; LAKE; CONSERVATION; WETLANDS; ALGERIA
+AB The vegetation of Joumine Marsh (National Park of Ichkeul, Tunisia) has been studied from 2005 to 2011 with the aims: (1) to characterize the present-day status of the marsh vegetation based on plant inventories and phytosociological surveys, (2) to identify the influence of interannual hydrological changes on the plant distribution, and (3) to reconstruct, on the basis of previous works, the vegetation dynamics over the past 86 years (1925-2011). Results reveal the regression and sometimes the local extinction of the plants of temporary freshwater habitats, and their replacement by halophilous, cultivation-tolerant, footpath and grazing-tolerant species. Such changes express the artificialisation of the marsh. The mid-term dynamics of Joumine Marsh (1925-2011) is characterized by four periods: (1) before the first hydrological developments realized on the Joumine Wady in 1948, the marsh was dominated by the helophytic formation of Bolboschoenus glaucus and Schoenoplectus litoralis; (2) between 1948 and the putting into service of the Joumine Dam in 1982/83, the helophytic vegetation remained dominant; (3) between 1982-1983 and the summer 2002, because of an inappropriate management of the reservoir (without freshwater release), the salinity of the marsh has considerably increased, triggering the decline of the hydrophilous vegetation and the expansion of salt scrubs of Sarcocornia fruticosa; (4) finally, since autumn 2002, occasional releases of freshwater from the Joumine reservoir and the realization of new hydrological developments on the Joumine ditch lead to the inundation and washing of the marsh. These changes have induced the partial replacement of the salt scrubs by renewed helophytic herbaceous formations. This study reveals the significance of the ratio "hydro-hygrophilous plants/halophilous plants" as an indicator of the health of coastal wetlands. This ratio, as a simple tool for helping the management, may be used at the scale of the entire system lake-marsh of Ichkeul.
+C1 [Ouali, Mounira; Daoud-Bouattour, Amina; Ben Saad-Limam, Samia] Univ Tunis El Manar, Fac Sci Tunis, Dept Biol, Tunis 2092, Tunisia.
+   [Ouali, Mounira; Daoud-Bouattour, Amina; Gammar, Amor Mokhtar; Ben Saad-Limam, Samia; Ghrabi-Gammar, Zeineb] Univ Manouba, Fac Lettres Arts & Humanites Manouba, UR Biogeog Climatol Appl & Dynam Eros, Manouba 2010, Tunisia.
+   [Etteieb, Selma; Ghrabi-Gammar, Zeineb] Univ Carthage, Inst Natl Agron Tunis, Tunis, Tunisia.
+RP Ouali, M (corresponding author), Univ Tunis El Manar, Fac Sci Tunis, Dept Biol, Campus Belvedere, Tunis 2092, Tunisia.
+EM zghrabi@yahoo.fr
+NR 79
+TC 1
+Z9 1
+U1 0
+U2 4
+PU SOC NATL PROTECTION NATURE ACCLIMATATION FRANCE
+PI PARIS 5
+PA 57 RUE CUVIER, 75005 PARIS 5, FRANCE
+SN 0249-7395
+J9 REV ECOL-TERRE VIE
+JI Rev. Ecol.-Terre Vie
+PD JAN-MAR
+PY 2014
+VL 69
+IS 1
+BP 3
+EP 23
+PG 21
+WC Ecology
+SC Environmental Sciences & Ecology
+GA AT8OH
+UT WOS:000345191800001
+DA 2021-07-21
+ER
+
+PT J
+AU Blomqvist, MM
+   Tamis, WLM
+   de Snoo, GR
+AF Blomqvist, Milena M.
+   Tamis, Wil L. M.
+   de Snoo, Geert R.
+TI No improvement of plant biodiversity in ditch banks after a decade of
+   agri-environment schemes
+SO BASIC AND APPLIED ECOLOGY
+LA English
+DT Article
+DE Nature conservation; Flora; Target species; Productivity; Biomass;
+   Ellenberg N-value; Grass/forb ratio
+ID SPECIES RICHNESS; GRASSLAND; RESTORATION; DIVERSITY; BIOMASS; YIELD
+AB Restoring plant species richness in intensively farmed areas by means of agri-environment schemes (AES) seems particularly difficult. We studied the effectiveness of a decade of AES in enhancing biodiversity in ditch banks on six modern dairy farms in the Western Peat District in the Netherlands, taking into account the roles of local productivity and of regional diversity and productivity. Biodiversity is characterised as total number of vascular plant species and number of target plant species and productivity as biomass, Ellenberg N-value and grass/forb ratio. We analyzed the repeated AES releves sampled in two periods, 1993-1995 and 2000-2003 and the diversity-productivity relationships in space and over time. For the analysis of the role of the regional factors, repeated AES and reference releves were compared. Number of target species remained stable, whilst the total number of species decreased, and the productivity increased in general in AES ditch banks. We found a clear negative diversity-productivity relationship in space and over time. AES ditch banks showed higher total number of species and comparable to higher number of target species than the reference ditch banks, in general, however, the productivity was also lower in AES ditch banks. The development of AES ditch banks was similar to the regional developments, although differences tended to become smaller in the study period. We hypothesize that the main reason that ditch bank AES do not overall successfully reduce productivity, is because the AES also recommended late mowing and that because of colonization constraints, the region cannot contribute to a positive development. Improvement of AES should, therefore, include adaptation of the mowing regime in high-productivity situations as well as regional strategies to restore the biodiversity of the ditch bank flora. (C) 2008 Gesellschaft fur Okologie. Published by Elsevier GmbH. All rights reserved.
+C1 [Blomqvist, Milena M.; Tamis, Wil L. M.; de Snoo, Geert R.] Leiden Univ, Inst Environm Sci CML, NL-2300 RA Leiden, Netherlands.
+   [Blomqvist, Milena M.] Leiden Univ, Sect Plant Ecol, Inst Biol, NL-2300 RA Leiden, Netherlands.
+RP Tamis, WLM (corresponding author), Leiden Univ, Inst Environm Sci CML, POB 9518, NL-2300 RA Leiden, Netherlands.
+EM tamis@cml.leidenUniv.nl
+RI de Snoo, geert/M-4315-2013
+NR 41
+TC 34
+Z9 34
+U1 0
+U2 33
+PU ELSEVIER GMBH
+PI MUNICH
+PA HACKERBRUCKE 6, 80335 MUNICH, GERMANY
+SN 1439-1791
+EI 1618-0089
+J9 BASIC APPL ECOL
+JI Basic Appl. Ecol.
+PY 2009
+VL 10
+IS 4
+BP 368
+EP 378
+DI 10.1016/j.baae.2008.08.007
+PG 11
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 464BQ
+UT WOS:000267480200009
+DA 2021-07-21
+ER
+
+PT J
+AU Roy, V
+   Ruel, JC
+   Plamondon, AP
+AF Roy, V
+   Ruel, JC
+   Plamondon, AP
+TI Establishment, growth and survival of natural regeneration after
+   clearcutting and drainage on forested wetlands
+SO FOREST ECOLOGY AND MANAGEMENT
+LA English
+DT Article
+DE watering-up; competition; sphagnum; advance regeneration; microrelief;
+   Abies balsamea
+ID BLACK SPRUCE; 5-YEAR REGENERATION; SPHAGNUM; PATTERNS; QUEBEC; STANDS;
+   PEATLANDS; MICHIGAN; ONTARIO; SITE
+AB Natural regeneration may be disrupted by the rise of the water table in surface layers after clearcutting forested wetlands. A study was initiated on eight forested wetlands that were successively clearcut and drained 3 years later. The objectives were (1) to assess conifer and deciduous regeneration on waterlogged clearcut sites, (2) to determine the effect of water table level changes after clearcutting and drainage on the growth rate of advance regeneration, and (3) to determine if sphagnum moss growth rate was influenced by clearcutting, drainage and microrelief. 3 years after strip clearcutting, the area based inventory showed that softwood regeneration was abundant in the clearcut, but 84% of the seedlings were smaller than 30 cm and vulnerable to suppression from the competition. Indeed, the opening of the forest cover promoted massive invasion of pioneer species such as trembling aspen (Populus tremuloides Michx.) and white birch (Betula papyrifera Marsh.). Black spruce (Picea mariana (Mill.) B.S.P.) and red spruce (Picea rubens Sarg.) had difficulties maintaining their presence after clearcutting. The ratio hardwood stems:softwood stems changed from 1.1 in the forest to 3.8 in the clearcut. Balsam fir (Abies balsamea (L.) Mill.), larch (Larix laricina (Du Roi) K. Koch) and cedar (Thuja occidentalis L.) represented 93% of the softwood regeneration.
+   3 years after clearcutting, balsam fir advance regeneration had a significantly lower growth rate in the middle of the clearcut than near the edges of the clearcut. 2 years after drainage, seedling growth at 10 m from the drainage ditch was significantly greater than at 70 m from ditch. No significant differences were found between mineral and organic soil types, but height growth was positively correlated to C : N ratios of the individual site types. Abundant competition on richer sites limits the development of softwood regeneration. On a short term basis, competition more than watering-up seems a threat to softwood regeneration. Sphagnum growth rates measured with the crank-wire method showed no effect of clearcutting or drainage, but a higher growth rate in hollows (3.2 cm per year) compared to hummocks (2.0 cm per year). These growth rates indicate that sphagnum should not affect regeneration but could overgrow yearlings of slow growing species. (C) 2000 Elsevier Science B.V. All rights reserved.
+C1 Univ Laval, Dept Sci Bois & Foret, St Foy, PQ G1K 7P4, Canada.
+   Univ Laval, Ctr Rech Biol Forestiere, St Foy, PQ G1K 7P4, Canada.
+RP Roy, V (corresponding author), Foret Quebec, Minist Ressources Nat, Direct Rech Forestiere, 2700 Rue Einstein, St Foy, PQ G1P 3W8, Canada.
+NR 53
+TC 54
+Z9 55
+U1 0
+U2 35
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0378-1127
+J9 FOREST ECOL MANAG
+JI For. Ecol. Manage.
+PD APR 17
+PY 2000
+VL 129
+IS 1-3
+BP 253
+EP 267
+DI 10.1016/S0378-1127(99)00170-X
+PG 15
+WC Forestry
+SC Forestry
+GA 294LK
+UT WOS:000085912600022
+DA 2021-07-21
+ER
+
+PT J
+AU Sherwood, AR
+   Carlile, AL
+   Neumann, JM
+   Kociolek, JP
+   Johansen, JR
+   Lowe, RL
+   Conklin, KY
+   Presting, GG
+AF Sherwood, Alison R.
+   Carlile, Amy L.
+   Neumann, Jessica M.
+   Kociolek, J. Patrick
+   Johansen, Jeffrey R.
+   Lowe, Rex L.
+   Conklin, Kimberly Y.
+   Presting, Gernot G.
+TI The Hawaiian freshwater algae biodiversity survey (2009-2014):
+   systematic and biogeographic trends with an emphasis on the macroalgae
+SO BMC ECOLOGY
+LA English
+DT Article
+DE Algal distribution; Biodiversity survey; Biogeography; Cyanobacteria;
+   Dispersal; Freshwater algae; Hawaiian Islands; Molecular
+   characterization; Taxonomy; UPA
+ID RIBOSOMAL-RNA GENE; MOLECULAR PHYLOGENY; GLOBAL DISPERSAL; RHODOPHYTA;
+   DIATOM; BACILLARIOPHYCEAE; CHLOROPHYTA; CLADOPHORALES; ULVOPHYCEAE;
+   PERIPHYTON
+AB Background: A remarkable range of environmental conditions is present in the Hawaiian Islands due to their gradients of elevation, rainfall and island age. Despite being well known as a location for the study of evolutionary processes and island biogeography, little is known about the composition of the non-marine algal flora of the archipelago, its degree of endemism, or affinities with other floras. We conducted a biodiversity survey of the non-marine macroalgae of the six largest main Hawaiian Islands using molecular and microscopic assessment techniques. We aimed to evaluate whether endemism or cosmopolitanism better explain freshwater algal distribution patterns, and provide a baseline data set for monitoring future biodiversity changes in the Hawaiian Islands.
+   Results: 1,786 aquatic and terrestrial habitats and 1,407 distinct collections of non-marine macroalgae were collected from the islands of Kauai, Oahu, Molokai, Maui, Lanai and Hawaii from the years 2009-2014. Targeted habitats included streams, wet walls, high elevation bogs, taro fields, ditches and flumes, lakes/reservoirs, cave walls and terrestrial areas. Sites that lacked freshwater macroalgae were typically terrestrial or wet wall habitats that were sampled for diatoms and other microalgae. Approximately 50% of the identifications were of green algae, with lesser proportions of diatoms, red algae, cyanobacteria, xanthophytes and euglenoids. 898 DNA sequences were generated representing eight different markers, which enabled an assessment of the number of taxonomic entities for genera collected as part of the survey. Forty-four well-characterized taxa were assessed for global distribution patterns. This analysis revealed no clear biogeographic affinities of the flora, with 27.3% characterized as "cosmopolitan", 11.4% "endemic", and 61.3% as intermediate.
+   Conclusions: The Hawaiian freshwater algal biodiversity survey represents the first comprehensive effort to characterize the non-marine algae of a tropical region in the world using both morphological and molecular tools. Survey data were entered in the Hawaiian Freshwater Algal Database, which serves as a digital repository of photographs and micrographs, georeferenced localities and DNA sequence data. These analyses yielded an updated checklist of the non-marine macroalgae of the Hawaiian Islands, and revealed varied biogeographic affinities of the flora that are likely a product of both natural and anthropogenic dispersal.
+C1 [Sherwood, Alison R.; Carlile, Amy L.; Neumann, Jessica M.; Conklin, Kimberly Y.] Univ Hawaii, Dept Bot, Honolulu, HI 96822 USA.
+   [Kociolek, J. Patrick] Univ Colorado, Dept Ecol & Evolutionary Biol, Boulder, CO 80309 USA.
+   [Kociolek, J. Patrick] Univ Colorado, Museum Nat Hist, Boulder, CO 80309 USA.
+   [Johansen, Jeffrey R.] John Carroll Univ, Dept Biol, University Hts, OH 44118 USA.
+   [Lowe, Rex L.] Bowling Green State Univ, Dept Biol Sci, Bowling Green, OH 43409 USA.
+   [Presting, Gernot G.] Univ Hawaii, Dept Mol Biosci & Bioengn, Honolulu, HI 96822 USA.
+RP Sherwood, AR (corresponding author), Univ Hawaii, Dept Bot, 3190 Maile Way, Honolulu, HI 96822 USA.
+EM asherwoo@hawaii.edu
+RI Johansen, Jeffrey R/F-5616-2011
+OI Johansen, Jeffrey R/0000-0002-0794-9417
+FU National Science FoundationNational Science Foundation (NSF)
+   [DEB-841734]
+FX This research was funded by a grant from the National Science Foundation
+   (DEB-841734) to support the Hawaiian Freshwater Algal Biodiversity
+   Survey. Many thanks to Norman Wang and Thomas Wolfgruber for
+   implementing and maintaining the Hawaiian Freshwater Algal Database, and
+   for providing data downloads. We thank Melissa and Christine Vaccarino,
+   Carrie Graeff, Laura Miscoe and Alex Valigosky for collecting
+   assistance.
+NR 98
+TC 14
+Z9 14
+U1 2
+U2 52
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+EI 1472-6785
+J9 BMC ECOL
+JI BMC Ecol.
+PD OCT 25
+PY 2014
+VL 14
+AR 28
+DI 10.1186/s12898-014-0028-2
+PG 23
+WC Ecology
+SC Environmental Sciences & Ecology
+GA AT1PQ
+UT WOS:000344706300001
+PM 25343968
+OA DOAJ Gold, Green Published
+DA 2021-07-21
+ER
+
+PT J
+AU Oomes, MJM
+   Olff, H
+   Altena, HJ
+AF Oomes, MJM
+   Olff, H
+   Altena, HJ
+TI Effects of vegetation management and raising the water table on nutrient
+   dynamics and vegetation change in a wet grassland
+SO JOURNAL OF APPLIED ECOLOGY
+LA English
+DT Article
+DE grassland management; groundwater; nutrient concentration; response
+   models; restoration
+ID FEN VEGETATION; SOILS; FERTILITY; LEVEL; YIELD
+AB 1. The results of a restoration experiment carried out on a permanent grassland on peaty, heavy clay in the Netherlands are described. The experiment started in 1985, 7 years after fertilizer application had ceased, and was designed to provide insight into ecologically significant processes accompanying restoration. An analysis was made of the effect of management regime and of raising the water table on nutrient availability, dry mailer production, tissue nutrient concentration, dynamics of species numbers and plant species replacement. Three management practices were compared: cutting and removal (RR), cutting and mulching (M M), sod removal in 1985, and thereafter cutting and removal of the hay (RS). Data are presented on changes during a 5-year period.
+   2. No trend was discernible in soil pH, total C, N and P in the RR treatment; extractable P and K decreased sharply in the field with the raised groundwater level.
+   3. Nine years after fertilizer application ceased, dry matter production had fallen from 10-11 to 6-7 t ha(-1) year(-1). In the subsequent 5 years of the experiment it declined to 5-6 t ha(-1) year(-1) when all cut biomass was removed. and to about 4 t ha(-1) year(-1) after sod removal. Mulching caused an increase to 11 t ha(-1) year(-1). No effect was seen of the raised water level.
+   4. The dry matter yield of the first June cut in the RR treatment decreased. The tissue It concentration also decreased, but no increase of the tissue P concentration was detected. II was concluded that the availability of K and to some extent of P was more important than N availability in explaining the decrease in dry matter production. The tissue nutrient concentrations were not influenced by the water table.
+   5. Sod removal to a depth of 5 cm resulted in the lowest productivity and the lowest tissue concentrations of P, while tissue concentrations of N and It were not affected.
+   6. Raising the water level resulted in a more rapid establishment of species indicative of wet conditions, some of which invaded from nearby ditches.
+   7. The trends of dominant species are described with a set of response models. The species were ranked from disappearing to colonizing species. The relationship between rank order of replacement and indicator values of species was investigated. Raising the water table resulted in species indicative of wet conditions becoming dominant, independently of vegetation management. The removal of nutrients resulted in the appearance of species with a lower maximal height, indicative of lower P and K availability.
+C1 DEPT TERR ECOL & NAT CONSERVAT,NL-6708 PD WAGENINGEN,NETHERLANDS.
+RP Oomes, MJM (corresponding author), DLO,AB,RES INST AGROBIOL & SOIL FERTIL,POB 14,NL-6700 AA WAGENINGEN,NETHERLANDS.
+RI Olff, Han/A-8516-2008
+OI Olff, Han/0000-0003-2154-3576
+NR 31
+TC 73
+Z9 83
+U1 0
+U2 37
+PU BLACKWELL SCIENCE LTD
+PI OXFORD
+PA OSNEY MEAD, OXFORD, OXON, ENGLAND OX2 0EL
+SN 0021-8901
+J9 J APPL ECOL
+JI J. Appl. Ecol.
+PD JUN
+PY 1996
+VL 33
+IS 3
+BP 576
+EP 588
+DI 10.2307/2404986
+PG 13
+WC Biodiversity Conservation; Ecology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA VB445
+UT WOS:A1996VB44500014
+DA 2021-07-21
+ER
+
+PT J
+AU Bremer, P
+AF Bremer, Piet
+TI Ecology and Syntaxonomy of Gymnocarpium dryopteris L. in the Netherlands
+SO AMERICAN FERN JOURNAL
+LA English
+DT Article
+DE Gymnocarpium; syntaxonomy; ecology
+ID FOREST
+AB Ecology, syntaxonomy and population size of Gymnocarpium dryopteris have been studied, especially during the period 1979-1991 by collecting data on 419 colonies in the Kuinderbos (a planted woodland in the Noordoostpolder, a polder reclaimed from the former Zuiderzee in 1942) and 74 colonies elsewhere in the Netherlands. In this paper the Kuinderbos population is compared with other Dutch populations (pleistocene area) in order to provide more insights in the ecology of the species and circumstances facilitating high density. Populations in Germany were studied as reference. In the period 1979-1991 the species was recorded in the Netherlands with at least 670 colonies, of which 89% are in the Kuinderbos. Gymnocarpium dryopteris prefers shadowed ditches and drainage trenches, but can grow at various other habitats as well. Especially at the western and southern part of the Netherlands, the species grows on canal walls. Sites with Gymnocarpium dryopteris belong to different communities. In the Kuinderbos stands of Picea sitchensis are preferred, while elsewhere in the Netherlands the species prefers the Quercion roboris-petreae (Fago-Quercetum) or Pseudotsuga mensiezii-stands. Gymnocmpium dryopteris is accompanied by 14 fern species, at the Kuinderbos by 12 fern species, with Athyrium filix-femina as characteristic species, often indicating potential sites. Rhizomes are shallow creeping, at average 2.6 cm below the surface (0.5-8 cm). It grows in the ecto-organic layer or just below this layer. At trench sides it often grows in the mineral layer. Most colonies are within the influence of the watertable. The Dutch colonies are small and colonies with more than 1000 fronds are rare. This probably indicates that most colonies are less than 20 years old. Colonies with more than 100 fronds are often fertile, with less than 20% of the fronds bearing son. At the wall habitat small-sized individuals may be fertile as well. The high density in the Kuinderbos can be attributed to an optimal water supply from a peat subsoil, the composition of the ecto-organic layer consisting of Picea needles and an optimal light climate. The high density in Piece sitchensis within the Kuinderbos is unprecedented in Europe and makes these stands resemble the natural habitat of Piece sitchensis at the west coast of N. America.
+C1 Wageningen Univ, Wageningen, Netherlands.
+RP Bremer, P (corresponding author), Wageningen Univ, Wageningen, Netherlands.
+EM pietbremer@planet.nl
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 4
+PU AMER FERN SOC INC
+PI ST LOUIS
+PA C/O DR GEORGE YATSKIEVYCH, MEMBERSHIP SECRETARY, MISSOURI BOTANICAL
+   GARDEN, PO BOX 299, ST LOUIS, MO 63166-0299 USA
+SN 0002-8444
+J9 AM FERN J
+JI Am. Fern J.
+PD APR-JUN
+PY 2010
+VL 100
+IS 2
+BP 110
+EP 125
+DI 10.1640/0002-8444-100.2.110
+PG 16
+WC Plant Sciences
+SC Plant Sciences
+GA 643KD
+UT WOS:000281294400005
+DA 2021-07-21
+ER
+
+PT J
+AU Grzywna, A
+   Kaminska, A
+   Bochniak, A
+AF Grzywna, Antoni
+   Kaminska, Agnieszka
+   Bochniak, Andrzej
+TI Analysis of Spatial Variability in the Depth of the Water Table in
+   Grassland Areas
+SO ROCZNIK OCHRONA SRODOWISKA
+LA English
+DT Article
+DE geostatistics; groundwater levels; semivariogram; kriging
+ID GEOSTATISTICAL ANALYSIS; GROUNDWATER LEVELS; SOIL-MOISTURE;
+   PRECIPITATION; INTERPOLATION; CATCHMENT; LEVEL
+AB The kriging spatial statistical analysis technique was used to analyze spatial variability in the groundwater levels in irrigated grassland catchment in the Piwonia River valley. The geostatistical analysis in this study was performed using ArcGIS software, and the spatial distributions on fluctuations in groundwater levels were also studied. The objective of study was to evaluate the applicability of the kriging method for the analysis of the groundwater level.
+   Field observation data collected in Sosnowica in 2011 were used (Western Polesie). The study area is located in Eastern Poland in the province of Lublin and has an temperate climate with temperature extremes -30 degrees C and 35 degrees C (average 8 degrees C). The annual rainfall in the area is about 600 mm, 40% of which occurs between June and September, and the evapotranspiration potential is high. The catchment area of the ditches is 0.46 km(2) and is 86% of area is used as a one-crop seminatural meadows land. The soil cover is dominated by degraded soil muck-peat (MtII). In the catchment area 75% of the habitat moorshed and moist with a high groundwater level.
+   In spring and summer, flooding of grassland in the eastern part of the study area was observed. It was caused by seepage of water from the pond and the supply of water after ice thawing or after rainfall. The obstruction of drainage including neglected ditches had also impact on flooding. The groundwater level in the western part of the study area decreased excessively in the fall because of drainage influence of the river which depth is 2 m.
+   The dataset consisted of groundwater level measured at 15 points in three test periods (spring, summer and autumn). The measured groundwater levels were used to construct experimental semivariograms to characterize the spatial variability in the levels. A range of theoretical models (spherical, exponential, Gaussian models) were fitted to the experimental semivariograms. The models were validated using cross-validation statistics. Surface generated hydroizohipses maps were produced to illustrate spatial variations in the groundwater level in the study area. The spatial analysis of the groundwater level data from the piezometers led to the following conclusions:
+   groundwater levels in the study area were autocorrelated in the distance between 203.5 and 300 m - depending on series,
+   the groundwater level depth was smallest in the vicinity of the Hetman pond and greatest near the Piwonia river,
+   spatial variability in the groundwater levels was described better by the Gaussian model than by the other models for all test series.
+C1 [Grzywna, Antoni; Kaminska, Agnieszka; Bochniak, Andrzej] Univ Live Sci Lublin, Lublin, Poland.
+RP Grzywna, A (corresponding author), Univ Live Sci Lublin, Lublin, Poland.
+RI GRZYWNA, ANTONI/T-7179-2018
+OI GRZYWNA, ANTONI/0000-0002-7105-7173; Bochniak,
+   Andrzej/0000-0001-6664-2741
+NR 24
+TC 4
+Z9 4
+U1 0
+U2 2
+PU MIDDLE POMERANIAN SCI SOC ENV PROT
+PI KOSZALIN
+PA KOLLATAJA 1-1, KOSZALIN, 75-448, POLAND
+SN 1506-218X
+J9 ROCZ OCHR SR
+JI Rocz. Ochr. Sr.
+PY 2016
+VL 18
+BP 291
+EP 302
+PN 1
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA DV3DY
+UT WOS:000382802400019
+DA 2021-07-21
+ER
+
+PT J
+AU Wilson, CA
+   Hughes, ZJ
+   FitzGerald, DM
+   Kolker, AS
+   Lynch, JC
+   Rosen, P
+AF Wilson, C. A.
+   Hughes, Z. J.
+   FitzGerald, D. M.
+   Kolker, A. S.
+   Lynch, J. C.
+   Rosen, P.
+TI Saltmarsh sustainability throughout the Holocene in Boston Harbor: A new
+   sea-level curve for the lower Gulf of Maine and implications of recent
+   anthropogenic alteration
+SO QUATERNARY SCIENCE REVIEWS
+LA English
+DT Article
+DE Saltmarshes; Sea-level rise; Holocene; Sedimentology; Vegetation
+   dynamics
+ID MASSACHUSETTS; FORAMINIFERA; RISE; IMPACTS; WETLAND; MODEL; COAST;
+   CONNECTICUT; AGE; USA
+AB Saltmarsh evolution is closely linked to sea-level rise (SLR) and sediment supply. In a regime of accelerating SLR, saltmarsh survival depends on the ability of the marsh platform to grow vertically through organic and inorganic accumulation, and laterally via transgression over adjacent uplands. In formerly glaciated settings, the formation and maintenance of a saltmarsh are complicated by steep uplands, low sediment availability, isostatic rebound, changes to tidal amplitudes, and anthropogenic alteration. While much work has examined the development of large saltmarshes in New England since the mid-Holocene and Anthropocene, little is known about the smaller isolated saltmarshes that form in pockets along the glaciated coastline. We use radiocarbon dates from newly uncovered index points (basal peat) within Boston Harbor to date one of the oldest saltmarshes in the region (similar to 4.2 ka), and calculate the polynomial relative sea-level curve (RSLR) for the lower Gulf of Maine taking into account tidal amplification throughout the Holocene. This study informs the historical persistence of isolated saltmarshes under varying rates of sea-level rise (magnitude as much as 2 mm yr(-1)). Additionally, we refine the timing and rates of the mid-Holocene sea-level deceleration in this region: between 2.8 and 3.3 ka, slowing from 2.1 mm yr(-1) to 0.5 mm yr(-1). RSLR determined from the past century of tide gauge data is 2.86 mm yr(-1), five times greater than historic rates over the past 2000 years. Recent vertical accretion rates (determined from marker horizons and Pb-210 data) indicate that portions of Boston Harbor's saltmarshes are able to keep pace with current RSLR. However, historical diking and ditching practices appear to have resulted in elevation loss and conversion from high saltmarsh platforms to low saltmarsh platforms, largely influencing the amount of inorganic sediment needed to help maintain marsh surfaces. These results highlight that knowledge of historical anthropogenic modifications and changes in hydroperiod are critical when interpreting vertical accretion results. More importantly, anthropogenic modification within sediment starved saltmarshes may be the cause for cannibalization of marsh shorelines, whereby inorganic sediment eroded from marsh edges is recycled and delivered to the surface, facilitating vertical accretion that offsets RSLR. Under modern accelerated sea-level rise and decreased sediment supply, this cannibalization process may now be the only pathway for saltmarsh survival. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Wilson, C. A.] Louisiana State Univ, Dept Geol & Geophys, Baton Rouge, LA 70803 USA.
+   [Wilson, C. A.] Louisiana State Univ, Coastal Studies Inst, Baton Rouge, LA 70803 USA.
+   [Hughes, Z. J.; FitzGerald, D. M.] Boston Univ, Dept Earth & Environm, Boston, MA 02215 USA.
+   [Kolker, A. S.] Louisiana Univ Marine Consortium, Chauvin, LA 70344 USA.
+   [Lynch, J. C.] Natl Pk Serv, Northeast Coastal & Barrier Network, Washington, DC 20240 USA.
+   [Rosen, P.] Northeastern Univ, Dept Marine & Environm Sci, Boston, MA 02115 USA.
+RP Wilson, CA (corresponding author), Louisiana State Univ, Dept Geol & Geophys, Baton Rouge, LA 70803 USA.
+EM carolw@lsu.edu
+FU NPS grant (USA) [P09AC00232]; NSF (USA)National Science Foundation (NSF)
+   [EAR-1131393, OCE-0924287]; GSA Graduate Student Research grant (USA)
+FX We gratefully acknowledge Kristen Butcher, Alexis Sabine, Erica Ross,
+   Brittany Schwartz, Chris Hein, Arthur Pearson, Marc Albert, and Andrew
+   Kemp for field and lab assistance. Funding by NPS grant P09AC00232, NSF
+   grants EAR-1131393 and OCE-0924287, and a GSA Graduate Student Research
+   grant (USA).
+NR 65
+TC 0
+Z9 0
+U1 3
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0277-3791
+J9 QUATERNARY SCI REV
+JI Quat. Sci. Rev.
+PD JUL 15
+PY 2020
+VL 240
+AR 106383
+DI 10.1016/j.quascirev.2020.106383
+PG 11
+WC Geography, Physical; Geosciences, Multidisciplinary
+SC Physical Geography; Geology
+GA MH7LQ
+UT WOS:000546906200012
+OA Bronze
+DA 2021-07-21
+ER
+
+PT J
+AU Gioria, M
+   Osborne, BA
+AF Gioria, Margherita
+   Osborne, Bruce A.
+TI Biological Flora of the British Isles: Gunnera tinctoria
+SO JOURNAL OF ECOLOGY
+LA English
+DT Article
+DE climatic limitation; communities; ecophysiology; geographical and
+   altitudinal distribution; germination; Gunnera-Nostoc symbiosis;
+   herbivory; reproductive biology; seed bank; soils
+ID MOLINA MIRBEL; SPECIES INVASIVENESS; NITROGEN-FIXATION;
+   MEDICINAL-PLANTS; NOSTOC; PHYLOGENY; INVASIONS; CYANOBACTERIA;
+   POPULATIONS; DIVERSITY
+AB 1. This account presents information on all aspects of the biology of Gunnera tinctoria (Molina) Mirb. (G. chilensis Lam.; G. scabra Ruix & Pav.; G. pilosa Kunth) that are relevant to understanding its ecological characteristics and behaviour. The main topics are presented within the standard framework of the Biological Flora of the British Isles: distribution, habitat, communities, responses to biotic factors, responses to environment, structure and physiology, phenology, floral and seed characters, herbivores and disease, history and conservation.
+   2. Gunnera tinctoria is a gynomonoecious, clonal, perennial herb that is naturalized in parts of Britain, becoming invasive in parts of Ireland and, more recently, Scotland. It occurs where winter temperatures are mild, and precipitation and humidity are high. Gunnera tinctoria is native to South America, predominantly in the Andean region of Chile and Colombia, and probably in parts of Argentina, ranging from sea level to c. 2000 m a.s.l.
+   3. Typical habitats in Britain and Ireland include stream and river banks, lake and pond margins, coastal cliffs, as well as disturbed areas, such as roadsides, quarries and ditches. In its native range it occurs predominantly on the banks of rivers and streams, on coastal cliffs and within canopy gaps or at the margins of temperate-humid rain forests.
+   4. Gunnera tinctoria occurs on a variety of substrates, mainly on alluvial or colluvial soils derived from volcanic material or on thin gley soils of marine origin. In Ireland, it occurs naturally on soils with a pH ranging from 4.6 to 6.2 and has been cultivated in soils with a pH up to 7. Soil moisture content and soil organic matter vary greatly, although it rarely colonizes highly organic soils such as peat. It is susceptible to even mild water deficits at all stages of development, and its seedlings are also sensitive to waterlogged conditions.
+   5. Gunnera tinctoria produces large numbers of seeds and also spreads clonally, by a horizontal rhizome system. It is wind pollinated, although insect pollination has been reported in New Zealand. Seeds are likely to be predominantly water and/or bird dispersed. In its invasive range, it can form a large and persistent soil seed bank. Recruitment from seeds seems to be important for its initial establishment, while vegetative propagation is the main means of expansion, leading to dense clonal stands. Long-distance seed dispersal seems to be central to the colonization of new areas, although the transport of vegetative propagules may also be important.
+   6. Gunnera tinctoria is a strong competitor in its invasive range, particularly in wet, humid environments. Its competitive ability arises from its large stature, the persistence of its seeds and rhizomes and a capacity for fixing nitrogen through a unique intracellular symbiosis with cyanobacteria (Nostoc) that may be particularly important for supporting the rapid growth of established plants early in the spring.
+C1 [Gioria, Margherita] Univ Giessen, Inst Plant Ecol, D-35392 Giessen, Germany.
+   [Gioria, Margherita; Osborne, Bruce A.] Univ Coll Dublin, UCD Sch Biol & Environm Sci, Dublin 4, Ireland.
+RP Gioria, M (corresponding author), Univ Giessen, Inst Plant Ecol, D-35392 Giessen, Germany.
+EM margheritagioria1@gmail.com
+RI Gioria, Margherita/G-6390-2014
+OI Gioria, Margherita/0000-0002-0574-4688
+FU Irish Environmental Protection Agency (EPA)United States Environmental
+   Protection Agency; EPAUnited States Environmental Protection Agency;
+   Irish Council for Science and Technology; Botany Department/UCD School
+   of Biology and Environmental Science, through Research Demonstratorships
+FX We thank Louis Ronse De Craene, Robert Northridge, Robin Reid, Tim Rich,
+   Luis Silva, Ann Thompson, Carol West and Livia Wanntorp for providing
+   information on the characteristics and distribution of this species. We
+   are grateful to Ann Cullen, Liam Kavanagh, Bridget Moran, Ray O'Hare and
+   Eugene Sherry, at the UCD School of Biology and Environmental Science,
+   for their assistance in the field and with laboratory experiments. We
+   are also grateful to all those graduate, undergraduate and post-doctoral
+   researchers whose work contributed substantially to generating essential
+   information used in this account; these include Betsy Hickey, Garret
+   Campbell, Jane Hennessy, Kevin Black, Germaine Leveille, Carol Bruce,
+   Fiona Doris, Mark Fennell and Cristina Armstrong, as well as staff
+   members Jan-Robert Baars, Gerry Doyle, Tommy Gallagher, Bernard Kay,
+   Martin Steer and Graham Wilson. M. Gioria thanks the Irish Environmental
+   Protection Agency (EPA) for providing the funding necessary to conduct
+   field work and laboratory experiments and to support her research
+   activities (ERTDI PhD Scholarship and STRIVE Fellowship) since 2004.
+   Part of the input to this work was funded by the EPA, the Irish Council
+   for Science and Technology and the former Botany Department/UCD School
+   of Biology and Environmental Science, through Research Demonstratorships
+   and other support. We are grateful to Chris Preston, Michael Proctor,
+   David Streeter and Michael Usher for their useful comments on the text
+   and additional information supplied. Sincere appreciation goes to Tony
+   Davy for his helpful comments on earlier versions of this manuscript and
+   for his detailed editing of the final manuscript.
+NR 160
+TC 13
+Z9 13
+U1 0
+U2 77
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-0477
+EI 1365-2745
+J9 J ECOL
+JI J. Ecol.
+PD JAN
+PY 2013
+VL 101
+IS 1
+BP 243
+EP 264
+DI 10.1111/1365-2745.12022
+PG 22
+WC Plant Sciences; Ecology
+SC Plant Sciences; Environmental Sciences & Ecology
+GA 130MQ
+UT WOS:000317922200026
+OA Bronze
+DA 2021-07-21
+ER
+
+EF

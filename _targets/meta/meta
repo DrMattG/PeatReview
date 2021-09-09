@@ -1,0 +1,35 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|iteration|parent|children|seconds|warnings|error
+words_agr|stem|251c0487fdd7dc4f|667cdbe604130a3a|a8f16cd8d6d7f7f8|-313364329||t18878.6352524395s|10da61cba4cac40f|44|rds|vector|||8.11|package igraph was built under R version 4.0.4|
+words_clim|stem|251c0487fdd7dc4f|da1061431a6fce18|43b2d6178ec38f5e|-1468490880||t18878.6437499972s|10da61cba4cac40f|44|rds|vector|||21.85|package igraph was built under R version 4.0.4|
+words_hydro|stem|251c0487fdd7dc4f|45685b7b28a83a2e|12f9bb6887a90934|-478682642||t18878.644060873s|10da61cba4cac40f|44|rds|vector|||26.84||
+words_Drain|stem|251c0487fdd7dc4f|521910c05fcd17cd|e6b6125405bab912|70867161||t18878.6446688093s|10da61cba4cac40f|44|rds|vector|||52.52||
+words_Gas|stem|251c0487fdd7dc4f|c1ece4326649ce75|ae136684adf4c206|-2055671529||t18878.6448404567s|10da61cba4cac40f|44|rds|vector|||14.82||
+words_F_on_P|stem|251c0487fdd7dc4f|87500b859318be7e|992d27c15559922b|1523906565||t18878.6532306004s|10da61cba4cac40f|44|rds|vector|||10.06|package igraph was built under R version 4.0.4|
+words_Carb|stem|251c0487fdd7dc4f|d8921b3aef38f966|44e252852add92cc|-280623349||t18878.6539062288s|10da61cba4cac40f|44|rds|vector|||35.03|package igraph was built under R version 4.0.4|
+words_Peat_acc|stem|251c0487fdd7dc4f|6e0aabedf93cff63|1d91e1be17becd8d|193516341||t18878.6560915943s|10da61cba4cac40f|44|rds|vector|||166|package igraph was built under R version 4.0.4|
+filelist|stem|01f72a9cb2943356|9643c6dc91d299e0|d76c30611304f311|290166324||t18878.6678144431s|b3c2ea86c69d555f|310|rds|vector|||2.19|package bibliometrix was built under R version 4.0.5|
+clim_corpus|stem|0d43ff1b4c5021f7|b0f91b0f175ac685|95c158befbf7fde2|-1184537652||t18878.6692710134s|9f5c5b61b82174ad|1773058|rds|vector|||8.43|package bibliometrix was built under R version 4.0.5|
+Hydrology_corpus|stem|cd8e2e750c768b5a|e06dfc8ca2f086d5|95c158befbf7fde2|1955922012||t18878.6693493922s|10ac4cf5b8752dcb|2063867|rds|vector|||6.41||
+Drain_corpus|stem|13a3290e0fab6d61|91c8875b0d3525af|95c158befbf7fde2|-1899397208||t18878.6694647317s|7f0a1c58d6b9380b|3078802|rds|vector|||9.41||
+Gas_corpus|stem|422c38fba0c776d6|0804ad657caa98b4|95c158befbf7fde2|71576758||t18878.6695202512s|dfeb167ade657dd0|1403257|rds|vector|||4.53||
+Peat_RM_corpus|stem|62a2b20bf4a643e3|3003c748ea41eb8e|95c158befbf7fde2|-1825176648||t18878.6696355311s|43188b6240ef0b4c|3742564|rds|vector|||9.35||
+Agri_corpus|stem|0f12394c2fdfda50|4bad87362dfc7a57|95c158befbf7fde2|231177320||t18878.6696610797s|7b3b963299759823|668578|rds|vector|||2.06||
+F_on_P_corpus|stem|b6db6562b55334f1|7de15abed8b2d460|95c158befbf7fde2|-1187985133||t18878.6696865121s|fc12e952fb404f21|683712|rds|vector|||2.07||
+all_corpus|stem|7ee0011480c0a9a9|bda998edef793480|23e86b642f7f126e|-271310371||t18878.670372639s|fa359fbf957705d1|17507435|rds|vector|||55.66||
+Peat_acc_corpus|stem|2dd007eae2dfe167|b1c627d65449a80e|95c158befbf7fde2|1151641148||t18878.6706380511s|731cf7c7511c89e7|6069170|rds|vector|||21.77||
+Carb_acc_corpus|stem|a82237f53f9fa055|8fd29b39423eddb0|95c158befbf7fde2|1243542825||t18878.6707351418s|ae104aaa04e83cf4|2159409|rds|vector|||7.95||
+words_Peat_RM|stem|251c0487fdd7dc4f|07ac8ec6360434f5|7b616fecd457d38c|384446242||t18878.6710464931s|10da61cba4cac40f|44|rds|vector|||26.85|package igraph was built under R version 4.0.4|
+all_wordC|stem|b52f5bf679446577|dae84f34f986310f|535192bd8ff1cba0|1109438732||t18878.67165476s|c10dc38963864832|188535|rds|vector|||52.5||
+get_cluster_words|function|6818eccce12cd689||||||||||||||
+create_wordcloud|function|0d6cd062e9b998ea||||||||||||||
+get_list_of_papers|function|6e15fc56e32a86e9||||||||||||||
+create_corpus|function|943f6d55a1243397||||||||||||||
+Peat_RM_papers|stem|a871ff94c483e288|242e991e5c54b945|9d52edac846aa841|-561931594||t18878.6857838935s|f45527eaf123702c|107677|rds|vector|||26.19|package igraph was built under R version 4.0.4|
+Drain_papers|stem|c3e6124cf565ffea|094f9a8e051e6d92|93d46dfef96c3c07|1037900991||t18878.6865563638s|5774bc32ad9eaa52|169638|rds|vector|||66.48||
+Carb_acc_papers|stem|e3d8bef508ef2fe3|4acab6ebcf635618|d0e3f07cb927eb42|-537653900||t18878.6868924567s|922d7b6ce6ab3943|108293|rds|vector|||28.86||
+Hydrology_papers|stem|fcb26d717465a464|b4e01a8dd2ae3282|1cf17b567f64bd1f|907484527||t18878.6872126428s|3a7a0262c876df57|110698|rds|vector|||27.51||
+Gas_papers|stem|3f6d51d5827b9f54|6677848dc857c8c1|e4f7da4807acf761|-480430657||t18878.687416159s|dc35298578e17ca8|75213|rds|vector|||17.49||
+F_on_P_papers|stem|bcfd2aed9d9de479|d05f6c3d2ad36818|90c9cff48d4e77f5|-1866133314||t18878.6874948991s|e20d496b949ebee1|41217|rds|vector|||6.74||
+Peat_acc_papers|stem|5029f77b1ae9249b|ecc167985a1bcd44|0742f898b47ff8e5|1594169582||t18878.6895827803s|66ba5ae91d70f35d|333090|rds|vector|||179.97||
+clim_papers|stem|04e7ba37dc2df91f|2db2ecc12e92d4d5|7b03ab77fb40dcd3|-794674166||t18878.6898451897s|e4f32e3b044e750f|89755|rds|vector|||22.55||
+Agri_papers|stem|3dffcfd05828bc69|a92a224299b51f22|f994976bb92f187e|396472628||t18878.6899203107s|3ba93ea06278ac39|40169|rds|vector|||6.42||

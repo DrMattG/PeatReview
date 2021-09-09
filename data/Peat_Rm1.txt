@@ -1,0 +1,2349 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Gronroos, J
+   Seppala, J
+   Koskela, S
+   Kilpelainen, A
+   Leskinen, P
+   Holma, A
+   Tuovinen, JP
+   Turunen, J
+   Lind, S
+   Maljanen, M
+   Martikainen, PJ
+AF Gronroos, Juha
+   Seppala, Jyri
+   Koskela, Sirkka
+   Kilpelainen, Antti
+   Leskinen, Pekka
+   Holma, Anne
+   Tuovinen, Juha-Pekka
+   Turunen, Jukka
+   Lind, Saara
+   Maljanen, Marja
+   Martikainen, Pertti J.
+TI Life-cycle climate impacts of peat fuel: calculation methods and
+   methodological challenges
+SO INTERNATIONAL JOURNAL OF LIFE CYCLE ASSESSMENT
+LA English
+DT Article
+DE Climate change; Energy; Land use; Life-cycle assessment; Peat fuel
+ID GREENHOUSE-GAS EMISSIONS; CO2 EXCHANGE; CARBON-DIOXIDE; METHANE FLUXES;
+   FINLAND; SOIL; CH4; RESPIRATION; PEATLANDS; CROPLANDS
+AB There has been lively debate, especially in Finland and Sweden, on the climate impacts of peat fuel. Previous studies of peat fuel's life-cycle climate impacts were controversial in their interpretation. The aim of this paper is conclusive examination of the issues of LCA methodology, derived from critical review of previous studies and recalculation based on the latest knowledge of greenhouse gas balances related to peat fuel's utilisation and the radiative forcing impacts of greenhouse gases.
+   The most recent findings on emissions and the gas fluxes between soil, vegetation and atmosphere were used in calculation of the life-cycle climate impacts of the various peat fuel utilisation chains by means of LCA methodology. In the main, the calculation methods and rules were the same as in the previous studies, with the aim being to distinguish the impact of peat fuel's utilisation from that of the natural or semi-natural situation. A dynamic method was employed for assessing changes in radiative forcing. The results of alternative peat fuel utilisation chains were compared to the corresponding result for coal.
+   There are many steps in peat fuel LCA, where different assumptions lead to different outcomes. Determining the functional unit, reference situations and system boundaries, as well as the emission calculation methods, is important from this point of view. Determination of the initial reference situation emerged as one of the critical points in the calculations. Time scale can strongly affect the final outcomes in a study where effects of long-term land-use change are considered.
+   Each peatland area is unique. The higher the greenhouse gas emissions in the initial reference situation, the greater is the climate impact of the area and the more suitable the area is for peat extraction. The study showed that more greenhouse gas flux measurements are needed, for better assessment of the climate impacts of different potential peat extraction sites. Climate change mitigation requires quick actions, and uncertainties related to emissions are higher for longer time spans. Therefore, it can be concluded that a perspective spanning more than 100 years is inappropriate in peat fuel's life-cycle climate impact assessments.
+C1 [Gronroos, Juha; Seppala, Jyri; Koskela, Sirkka] Finnish Environm Inst, Prod & Consumpt Ctr, Helsinki 00251, Finland.
+   [Kilpelainen, Antti; Leskinen, Pekka; Holma, Anne] Finnish Environm Inst, Prod & Consumpt Ctr, Joensuu 80101, Finland.
+   [Tuovinen, Juha-Pekka] Finnish Meteorol Inst, FIN-00101 Helsinki, Finland.
+   [Turunen, Jukka] Geol Survey Finland, Kuopio Unit, Kuopio 70211, Finland.
+   [Lind, Saara; Maljanen, Marja; Martikainen, Pertti J.] Univ Eastern Finland, Fac Sci & Forestry, Dept Environm Sci, Biogeochem Res Grp, Kuopio 70211, Finland.
+RP Gronroos, J (corresponding author), Finnish Environm Inst, Prod & Consumpt Ctr, POB 140, Helsinki 00251, Finland.
+EM juha.gronroos@ymparisto.fi
+RI Tuovinen, Juha-Pekka/AAZ-8587-2020
+OI Tuovinen, Juha-Pekka/0000-0001-7857-036X; Lind,
+   Saara/0000-0001-7701-533X; Maljanen, Marja/0000-0002-7454-0064
+FU Finnish Ministry of the Environment
+FX We would like to thank Jari Liski of the Finnish Environment Institute
+   for the Yasso modelling exercises. Financial support for this work was
+   provided by the Finnish Ministry of the Environment.
+NR 47
+TC 8
+Z9 8
+U1 1
+U2 44
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0948-3349
+EI 1614-7502
+J9 INT J LIFE CYCLE ASS
+JI Int. J. Life Cycle Assess.
+PD MAR
+PY 2013
+VL 18
+IS 3
+BP 567
+EP 576
+DI 10.1007/s11367-012-0512-x
+PG 10
+WC Engineering, Environmental; Environmental Sciences
+SC Engineering; Environmental Sciences & Ecology
+GA 089HC
+UT WOS:000314900600004
+DA 2021-07-21
+ER
+
+PT J
+AU FREDRIKSSON, D
+AF FREDRIKSSON, D
+TI SULFUR, URANIUM AND TRACE-ELEMENTS IN SWEDISH MIRES PLANNED FOR
+   FUEL-PEAT PRODUCTION
+SO JOURNAL OF GEOCHEMICAL EXPLORATION
+LA English
+DT Meeting Abstract
+C1 SVERIGES GEOL UNDERSOKNING,S-75128 UPPSALA,SWEDEN.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0375-6742
+J9 J GEOCHEM EXPLOR
+JI J. Geochem. Explor.
+PD JUL
+PY 1987
+VL 29
+IS 1-3
+BP 403
+EP 404
+DI 10.1016/0375-6742(87)90104-X
+PG 2
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA J8210
+UT WOS:A1987J821000038
+DA 2021-07-21
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI Ireland to build peat-fueled CFB plants
+SO POWER
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU MCGRAW HILL INC
+PI NEW YORK
+PA 1221 AVENUE OF THE AMERICAS, NEW YORK, NY 10020 USA
+SN 0032-5929
+J9 POWER
+JI Power
+PD NOV-DEC
+PY 2002
+VL 146
+IS 8
+BP 12
+EP +
+PG 3
+WC Energy & Fuels
+SC Energy & Fuels
+GA 618MY
+UT WOS:000179422900007
+DA 2021-07-21
+ER
+
+PT J
+AU CRUICKSHANK, MM
+   TOMLINSON, RW
+   BOND, D
+   DEVINE, PM
+   EDWARDS, CJW
+AF CRUICKSHANK, MM
+   TOMLINSON, RW
+   BOND, D
+   DEVINE, PM
+   EDWARDS, CJW
+TI PEAT EXTRACTION, CONSERVATION AND THE RURAL ECONOMY IN NORTHERN-IRELAND
+SO APPLIED GEOGRAPHY
+LA English
+DT Article
+AB Northern Ireland has a tradition of peat cutting; 78 per cent by area of remaining lowland bogs and 46 per cent of blanket bogs have been cut in the past, Since the early 1980s, machine peat extraction for fuel and horticulture has increased, against a background of changing economic support for agriculture, high rural unemployment and agricultural underemployment. Cutting fuel peat can reduce household fuel costs and some peat fuel is sold to gain income, Horticultural peat is cut mainly for sale, Expansion of machine extraction, with possible environmental impacts, occurred as interest in peatland conservation increased, Potential conflict arises between local economic needs and conservation, Machine cutting for fuel is widespread, but affects only 2.6 per cent of the blanket peat area; horticultural extraction is more localized and is only one-fifth of the extent of fuel extraction, Altitude, distance from roads, land ownership and rights, turbary, religious affiliation, local economic needs and the role of government departments all contribute to explaining the distribution and extent of extraction.
+C1 UNIV ULSTER,ULSTER BUSINESS SCH,JORDANSTOWN BT37 0QB,NORTH IRELAND.
+   QUEENS UNIV BELFAST,CTR SOCIAL RES,BELFAST BT7 1JT,ANTRIM,NORTH IRELAND.
+   UNIV ULSTER,DEPT ENVIRONM STUDIES,COLERAINE BT52 1SA,LONDONDERRY,NORTH IRELAND.
+RP CRUICKSHANK, MM (corresponding author), QUEENS UNIV BELFAST,SCH GEOSCI,BELFAST BT7 1NN,ANTRIM,NORTH IRELAND.
+NR 32
+TC 17
+Z9 17
+U1 0
+U2 10
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA LINACRE HOUSE JORDAN HILL, OXFORD, OXON, ENGLAND OX2 8DP
+SN 0143-6228
+J9 APPL GEOGR
+JI Appl. Geogr.
+PD OCT
+PY 1995
+VL 15
+IS 4
+BP 365
+EP 383
+DI 10.1016/0143-6228(95)00017-X
+PG 19
+WC Geography
+SC Geography
+GA RX220
+UT WOS:A1995RX22000004
+DA 2021-07-21
+ER
+
+PT J
+AU LARGE, ARG
+   HAMILTON, AC
+AF LARGE, ARG
+   HAMILTON, AC
+TI THE DISTRIBUTION, EXTENT AND CAUSES OF PEAT LOSS IN CENTRAL AND
+   NORTHWEST IRELAND
+SO APPLIED GEOGRAPHY
+LA English
+DT Article
+ID BLANKET PEAT; EROSION; VEGETATION; WALES; SOILS
+C1 WORLD WIDE FUND NAT,GODALMING GU7 1XR,SURREY,ENGLAND.
+RP LARGE, ARG (corresponding author), LOUGHBOROUGH UNIV TECHNOL,DEPT GEOG,LOUGHBOROUGH LE11 3TU,LEICS,ENGLAND.
+NR 52
+TC 5
+Z9 5
+U1 0
+U2 0
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0143-6228
+J9 APPL GEOGR
+JI Appl. Geogr.
+PD OCT
+PY 1991
+VL 11
+IS 4
+BP 309
+EP 326
+DI 10.1016/0143-6228(91)90020-A
+PG 18
+WC Geography
+SC Geography
+GA GK996
+UT WOS:A1991GK99600004
+DA 2021-07-21
+ER
+
+PT J
+AU Lundholm, K
+   Nordin, A
+   Ohman, M
+   Bostrom, D
+AF Lundholm, K
+   Nordin, A
+   Ohman, M
+   Bostrom, D
+TI Reduced bed agglomeration by co-combustion biomass with peat fuels in a
+   fluidized bed
+SO ENERGY & FUELS
+LA English
+DT Article
+ID COMBUSTION; SYSTEMS
+AB Fluidized bed combustion is an energy conversion technology that is very suitable for biomass combustion because of its fuel flexibility and low process temperatures. However, agglomeration of bed material may cause severe operating problems. To prevent or at least reduce this, peat has been suggested as an additive to the main fuels. Nevertheless, the characteristics of peat fuels vary and there is limited information of the effect of different peat fuels and of the mechanisms behind the agglomeration prevention. The objectives of the present work were therefore to: (i) quantify the potential positive effect by co-combustion peat with forest fuels in terms of initial agglomeration temperatures; (ii) determine the amount of peat fuel that is needed to significantly reduce the agglomeration tendencies; and, if possible, (iii) elucidate the governing mechanisms. The results showed that all peat fuels prevented agglomeration in the studied interval of 760-1020 degrees C and even as little as 5% peat fuel was found to have significant effects. The results also indicated that the mechanism of the agglomeration prevention varies between different peat fuels. Possible mechanisms are the minerals in the peat fuel retain alkali, which then is either elutriated up from the bed or captured in the bed; calcium and other refractory elements increase the melting temperature and thereby counteract the melting of alkali; and sulfur reacts with alkali metals and the alkali sulfates is either elutriated up from the bed or prevents agglomeration by increased melting temperature and lowered viscosity. Results from elemental analysis of the coating on bed particles showed that all mixtures with peat fuel resulted in a decreased or unchanged fraction of potassium and an increased fraction of aluminum in the coatings. The results also indicated a complex relationship between the fuel inorganic contents and the agglomeration process.
+C1 Umea Univ, SE-90187 Umea, Sweden.
+RP Lundholm, K (corresponding author), Umea Univ, SE-90187 Umea, Sweden.
+EM karin.lundholm@chem.umu.se
+RI Nordin, Anders/F-5717-2015
+NR 21
+TC 34
+Z9 34
+U1 0
+U2 23
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0887-0624
+J9 ENERG FUEL
+JI Energy Fuels
+PD NOV-DEC
+PY 2005
+VL 19
+IS 6
+BP 2273
+EP 2278
+DI 10.1021/ef050071p
+PG 6
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA 985ZW
+UT WOS:000233419100010
+DA 2021-07-21
+ER
+
+PT J
+AU HUHTALA, K
+   JARVENPAA, A
+   PIIRAINEN, V
+   LEHTOVAARA, J
+AF HUHTALA, K
+   JARVENPAA, A
+   PIIRAINEN, V
+   LEHTOVAARA, J
+TI ASSESSING THE QUALITY OF THE SAMPLING OF FUEL PEAT USING
+   COMPUTER-SIMULATION
+SO FUEL
+LA English
+DT Article
+DE PEAT; SAMPLING; COMPUTER SIMULATION
+AB A simulation scheme to assess and improve the performance of the sampling of fuel peat is considered. The scheme provides a practical possibility to inspect all possible sources of variation and error. Test results from a district heating plant are reported.
+C1 DASER OY,SF-40520 JYVASKYLA,FINLAND.
+   VAPO OY,CENT ADM,SF-40101 JYVASKYLA,FINLAND.
+RP HUHTALA, K (corresponding author), UNIV JYVASKYLA,DEPT STAT,POB 35,SF-40351 JYVASKYLA,FINLAND.
+NR 8
+TC 1
+Z9 1
+U1 0
+U2 0
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA LINACRE HOUSE JORDAN HILL, OXFORD, OXON, ENGLAND OX2 8DP
+SN 0016-2361
+J9 FUEL
+JI Fuel
+PD DEC
+PY 1995
+VL 74
+IS 12
+BP 1910
+EP 1912
+DI 10.1016/0016-2361(95)80027-F
+PG 3
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA TK360
+UT WOS:A1995TK36000027
+DA 2021-07-21
+ER
+
+PT J
+AU Kim, M
+   Lee, KH
+   Han, SH
+   Lee, SJ
+   Kim, CG
+   Choi, JH
+   Hwang, SH
+   Park, SB
+AF Kim, Myeongkyu
+   Lee, Kyu Hoon
+   Han, Seung Hoon
+   Lee, Sung Jae
+   Kim, Choong-Gon
+   Choi, Jae Ho
+   Hwang, Sun Hee
+   Park, Si-Bog
+TI Effect of Peat Intervention on Pain and Gait in Patients with Knee
+   Osteoarthritis: A Prospective, Double-Blind, Randomized, Controlled
+   Study
+SO EVIDENCE-BASED COMPLEMENTARY AND ALTERNATIVE MEDICINE
+LA English
+DT Article
+ID MUD PACK; HUMIC SUBSTANCES; MANAGEMENT; RECOMMENDATIONS; INFLAMMATION;
+   BIOMARKERS; SEVERITY; THERAPY; UPDATE; MOTION
+AB Background/Purpose. Peat is a plant material that is decayed in anaerobic and acidic conditions. Peat is known for its pain relief effect on degenerative and rheumatologic diseases for hundreds of years. This research aims to see effects of peat intervention on knee osteoarthritis patients' pain, biomarkers, and parameters about gait. Methods. Knee osteoarthritis patients with Visual Analog Scale (VAS) of 3 or more and Kellgren-Lawrence osteoarthritis grades 1 to 3 were included. Patients with history of intraarticular injection treatment were excluded. Forty-one participants were randomly allocated to the peat intervention group (n = 22) or the hot-pack-only control group (n = 19). Peat and hot pack were applied to both knees of each group of patients. Each intervention session lasted 20 minutes, and eight sessions were completed over five days. VAS, serum cartilage oligomeric matrix protein (COMP), and gait parameters were evaluated before and after the whole interventions. Results. VAS in the peat group decreased from 6.000 to 3.409 after intervention (p<0.001) and also decreased in the control group from 5.737 to 4.421 (p<0.001). VAS score reduction between two periods was greater in the peat group than that in the control group (p<0.001). There was no significant difference in the serum COMP level in either intergroup or intragroup analysis. In gait analysis, the gait velocity of the peat group increased from 0.781 m/s to 0.873 m/s after intervention (p=0.002), while it decreased in the control group. The knee varus/valgus range of motion during gaits was reduced from 11.455 degrees to 8.439 degrees after intervention in the peat group (p=0.006). Conclusions. This study showed that peat can be considered as a therapeutic option for pain relief of knee osteoarthritis patients. The reduction in knee joint varus/valgus range of motion and the increase in gait velocity after peat intervention were also identified through this research, which is the first to analyze the effects of peat on gait.
+C1 [Kim, Myeongkyu; Lee, Kyu Hoon; Park, Si-Bog] Hanyang Univ, Dept Rehabil Med, Coll Med, 222 Wangsimni Ro, Seoul, South Korea.
+   [Han, Seung Hoon] Hanyang Univ, Dept Rehabil Med, Gun Hosp, 153 Gyeongchun Ro, Guri Si, Gyeonggi Do, South Korea.
+   [Lee, Sung Jae] Korea Univ, Dept Integrat Med, Sch Med, 73 Goryeodae Ro, Seoul, South Korea.
+   [Kim, Choong-Gon; Choi, Jae Ho] Korea Inst Ocean Sci Technol, Marine Ecosyst Res Ctr, 385 Haeyang Ro, Busan, South Korea.
+   [Choi, Jae Ho] Korea Maritime & Ocean Univ, Ocean Sci & Technol Sch, Rbiotech Co, 727 Taejong Ro, Busan, South Korea.
+   [Hwang, Sun Hee] Rbiotech Co Ltd, Med Business Dept, Corp Res Inst, 2-409,775 Gyeongin Ro, Seoul, South Korea.
+RP Park, SB (corresponding author), Hanyang Univ, Dept Rehabil Med, Coll Med, 222 Wangsimni Ro, Seoul, South Korea.
+EM sibopark@hanyang.ac.kr
+OI Kim, Myeongkyu/0000-0001-6782-9284; KIM, Choong-Gon/0000-0003-4907-5540;
+   HWANG, SUNHEE/0000-0002-0394-3624
+FU Ministry of Oceans and Fisheries, Korea [20170242]
+FX This research was part of a project titled "The base study to discover
+   and to commercialize for the resources of sea healing to activate marine
+   industry," funded by the Ministry of Oceans and Fisheries, Korea (grant
+   no. 20170242).
+NR 44
+TC 0
+Z9 0
+U1 0
+U2 2
+PU HINDAWI LTD
+PI LONDON
+PA ADAM HOUSE, 3RD FLR, 1 FITZROY SQ, LONDON, W1T 5HF, ENGLAND
+SN 1741-427X
+EI 1741-4288
+J9 EVID-BASED COMPL ALT
+JI Evid.-based Complement Altern. Med.
+PD JAN 20
+PY 2020
+VL 2020
+AR 8093526
+DI 10.1155/2020/8093526
+PG 8
+WC Integrative & Complementary Medicine
+SC Integrative & Complementary Medicine
+GA KI2SJ
+UT WOS:000511200100004
+PM 32419828
+OA DOAJ Gold, Green Published
+DA 2021-07-21
+ER
+
+PT J
+AU SALONEN, V
+AF SALONEN, V
+TI RELATIONSHIP BETWEEN THE SEED RAIN AND THE ESTABLISHMENT OF VEGETATION
+   IN 2 AREAS ABANDONED AFTER PEAT HARVESTING
+SO HOLARCTIC ECOLOGY
+LA English
+DT Article
+RP SALONEN, V (corresponding author), UNIV JYVASKYLA,DEPT BIOL,YLIOPISTONKATU 9,SF-40100 JYVASKYLA,FINLAND.
+NR 15
+TC 59
+Z9 63
+U1 1
+U2 13
+PU MUNKSGAARD INT PUBL LTD
+PI COPENHAGEN
+PA 35 NORRE SOGADE, PO BOX 2148, DK-1016 COPENHAGEN, DENMARK
+SN 0105-9327
+J9 HOLARCTIC ECOL
+PD SEP
+PY 1987
+VL 10
+IS 3
+BP 171
+EP 174
+PG 4
+WC Ecology
+SC Environmental Sciences & Ecology
+GA K1358
+UT WOS:A1987K135800003
+DA 2021-07-21
+ER
+
+PT J
+AU Pavey, B
+   Saint-Hilaire, A
+   Courtenay, S
+   Ouarda, T
+   Bobee, B
+AF Pavey, Bronwyn
+   Saint-Hilaire, Andre
+   Courtenay, Simon
+   Ouarda, Taha
+   Bobee, Bernard
+TI Exploratory study of suspended sediment concentrations downstream of
+   harvested peat bogs
+SO ENVIRONMENTAL MONITORING AND ASSESSMENT
+LA English
+DT Article
+DE drainage; harvesting; peat bogs; sedimentation ponds; suspended sediment
+ID RUNOFF; FIELD
+AB Peat bog harvesting is an important industry in many countries, including Canada. To harvest peat, bogs are drained and drainage water is evacuated towards neighboring rivers, estuaries or coastal waters. High suspended sediment concentrations (SSC) were found in the drainage water at one particular site during the 2001-2002 spring seasons in New Brunswick (Canada). The main objective of this study was to verify this observation at other sites, compare SSC levels leaving harvested peat bogs with those leaving an unharvested bog, and to determine if high SSC events happen only in Spring or all year round. Suspended sediment concentrations were monitored downstream of three harvested peat bogs and an unharvested reference bog located in New Brunswick during the ice free seasons of 2003-2004. On average, SSC at the harvested sites exceeded 25 mg/l, which is the recommended daily maximum concentration, 72% of the time, while the same concentration was exceeded 30% of the time at the unharvested sites. SSC were found to be significantly higher at harvested sites than at the reference sites for all seasons. The highest SSC medians were recorded in the Fall but SSC was elevated in all seasons. High SSC levels in receiving waters may be caused by field ditching activities and insufficient sediment controls. Findings suggest the NB Peat Harvesting 25 mg/l SSC guideline should be reviewed.
+C1 INRS ETE, Chair Stat Hydrol, Quebec City, PQ G1K 9A9, Canada.
+   Univ New Brunswick, Dept Biol, Canadian Rivers Inst, Fredericton, NB E3B 6E1, Canada.
+RP Pavey, B (corresponding author), INRS ETE, Chair Stat Hydrol, 490 Rue Couronne, Quebec City, PQ G1K 9A9, Canada.
+EM bronwyn.pavey@jacqueswhitford.com; andre_saint-hilaire@ete.inrs.ca;
+   courtens@unb.ca; taha_ouarda@ete.inrs.ca
+NR 31
+TC 19
+Z9 19
+U1 0
+U2 8
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0167-6369
+J9 ENVIRON MONIT ASSESS
+JI Environ. Monit. Assess.
+PD DEC
+PY 2007
+VL 135
+IS 1-3
+BP 369
+EP 382
+DI 10.1007/s10661-007-9656-8
+PG 14
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 229XL
+UT WOS:000250839800032
+PM 17505907
+DA 2021-07-21
+ER
+
+PT J
+AU MUSTONEN, R
+   JANTUNEN, M
+   REPONEN, A
+   NYRONEN, T
+AF MUSTONEN, R
+   JANTUNEN, M
+   REPONEN, A
+   NYRONEN, T
+TI ARTIFICIAL RADIOACTIVITY IN FUEL PEAT AND PEAT FLY-ASH IN FINLAND AFTER
+   THE CHERNOBYL ACCIDENT
+SO HEALTH PHYSICS
+LA English
+DT Meeting Abstract
+C1 VAPO LTD, SF-40101 JYVASKYLA, FINLAND.
+   FINNISH CTR RADIAT & NUCL SAFETY, SF-00101 HELSINKI, FINLAND.
+   NATL PUBL HLTH INST, DEPT ENVIRONM HYG & TOXICOL, SF-70701 KUOPIO, FINLAND.
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0017-9078
+EI 1538-5159
+J9 HEALTH PHYS
+JI Health Phys.
+PY 1987
+VL 52
+SU 1
+BP S9
+EP S9
+PG 1
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA H6608
+UT WOS:A1987H660800024
+DA 2021-07-21
+ER
+
+PT J
+AU LENTACKER, F
+AF LENTACKER, F
+TI 4 CENTURIES OF PEAT-HARVESTING - THE PEAT INDUSTRY IN GRONINGEN,
+   FRIESLAND, DRENTHE AND OVERYSSEL BETWEEN 1550 AND 1950 - DUTCH -
+   GERDING,MAW
+SO REVUE DU NORD
+LA French
+DT Book Review
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 1
+PU UNIV CHARLES DE GAULLE -LILLE III
+PI VILLENEUVE DASCQ
+PA REVUE DU NORD PONT DE BOIS B P 149, 59653 VILLENEUVE DASCQ, FRANCE
+SN 0035-2624
+J9 REV NORD
+JI Rev. Nord.
+PD JAN-MAR
+PY 1996
+VL 78
+IS 314
+BP 121
+EP 122
+PG 2
+WC History
+SC History
+GA UQ138
+UT WOS:A1996UQ13800021
+DA 2021-07-21
+ER
+
+PT J
+AU Jarasius, L
+   Lygis, V
+   Sendzikaite, J
+   Pakalnis, R
+AF Jarasius, Leonas
+   Lygis, Vaidotas
+   Sendzikaite, Jurate
+   Pakalnis, Romas
+TI Effect of Different Hydrological Restoration Measures in Aukstumala
+   Raised Bog Damaged by Peat Harvesting Activities
+SO BALTIC FORESTRY
+LA English
+DT Article
+DE anthropogenic disturbance; drainage; hydrological restoration
+   (rewetting); Lithuania; peatland degradation; raised bog; water table
+   depth
+ID DRAINED PINE MIRES; TABLE FLUCTUATIONS; WATER; PEATLANDS; VEGETATION;
+   BLOCKING; ECOLOGY; CLIMATE; IMPACT
+AB Anthropogenic disturbance (drainage and peat harvesting works in adjacent area) accelerates water outflow from and mineralization of top peat layer in the raised bog of Aukstumala Telmological Reserve (Western Lithuania) thus inducing peatland degradation and promoting penetration of atypical plant species and woody vegetation. Possibilities of restoration of the most affected parts of the Aukstumala raised bog (contact zone of the bog and peat harvesting fields) were investigated. Specifically, we aimed to assess effectiveness of two different means of hydrological regime restoration installed in the contact zone: (i) bog isolation from peat harvesting fields (to prevent direct water runoff) using polyethylene membrane (PM measure, installed in November 2006) and "peat lock" system (PL measure: water runoff blocked by highly decomposed peat; installed in November 2010), and (ii) blocking of ditches of the old drainage system using peat dams (PD measure, installed in November 2012). The research was carried out by performing monthly (from April to October) water level measurements in a system of water level monitoring profiles installed in zones of impact of each measure and non-treated (control) areas. Moreover, dendrochronological analysis of pine growth was performed in PM-treated and control areas.
+   Although in general positive effect of the applied treatments (raised water table, reduced amplitudes of seasonal water level fluctuation, reduced radial increment of pine trees, re-establishment of Sphagnum cover) could be observed, none of the three measures has fully restored hydrological regime to create favourable conditions for peat accumulation and thriving of typical raised bog communities. The results of the present study suggest that aiming to more efficiently regulate hydrological regime in drainage-affected parts of the Aukstumala raised bog, blocking or filling of the old drainage system should always be applied in combination with the installation of water insulation measures along the contact zone of the bog and peat harvesting fields. Longer observation time is needed to fully assess the effect of the installed restoration measures on hydrology and ecosystem functioning in the raised bog of Aukstumala Telmological Reserve.
+C1 [Jarasius, Leonas; Lygis, Vaidotas; Sendzikaite, Jurate; Pakalnis, Romas] Nat Res Ctr, Inst Bot, Zaliuju Ezeru Str 49, LT-08406 Vilnius, Lithuania.
+RP Jarasius, L (corresponding author), Nat Res Ctr, Inst Bot, Zaliuju Ezeru Str 49, LT-08406 Vilnius, Lithuania.
+EM leonas.jarasius@botanika.lt
+RI Lygis, Vaidotas/I-6242-2019
+OI Lygis, Vaidotas/0000-0001-5121-2052
+FU JSC Klasmann-Deilmann Silute
+FX The authors are grateful to Dr. Zivile Lazdauskaite and Dr. Laima
+   Sveistyte for assistance during the field work. We are also grateful to
+   the JSC Klasmann-Deilmann Silute for financial support.
+NR 50
+TC 2
+Z9 2
+U1 0
+U2 23
+PU INST FORESTRY LRCAF
+PI KAUNAS DISTRICT
+PA LIEPU 1, KAUNAS DISTRICT, LT-53101, LITHUANIA
+SN 1392-1355
+J9 BALT FOR
+JI Baltic For.
+PY 2015
+VL 21
+IS 2
+BP 192
+EP 203
+PG 12
+WC Forestry
+SC Forestry
+GA DB8HN
+UT WOS:000368757900003
+DA 2021-07-21
+ER
+
+PT J
+AU Kirkinen, J
+   Minkkinen, K
+   Penttila, T
+   Kojola, S
+   Sievanen, R
+   Alm, J
+   Saarnio, S
+   Silvan, N
+   Laine, J
+   Savolainen, I
+AF Kirkinen, Johanna
+   Minkkinen, Kari
+   Penttila, Timo
+   Kojola, Soili
+   Sievanen, Risto
+   Alm, Jukka
+   Saarnio, Sanna
+   Silvan, Niko
+   Laine, Jukka
+   Savolainen, Ikka
+TI Greenhouse impact due to different peat fuel utilisation chains in
+   Finland - a life-cycle approach
+SO BOREAL ENVIRONMENT RESEARCH
+LA English
+DT Article
+ID EMISSIONS; CO2
+AB Greenhouse impacts of different peat fuel utilisation chains were studied. A life cycle approach was used in order to cover all important emissions and sinks due to activities linked to the peat fuel production and utilisation. Radiative forcing was used to describe the greenhouse impact, and the results are given per one petajoule of energy produced. Carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) emissions and sinks were considered. Investigated peat production reserves were pristine peatland (fen), forestry-drained peatland, and cultivated (cropland) peatland. The considered phases of the peat utilisation chain included peat fuel production, storage, transport, combustion and the after-treatment of the cut-away peatland. After-treatment alternatives were afforestation and restoration. The greenhouse impact of a considered peat fuel chain was calculated by subtracting the emissions/sinks of a production reserve in a state of non-utilisation from the emissions/sinks of peat utilisation chain. According to the results, the most climate-friendly peat production chain is cultivated peatland-afforestation. Cultivated peatland has large greenhouse gas emissions and these emissions from the land area are ceased by the removal of the peat layer, when the area is utilised for peat fuel production. If forestry-drained peatland or pristine fen is used for peat fuel production, the greenhouse impacts of these chains are of the order of the greenhouse impact of the utilisation chain for coal. Improvement of peat production and combustion methods can be applied to decrease to some extent the greenhouse effect of peat energy.
+C1 VTT Tech Res Ctr Finland, FI-02044 Espoo, Finland.
+   Univ Helsinki, Dept Forest Ecol, FI-00014 Helsinki, Finland.
+   Finnish Forest Res Inst, Vantaa Res Unit, FI-01301 Vantaa, Finland.
+   Finnish Forest Res Inst, Joensuu Res Unit, FI-80101 Joensuu, Finland.
+   Univ Joensuu, Dept Biol, FI-80101 Joensuu, Finland.
+   Finnish Forest Res Inst, Parkano Res Unit, FI-39700 Parkano, Finland.
+RP Kirkinen, J (corresponding author), VTT Tech Res Ctr Finland, POB 1000, FI-02044 Espoo, Finland.
+OI Penttila, Timo/0000-0002-0710-4131; Alm, Jukka/0000-0002-1470-8849
+NR 31
+TC 33
+Z9 34
+U1 1
+U2 18
+PU FINNISH ENVIRONMENT INST
+PI HELSINKI
+PA P O BOX 140, FIN-00251 HELSINKI, FINLAND
+SN 1239-6095
+J9 BOREAL ENVIRON RES
+JI Boreal Environ. Res.
+PD MAY 11
+PY 2007
+VL 12
+IS 2
+BP 211
+EP 223
+PG 13
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 172GV
+UT WOS:000246793000011
+DA 2021-07-21
+ER
+
+PT J
+AU Ong, TC
+   King, DW
+AF Ong, Ta-Chung
+   King, D. Whitney
+TI FUEL 38-Upgrading of peat to gas/liquid fuels in supercritical water
+   with catalysts
+SO ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY
+LA English
+DT Meeting Abstract
+CT 233rd National Meeting of the Cellulose-and-Renewable-Materials-Division
+   of the American-Chemical-Society (ACS)
+CY MAR 25-29, 2007
+CL Chicago, IL
+SP Amer Chem Soc (ACS), Cellulose & Renewable Mat Div
+C1 [Ong, Ta-Chung; King, D. Whitney] Colby Coll, Dept Chem, Waterville, ME 04901 USA.
+EM tong@colby.edu; dwking@colby.edu
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0065-7727
+J9 ABSTR PAP AM CHEM S
+JI Abstr. Pap. Am. Chem. Soc.
+PD MAR 25
+PY 2007
+VL 233
+MA 18-GEOC
+PG 1
+WC Chemistry, Multidisciplinary
+SC Chemistry
+GA V14GL
+UT WOS:000207722801850
+DA 2021-07-21
+ER
+
+PT J
+AU GLASS, DS
+   COOPER, DG
+   SHEPPARD, JD
+AF GLASS, DS
+   COOPER, DG
+   SHEPPARD, JD
+TI A CHEMICAL AND THERMAL PRETREATMENT PROCESS FOR THE DEWATERING OF
+   FUEL-GRADE PEAT
+SO CANADIAN JOURNAL OF CHEMICAL ENGINEERING
+LA English
+DT Article
+RP GLASS, DS (corresponding author), MCGILL UNIV,DEPT CHEM ENGN,3480 UNIV ST,MONTREAL H3A 2A7,QUEBEC,CANADA.
+NR 11
+TC 3
+Z9 3
+U1 0
+U2 1
+PU CANADIAN SOC CHEMICAL ENGINEERING
+PI OTTAWA
+PA 130 SLATER ST, STE 550, OTTAWA ON K1P 6E2, CANADA
+SN 0008-4034
+J9 CAN J CHEM ENG
+JI Can. J. Chem. Eng.
+PD JUN
+PY 1987
+VL 65
+IS 3
+BP 500
+EP 504
+DI 10.1002/cjce.5450650321
+PG 5
+WC Engineering, Chemical
+SC Engineering
+GA J3322
+UT WOS:A1987J332200021
+DA 2021-07-21
+ER
+
+PT J
+AU Mikhailov, AV
+AF Mikhailov, A. V.
+TI COAL-PEAT COMPOSITIONS FOR CO-COMBUSTION IN LOCAL BOILERS
+SO JOURNAL OF MINING INSTITUTE
+LA English
+DT Article
+DE coal fines; peat fuel; mixing; pelletizing; granular product
+AB In article results of experiments on creation of coal and peat fuel compositions for burning in solid-fuel boilers are described. The main objective of research consisted in development of combination of coal dust and natural peat without binding additives. The role of peat consists that it increases efficiency of process of granulation, being natural binding. The method of granulation allows to utilize waste of the coal industry. Joint burning of two types of fuel coal dust and peat reduces emission of sulfur dioxides. The cost of peat raw materials is lower, than artificial binding, applied to briquetting of coal dust. The composition of mix of coal dust and peat varied in the ratio 2:1, 1:1 and 1:2 in volume ratio at humidity of mix before extrusion of 65 %. In the course of preparatory operations of coal raw materials its crushing and sifting through sieve of 24 mesh (0,707 mm) was carried out. Procedure of hashing of samples of coal and peat was carried out before receiving homogeneous mixture. After hashing mix was located in piston press for receiving granules. Coal dust and wet peat pass semifixed extrusion on piston press with formation of cylindrical granules with a diameter of 16 mm. After extrusion of granule are dried to operational humidity of 25 %. Coal and peat fuel granules showed sufficient mechanical strength for transportation and power feed in solid-fuel boilers. Burning of coal and peat fuel granules in vitro at temperature of 800 degrees C does not lead to ashes agglomeration. The conducted preliminary researches showed prospects of utilization of coal waste by granulation method in mix with natural peat.
+C1 [Mikhailov, A. V.] St Petersburg Min Univ, Engn Sci, St Petersburg, Russia.
+RP Mikhailov, AV (corresponding author), St Petersburg Min Univ, Engn Sci, St Petersburg, Russia.
+EM epc68@mail.ru
+NR 16
+TC 5
+Z9 6
+U1 0
+U2 0
+PU SAINT-PETERSBURG MINING UNIV
+PI SANKT-PETERSBURG
+PA SAINT-PETERSBURG MINING UNIV, SANKT-PETERSBURG, 00000, RUSSIA
+SN 2411-3336
+EI 2541-9404
+J9 J MIN INST
+JI J. Min. Inst.
+PY 2016
+VL 220
+BP 538
+EP 544
+DI 10.18454/PMI.2016.4.538
+PG 7
+WC Mining & Mineral Processing
+SC Mining & Mineral Processing
+GA VH3GF
+UT WOS:000452661000002
+OA DOAJ Gold
+DA 2021-07-21
+ER
+
+PT J
+AU MUSTONEN, RA
+   REPONEN, AR
+   JANTUNEN, MJ
+AF MUSTONEN, RA
+   REPONEN, AR
+   JANTUNEN, MJ
+TI ARTIFICIAL RADIOACTIVITY IN FUEL PEAT AND PEAT ASH IN FINLAND AFTER THE
+   CHERNOBYL ACCIDENT
+SO HEALTH PHYSICS
+LA English
+DT Article
+C1 NATL PUBL HLTH INST, DEPT ENVIRONM HYG & TOXICOL, SF-70701 KUOPIO, FINLAND.
+RP MUSTONEN, RA (corresponding author), FINNISH CTR RADIAT & NUCL SAFETY, POB 268, SF-00101 HELSINKI, FINLAND.
+NR 21
+TC 4
+Z9 4
+U1 0
+U2 2
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0017-9078
+EI 1538-5159
+J9 HEALTH PHYS
+JI Health Phys.
+PD APR
+PY 1989
+VL 56
+IS 4
+BP 451
+EP 458
+DI 10.1097/00004032-198904000-00006
+PG 8
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA T9448
+UT WOS:A1989T944800006
+PM 2925384
+DA 2021-07-21
+ER
+
+PT J
+AU Tcvetkov, PS
+AF Tcvetkov, P. S.
+TI The history, present status and future prospects of the Russian fuel
+   peat industry
+SO MIRES AND PEAT
+LA English
+DT Article
+DE energy resources; local fuel; peat stocks; pyrolysis; Russian regions
+AB The purpose of this article is to review the history of the Russian fuel peat industry, analyse the prospects for its further development, and draw attention to its significant technical and economic potential. Russian peat resources represent more than 30 % of the global total. Peat production peaked during 1960-1980, when the volume of peat extraction was two orders of magnitude higher than it is now. The key factors that prevented further development of the Russian fuel peat industry were an inadequate regulatory framework for peat processing and the inability of peat extraction enterprises to overcome the energy supply monopoly of the coal, oil and gas industries. At present, the peat industry of the Russian Federation is in decline and its potential has been lost. Most of the power plants that previously operated on peat have been converted to coal and other fuels and, as a result, the occurrence of peatland fires has increased greatly. A case is made for revival of the industry to exploit peat as a local energy resource, employing modern processing techniques that can achieve full utilisation of the peat whilst reducing air pollution and generating little waste.
+C1 [Tcvetkov, P. S.] St Petersburg Min Univ, 21st Line,Bldg 2, St Petersburg 199106, Russia.
+RP Tcvetkov, PS (corresponding author), St Petersburg Min Univ, 21st Line,Bldg 2, St Petersburg 199106, Russia.
+EM pscvetkov@yandex.ru
+RI Tcvetkov, Pavel/A-3106-2016
+OI Tcvetkov, Pavel/0000-0002-3049-7893
+FU Russian Science FoundationRussian Science Foundation (RSF) [14-38-00009]
+FX This article is based on research that was supported financially by a
+   Russian Science Foundation grant (Project No. 14-38-00009, "The
+   program-targeted management of the Russian Arctic Zone development") to
+   Peter the Great St. Petersburg Polytechnic University.
+NR 30
+TC 13
+Z9 13
+U1 0
+U2 4
+PU INT PEAT SOC
+PI DUNDEE
+PA INT PEAT SOC, DUNDEE, DD1 4HN, ENGLAND
+SN 1819-754X
+J9 MIRES PEAT
+JI Mires Peat
+PY 2017
+VL 19
+AR 14
+DI 10.19189/MaP.2016.OMB.256
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA FF2JI
+UT WOS:000408723300005
+OA DOAJ Gold
+DA 2021-07-21
+ER
+
+PT J
+AU WUNTSCHOFF, T
+   ATANASSOV, O
+   KLOSE, E
+   RUSTSCHEV, D
+AF WUNTSCHOFF, T
+   ATANASSOV, O
+   KLOSE, E
+   RUSTSCHEV, D
+TI DIFFERENTIAL THERMOANALYTICAL STUDIES OF VARIOUS FUELS (PEAT AND BROWN
+   COAL) IN SCAVENGING GAS AT HIGH-PRESSURES
+SO JOURNAL OF THERMAL ANALYSIS
+LA German
+DT Article
+C1 HIGHER INST CHEM TECHNOL,BU-1156 SOFIA,BULGARIA.
+RP WUNTSCHOFF, T (corresponding author), BERG AKAD FREIBERG,DDR-9200 FREIBERG,GER DEM REP.
+NR 16
+TC 0
+Z9 0
+U1 0
+U2 0
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX, ENGLAND PO19 1UD
+SN 0368-4466
+J9 J THERM ANAL
+JI J. Therm. Anal.
+PD MAY-JUN
+PY 1988
+VL 34
+IS 3
+BP 793
+EP 799
+DI 10.1007/BF02331781
+PG 7
+WC Thermodynamics; Chemistry, Analytical; Chemistry, Physical
+SC Thermodynamics; Chemistry
+GA R8984
+UT WOS:A1988R898400023
+DA 2021-07-21
+ER
+
+PT J
+AU COOPER, DG
+   ECCLES, ERA
+   SHEPPARD, JD
+AF COOPER, DG
+   ECCLES, ERA
+   SHEPPARD, JD
+TI THE EFFECT OF CHARGED ADDITIVES AND HEAT PRETREATMENT ON THE DEWATERING
+   OF FUEL GRADE PEAT
+SO CANADIAN JOURNAL OF CHEMICAL ENGINEERING
+LA English
+DT Article
+RP COOPER, DG (corresponding author), MCGILL UNIV,DEPT CHEM ENGN,3480 UNIV ST,MONTREAL H3A 2A7,QUEBEC,CANADA.
+NR 12
+TC 3
+Z9 3
+U1 0
+U2 0
+PU CANADIAN SOC CHEMICAL ENGINEERING
+PI OTTAWA
+PA 130 SLATER ST, STE 550, OTTAWA ON K1P 6E2, CANADA
+SN 0008-4034
+J9 CAN J CHEM ENG
+JI Can. J. Chem. Eng.
+PD DEC
+PY 1988
+VL 66
+IS 6
+BP 945
+EP 949
+DI 10.1002/cjce.5450660608
+PG 5
+WC Engineering, Chemical
+SC Engineering
+GA T0601
+UT WOS:A1988T060100008
+DA 2021-07-21
+ER
+
+PT J
+AU Aich, S
+   Ewe, SML
+   Gu, B
+   Dreschel, TW
+AF Aich, S.
+   Ewe, S. M. L.
+   Gu, B.
+   Dreschel, T. W.
+TI An evaluation of peat loss from an Everglades tree island, Florida, USA
+SO MIRES AND PEAT
+LA English
+DT Article
+DE carbon; ghost tree island; nitrogen; peatland; phosphorus; restoration
+ID CARBON LOSS; AREA
+AB The tree islands of the Everglades are considered to be biodiversity "hotspots", where the majority of terrestrial species of the Everglades are found. Drainage for agricultural and urban development in the early 1900s has had a severe impact, converting many of them into "ghost tree islands" which have lost most of their woody vegetation and much of their altitude (elevation). A survey conducted in 1973 on one of the prominent ghost tree islands, named "Dineen Island", provides insights into the past. We compared the results of the 1973 survey with those of a survey conducted in 2009, in order to examine changes in Dineen Island that had taken place over 36 years and to provide information about general trends in the Everglades. Peat loss at Dineen Island was roughly 4 mm yr(-1). This subsidence, as a consequence of peat loss, has been accompanied by losses in nitrogen and phosphorus of 234 and 2.5 metric tons (4.5 and 0.05 metric tons per hectare), respectively. As many of the Everglades tree islands have been lost from the landscape due to historical water management practices, quantifying nutrient losses from this ecosystem may be useful in helping to predict non-anthropogenic nutrient biogeochemistry shifts in Everglades oligotrophy.
+C1 [Aich, S.] Photo Sci Geospatial Solut, St Petersburg, FL USA.
+   [Ewe, S. M. L.] Ecol & Environm Inc, W Palm Beach, FL USA.
+   [Gu, B.; Dreschel, T. W.] South Florida Water Management Dist, W Palm Beach, FL 33406 USA.
+RP Dreschel, TW (corresponding author), South Florida Water Management Dist, MSC 4352,3301 Gun Club Rd, W Palm Beach, FL 33406 USA.
+EM tdresche@sfwmd.gov
+NR 29
+TC 6
+Z9 6
+U1 1
+U2 15
+PU INT PEAT SOC
+PI DUNDEE
+PA INT PEAT SOC, DUNDEE, DD1 4HN, ENGLAND
+SN 1819-754X
+J9 MIRES PEAT
+JI Mires Peat
+PY 2014
+VL 14
+AR 02
+PG 15
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA AS3TR
+UT WOS:000344201500002
+OA DOAJ Gold
+DA 2021-07-21
+ER
+
+PT J
+AU Bastl, M
+   Stechova, T
+   Prach, K
+AF Bastl, Marek
+   Stechova, Tana
+   Prach, Karel
+TI Effect of disturbance on the vegetation of peat bogs with Pinus
+   rotundata in the Trebon Basin, Czech Republic
+SO PRESLIA
+LA English
+DT Article
+DE bark beetle; bog pine; bryophytes; fire; peat harvesting; regeneration;
+   species composition; succession; vascular plants; windthrow
+ID SUCCESSION
+AB Various stages in the succession of vegetation of peat bogs following disturbance were studied in the Trebon Basin, Czech Republic. The disturbance was of two types: (a) natural. represented by windthrow, with subsequent bark beetle attack, and fire. and (b) human-made peat digging and industrial peat milling. The species composition at different stages ill Succession following disturbance were compared with that in undisturbed plots. Regeneration of peat bog vegetation was faster after a natural than after human-made disturbance. The lowest impact was caused by windthrow, followed by fire. Regeneration after peat digging took much longer. Regeneration after industrial peat harvesting only occurred if the groundwater table level remained high.
+C1 [Bastl, Marek; Stechova, Tana; Prach, Karel] Univ S Bohemia, Fac Sci, Dept Bot, CZ-37005 Ceske Budejovice, Czech Republic.
+   [Prach, Karel] Acad Sci Czech Republ, Inst Bot, CZ-37982 Trebon, Czech Republic.
+RP Bastl, M (corresponding author), Univ S Bohemia, Fac Sci, Dept Bot, Branisovska 31, CZ-37005 Ceske Budejovice, Czech Republic.
+EM marek.bastl@prf.jcu.cz; jaksicov@prf.jcu.cz; prach@prf.jcu.cz
+RI Prach, Karel/H-1619-2014
+NR 36
+TC 15
+Z9 15
+U1 0
+U2 11
+PU CZECH BOTANICAL SOC
+PI PRAHA 2
+PA BENATSKA 2, PRAHA 2 12801, CZECH REPUBLIC
+SN 0032-7786
+J9 PRESLIA
+JI Preslia
+PD JUN
+PY 2009
+VL 81
+IS 2
+BP 105
+EP 117
+PG 13
+WC Plant Sciences
+SC Plant Sciences
+GA 463XP
+UT WOS:000267467700002
+DA 2021-07-21
+ER
+
+PT J
+AU Taylor, NG
+   Grillas, P
+   Fennessy, MS
+   Goodyer, E
+   Graham, LLB
+   Karofeld, E
+   Lindsay, RA
+   Locky, DA
+   Ockendon, N
+   Rial, A
+   Ross, S
+   Smith, RK
+   van Diggelen, R
+   Whinam, J
+   Sutherland, WJ
+AF Taylor, N. G.
+   Grillas, P.
+   Fennessy, M. S.
+   Goodyer, E.
+   Graham, L. L. B.
+   Karofeld, E.
+   Lindsay, R. A.
+   Locky, D. A.
+   Ockendon, N.
+   Rial, A.
+   Ross, S.
+   Smith, R. K.
+   van Diggelen, R.
+   Whinam, J.
+   Sutherland, W. J.
+TI A synthesis of evidence for the effects of interventions to conserve
+   peatland vegetation: overview and critical discussion
+SO MIRES AND PEAT
+LA English
+DT Article
+DE bog; fen; mire; peat swamp; restoration
+ID SPONTANEOUS REVEGETATION; MINED PEATLANDS; EVIDENCE-BASE; SWAMP FOREST;
+   RESTORATION; BIODIVERSITY; GAP; DISTURBANCE; SUCCESSION; SPHAGNUM
+AB Peatlands are valuable but threatened ecosystems. Intervention to tackle direct threats is often necessary, but should be informed by scientific evidence to ensure it is effective and efficient. Here we discuss a recent synthesis of evidence for the effects of interventions to conserve peatland vegetation - a fundamental component of healthy, functioning peatland ecosystems. The synthesis is unique in its broad scope (global evidence for a comprehensive list of 125 interventions) and practitioner-focused outputs (short narrative summaries in plain English, integrated into a searchable online database). Systematic literature searches, supplemented by recommendations from an international advisory board, identified 162 publications containing 296 distinct tests of 66 of the interventions. Most of the articles studied open bogs or fens in Europe or North America. Only 36 interventions were supported by sufficient evidence to assess their overall effectiveness. Most of these interventions (85 %) had positive effects, overall, on peatland vegetation although this figure is likely to have been inflated by publication bias. We discuss how to use the synthesis, critically, to inform conservation decisions. Reflecting on the content of the synthesis we make suggestions for the future of peatland conservation, from monitoring over appropriate timeframes to routinely publishing results to build up the evidence base.
+C1 [Taylor, N. G.; Grillas, P.] Tour du Valat, Arles, France.
+   [Fennessy, M. S.] Kenyon Coll, Gambier, OH 43022 USA.
+   [Goodyer, E.] IUCN UK Peatland Programme, Edinburgh, Midlothian, Scotland.
+   [Graham, L. L. B.] Borneo Orangutan Survival Fdn, Bogor, Indonesia.
+   [Karofeld, E.] Univ Tartu, Tartu, Estonia.
+   [Lindsay, R. A.] Univ East London, London, England.
+   [Locky, D. A.] MacEwan Univ, Edmonton, AB, Canada.
+   [Ockendon, N.; Smith, R. K.; Sutherland, W. J.] Univ Cambridge, Cambridge, England.
+   [Rial, A.] BioHabitat AC, Caracas, Venezuela.
+   [Ross, S.] Penny Anderson Associates, Buxton, Derby, England.
+   [van Diggelen, R.] Univ Antwerp, Antwerp, Belgium.
+   [Whinam, J.] Univ Tasmania, Hobart, Tas, Australia.
+RP Taylor, NG (corresponding author), Tour du Valat, Arles, France.; Taylor, NG (corresponding author), Res Inst Conservat Mediterranean Wetlands, F-13200 Arles, France.
+EM ngltaylor@yahoo.com
+RI Karofeld, Edgar/H-3628-2018
+OI Karofeld, Edgar/0000-0001-6533-8473
+FU MAVA Foundation; Arcadia
+FX Production of the Peatland Evidence Synthesis was funded by the MAVA
+   Foundation. WJS is funded by Arcadia. Stephanie Boudreau, Hans Joosten,
+   Tim Thom, Hakan Rydin, Jos Verhoeven and Lahiru Wijedasa acted as
+   advisors and/or assessors for the synthesis, in addition to those who
+   contributed to this article. Phil Martin, Silviu Petrovan, Ricardo
+   Rocha, Gorm Shackelford and Claire Wordley offered critical discussion.
+   We acknowledge the inputs of all other staff and volunteers who are, or
+   have been, involved in the Conservation Evidence project. Finally, we
+   thank the editors and the three anonymous reviewers for comments that
+   improved this article.
+NR 76
+TC 4
+Z9 4
+U1 2
+U2 7
+PU INT PEAT SOC
+PI DUNDEE
+PA INT PEAT SOC, DUNDEE, DD1 4HN, ENGLAND
+SN 1819-754X
+J9 MIRES PEAT
+JI Mires Peat
+PY 2019
+VL 24
+AR 18
+DI 10.19189/MaP.2018.OMB.379
+PG 21
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA IT2DQ
+UT WOS:000482659000008
+OA DOAJ Gold
+DA 2021-07-21
+ER
+
+PT J
+AU PISKORZ, J
+   MAJERSKI, P
+   SCOTT, DS
+AF PISKORZ, J
+   MAJERSKI, P
+   SCOTT, DS
+TI LIQUID FUELS FROM CANADIAN PEAT BY THE WATERLOO FAST PYROLYSIS PROCESS
+SO CANADIAN JOURNAL OF CHEMICAL ENGINEERING
+LA English
+DT Article
+RP PISKORZ, J (corresponding author), UNIV WATERLOO,DEPT CHEM ENGN,WATERLOO N2L 3G1,ONTARIO,CANADA.
+NR 7
+TC 2
+Z9 3
+U1 0
+U2 3
+PU CANADIAN SOC CHEMICAL ENGINEERING
+PI OTTAWA
+PA 130 SLATER ST, STE 550, OTTAWA ON K1P 6E2, CANADA
+SN 0008-4034
+J9 CAN J CHEM ENG
+JI Can. J. Chem. Eng.
+PD JUN
+PY 1990
+VL 68
+IS 3
+BP 465
+EP 472
+DI 10.1002/cjce.5450680317
+PG 8
+WC Engineering, Chemical
+SC Engineering
+GA DJ182
+UT WOS:A1990DJ18200017
+DA 2021-07-21
+ER
+
+PT J
+AU Mikhailov, AS
+   Piralishvili, SA
+   Stepanov, EG
+   Birfel'd, AA
+   Spesivtseva, NS
+AF Mikhailov, A. S.
+   Piralishvili, Sh. A.
+   Stepanov, E. G.
+   Birfel'd, A. A.
+   Spesivtseva, N. S.
+TI Effect of extrusion conditions on the thermophysical and mechanical
+   properties of fuel peat
+SO SOLID FUEL CHEMISTRY
+LA English
+DT Article
+AB The effect of extrusion conditions on the properties of peat briquettes was experimentally studied with the use of an industrial crank press with an open matrix. Regression equations were obtained for determining the density, mechanical strength in axial compression, hardness, and water absorption of fuel peat as functions of compacting pressure and feed moisture content. The dependences of the density, mechanical compression strength, and hardness of briquettes on the compacting pressure have a threshold behavior, which is responsible for their maximally accessible values at a specified level of humidity. Conditions for the production of fuel were optimized to be consistent with the most effective regimes of extrusion from an energy point of view.
+C1 [Mikhailov, A. S.] OOO Teploenergotekh, Rybinsk, Russia.
+   [Piralishvili, Sh. A.; Stepanov, E. G.; Birfel'd, A. A.] Soloviev Rybinsk State Aviat Tech Univ, Rybinsk 152934, Russia.
+   [Spesivtseva, N. S.] OOO Ekspert Energo, Moscow, Russia.
+RP Mikhailov, AS (corresponding author), OOO Teploenergotekh, Rybinsk, Russia.; Piralishvili, SA (corresponding author), Soloviev Rybinsk State Aviat Tech Univ, Rybinsk 152934, Russia.; Spesivtseva, NS (corresponding author), OOO Ekspert Energo, Moscow, Russia.
+EM tema-miha@yandex.ru; thermenergy@yandex.ru; info@eenergo.ru
+FU Ministry of Education and Science of the Russian FederationMinistry of
+   Education and Science, Russian Federation [14.579.21.0034,
+   RFMEFI57914X0034]
+FX This work was supported by the Ministry of Education and Science of the
+   Russian Federation (state contract no. 14.579.21.0034 of June 5 2014;
+   unique identifier of applied scientific studies: RFMEFI57914X0034).
+NR 4
+TC 2
+Z9 2
+U1 0
+U2 2
+PU ALLERTON PRESS INC
+PI NEW YORK
+PA 18 WEST 27TH ST, NEW YORK, NY 10001 USA
+SN 0361-5219
+EI 1934-8029
+J9 SOLID FUEL CHEM+
+JI Solid Fuel Chem.
+PD SEP
+PY 2016
+VL 50
+IS 5
+BP 310
+EP 315
+DI 10.3103/S0361521916050074
+PG 6
+WC Chemistry, Multidisciplinary; Energy & Fuels; Engineering, Chemical
+SC Chemistry; Energy & Fuels; Engineering
+GA EA4VW
+UT WOS:000386614700006
+DA 2021-07-21
+ER
+
+PT J
+AU BARANOVSKIY, AZ
+AF BARANOVSKIY, AZ
+TI ALTERATION OF PEAT BOG SOILS BY CROPPING WITH PERENNIAL GRASSES
+SO SOVIET SOIL SCIENCE
+LA English
+DT Article
+AB Changes in the peat reserves and in their hydrophysical properties as a result of continuous growing of brome grass are described, and the role of mineral fertilizers in preserving the grass stand and in decreasing peat losses are discussed.  Recommendations for the preservation of peat soils are presented.
+RP BARANOVSKIY, AZ (corresponding author), BELORUSSIAN INST MELIORAT & WATER CONSERVANCY,DEV CORP,MINSK,USSR.
+NR 3
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SCRIPTA TECHNICA PUBL
+PI SILVER SPRING
+PA 7961 EASTERN AVE, SILVER SPRING, MD 20910
+SN 0038-5832
+J9 SOV SOIL SCI+
+PY 1991
+VL 23
+IS 1
+BP 35
+EP 42
+PG 8
+WC Soil Science
+SC Agriculture
+GA GA038
+UT WOS:A1991GA03800004
+DA 2021-07-21
+ER
+
+PT J
+AU Titlyanova, AA
+   Shibareva, SV
+   Bienkowski, P
+AF Titlyanova, A. A.
+   Shibareva, S. V.
+   Bienkowski, P.
+TI Peat Decomposition in a Transitional Mire in Central Poland
+SO EURASIAN SOIL SCIENCE
+LA English
+DT Article
+ID RAISED BOG; TEMPERATURE
+AB The goal of our work was to estimate the rate of the peat formation and mineralization at two depths: 30 cm (the aerobic zone) and 60 cm (the anaerobic zone). An experiment on peat incubation was performed for two years. In the first year, at the depth of 30 cm, the peat lost about 14% of its mass in the course of the mineralization and was replenished with plant residues, including roots of Eriophorum vaginatum. As a result, the apparent loss of peat was only about 0.8% of its initial mass. At the depth of 60 cm, the mineralization loss of peat in the first year was completely recovered due to the additional input of the root mass. In the second year, the rate of the peat mineralization increased. Over the two years of the studies, the apparent losses of the peat mass at the depths of 30 and 60 cm reached 7.5 and 2.8% of the initial peat mass, respectively. DOI: 10.1134/S1064229311020165
+C1 [Titlyanova, A. A.; Shibareva, S. V.] Russian Acad Sci, Siberian Branch, Inst Soil Sci & Agr Chem, Novosibirsk 630099, Russia.
+   [Bienkowski, P.] Polish Acad Sci, Ctr Ecol Res, PL-05092 Lomianki, Dziekanow Lesny, Poland.
+RP Titlyanova, AA (corresponding author), Russian Acad Sci, Siberian Branch, Inst Soil Sci & Agr Chem, Novosibirsk 630099, Russia.
+EM argenta@issa.nsc.ru; prac.analiz@post.pl
+NR 13
+TC 1
+Z9 1
+U1 1
+U2 4
+PU MAIK NAUKA/INTERPERIODICA/SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013-1578 USA
+SN 1064-2293
+EI 1556-195X
+J9 EURASIAN SOIL SCI+
+JI Eurasian Soil Sci.
+PD FEB
+PY 2011
+VL 44
+IS 2
+BP 149
+EP 156
+DI 10.1134/S1064229311020165
+PG 8
+WC Soil Science
+SC Agriculture
+GA 738ZM
+UT WOS:000288681100004
+DA 2021-07-21
+ER
+
+PT J
+AU Korpilahti, A
+AF Korpilahti, A
+TI Finnish forest energy systems and CO2 consequences
+SO BIOMASS & BIOENERGY
+LA English
+DT Article
+DE bioenergy; wood fuel; forest energy; carbon dioxide; CO2 emissions
+AB The development of wood fuel production technology has been active in Finland since 1993, when the Ministry of Trade and Industry started eight new energy technology research and development programmes, one of which is the Bioenergy Research Programme. The objective is to improve the competitiveness of indigenous fuels-wood fuel and fuel peat-compared to imported fossil fuels.
+   Due to new, effective equipment and good logistics, production costs of fuel chips from logging residues have decreased by 25%, and are now approaching the target of 8.5 USD/MWh (45 FIM) with transportation distance being up to 80-100 km. This price target was set at the start of the Bioenergy Research Programme, but it is still valid corresponding to the price level of fuel peat and coal for big power plants.
+   When harvesting young stands for pulp wood and energy production, whole-tree chipping and tree section logging followed by different processing methods-chain-hail techniques, MASSAHAKE-method-have been demonstrated, but they have not yet achieved wider use.
+   CO2 emissions were calculated for the wood fuel production from logging residues, and emissions of production and combustion of wood fuel and coal, oil and fuel peat were compared. If the target of substituting 1.5 million tons of oil equivalent (toe) in Finland by 2010 is fulfilled, the reduction of CO2 emissions will be 4.2 million tons, corresponding to 6.9% of the emissions in 1996. (C) 1998 Elsevier Science Ltd. All rights reserved.
+C1 Metsateho Oy, FIN-00131 Helsinki, Finland.
+RP Korpilahti, A (corresponding author), Metsateho Oy, POB 194, FIN-00131 Helsinki, Finland.
+NR 15
+TC 18
+Z9 18
+U1 0
+U2 2
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0961-9534
+J9 BIOMASS BIOENERG
+JI Biomass Bioenerg.
+PY 1998
+VL 15
+IS 4-5
+BP 293
+EP 297
+DI 10.1016/S0961-9534(98)00037-3
+PG 5
+WC Agricultural Engineering; Biotechnology & Applied Microbiology; Energy &
+   Fuels
+SC Agriculture; Biotechnology & Applied Microbiology; Energy & Fuels
+GA 123EE
+UT WOS:000076112200004
+DA 2021-07-21
+ER
+
+PT J
+AU Samson-Do, M
+   St-Hilaire, A
+AF Samson-Do, Myriam
+   St-Hilaire, Andre
+TI Characterizing and modelling the trapping efficiency of sedimentation
+   basins downstream of harvested peat bog
+SO CANADIAN JOURNAL OF CIVIL ENGINEERING
+LA English
+DT Article
+DE harvested peat bog; trapping efficiency; sediment; peat
+ID BRANCH PORTAGE RIVER; SUSPENDED SEDIMENT; SMALL RESERVOIRS;
+   NEW-BRUNSWICK; CANADA
+AB Peat moss harvesting is an important industry in Canada. To harvest peat, the water table of the peatland must be lowered to allow the surficial peat layer to dry and be harvested. Drainage water can contain suspended sediments, so at most harvesting sites, the water is routed through sedimentation basins. This work focuses on characterizing and modelling their trapping efficiency. Eight basins with different volume/watershed area ratios (705 to 4170m(3)/km(2)) were studied in three Quebec regions. Suspended sediment concentration and discharge were monitored up-and downstream of each basin during the ice-free season. Basins with high ratios of volume/drainage area, multiple basin configurations (i.e., two basins in series or in parallel), and those equipped with a flow regulation structure were more efficient than regular basins. Moreover, the nature of sediments (size, decomposition level, and organic content) influences loads, but not the trapping efficiency. Finally, two empirical models developed to predict trapping efficiency of municipal sedimentation basins were tested and adapted for basins that capture peat sediments.
+C1 [Samson-Do, Myriam; St-Hilaire, Andre] Inst Natl Rech Sci, Ctr Eau Terre Environm, 490 Couronne, Quebec City, PQ G1K 9A9, Canada.
+   [Samson-Do, Myriam; St-Hilaire, Andre] Canadian Rivers Inst, 490 Couronne, Quebec City, PQ G1K 9A9, Canada.
+RP St-Hilaire, A (corresponding author), Inst Natl Rech Sci, Ctr Eau Terre Environm, 490 Couronne, Quebec City, PQ G1K 9A9, Canada.; St-Hilaire, A (corresponding author), Canadian Rivers Inst, 490 Couronne, Quebec City, PQ G1K 9A9, Canada.
+EM andre.st-hilaire@ete.inrs.ca
+RI St-Hilaire, Andre/W-7120-2019
+OI St-Hilaire, Andre/0000-0001-9161-4742; St-Hilaire,
+   Andre/0000-0001-8443-5885
+FU Les Tourbieres Berger ltee; Fafard; Tourbieres Lambert; Premier Tech;
+   NSERCNatural Sciences and Engineering Research Council of Canada
+   (NSERC); CRI; Quebec Department of Industry and Economic Development;
+   Association des producteurs de tourbe du Quebec
+FX The authors wish to thank Les Tourbieres Berger ltee, Fafard, Tourbieres
+   Lambert and Premier Tech, for supporting the project. The financial
+   support of NSERC, CRI, the Quebec Department of Industry and Economic
+   Development and the Association des producteurs de tourbe du Quebec is
+   also acknowledged. The authors also want to thank the numerous summer
+   interns who assisted in field work.
+NR 26
+TC 2
+Z9 2
+U1 0
+U2 4
+PU CANADIAN SCIENCE PUBLISHING, NRC RESEARCH PRESS
+PI OTTAWA
+PA 65 AURIGA DR, SUITE 203, OTTAWA, ON K2E 7W6, CANADA
+SN 0315-1468
+EI 1208-6029
+J9 CAN J CIVIL ENG
+JI Can. J. Civ. Eng.
+PD JUN
+PY 2018
+VL 45
+IS 6
+BP 478
+EP 488
+DI 10.1139/cjce-2017-0330
+PG 11
+WC Engineering, Civil
+SC Engineering
+GA GH9DQ
+UT WOS:000433969600006
+OA Green Accepted
+DA 2021-07-21
+ER
+
+PT J
+AU SALONEN, V
+AF SALONEN, V
+TI REVEGETATION OF HARVESTED PEAT SURFACES IN RELATION TO SUBSTRATE QUALITY
+SO JOURNAL OF VEGETATION SCIENCE
+LA English
+DT Article
+DE COLONIZATION; FIELD EXPERIMENT; HARVESTED PEATLAND; NPK-FERTILIZATION;
+   SOIL CONDITION; VEGETATION STRUCTURE
+AB The relationship between substrate quality and pattern of revegetation of harvested peat surfaces was studied by means of a survey and a field experiment examining influences of modest NPK-fertilization on plant colonization of an initially bare peat surface. The harvested peat surfaces varied a great deal in their chemical and physical characteristics and the sites differed in revegetation pattern. Early successional vegetation was dominated by perennial species native to nutrient-poor habitats on all sites. Soluble phosphorus and ash content, mean particle size of surface peat, and thickness of peat layer had the strongest influence in a CCA-ordination of species. The species composition depended on the amount and form of soluble nitrogen in the surface peat. Sites with a high content of phosphonis and ammonium nitrogen, and with a thick peat layer were usually densely revegetated by Eriophorum vaginatum alone, while sites characterized by thin peat layers associated with a high ash content, large particle size and a high content of nitrate nitrogen were mainly dominated by different grass and weed species. Deschampsia cespitosa clearly favoured sites with a high potassium content and small particle sizes of the peat.
+   The importance of nutrient availability for the rate and pattern of colonization was also demonstrated by the field experiment. Application of 20 g/m2 of NPK-fertilizer resulted in a significant increase in the number of established plant individuals and marked differences in species composition compared to unfertilized plots.
+RP SALONEN, V (corresponding author), UNIV JYVASKYLA, DEPT BIOL, POB 35, SF-40351 JYVASKYLA, FINLAND.
+NR 0
+TC 27
+Z9 28
+U1 2
+U2 7
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1100-9233
+J9 J VEG SCI
+JI J. Veg. Sci.
+PD JUN
+PY 1994
+VL 5
+IS 3
+BP 403
+EP 408
+DI 10.2307/3235863
+PG 6
+WC Plant Sciences; Ecology; Forestry
+SC Plant Sciences; Environmental Sciences & Ecology; Forestry
+GA NZ887
+UT WOS:A1994NZ88700013
+DA 2021-07-21
+ER
+
+PT J
+AU Chico, G
+   Clutterbuck, B
+   Midgley, NG
+   Labadz, J
+AF Chico, G.
+   Clutterbuck, B.
+   Midgley, N. G.
+   Labadz, J.
+TI Application of terrestrial laser scanning to quantify surface changes in
+   restored and degraded blanket bogs
+SO MIRES AND PEAT
+LA English
+DT Article
+DE LiDAR; livestock trampling; northern Spain; peat erosion; peatland; peat
+   loss
+ID FROM-MOTION PHOTOGRAMMETRY; UNMANNED AERIAL VEHICLES; ORGANIC-CARBON
+   RELEASE; COMPLEX TOPOGRAPHY; EROSION PROCESSES; LAND MANAGEMENT; PEAT;
+   PEATLANDS; DEPOSITION; QUANTIFICATION
+AB Many recognised areas of blanket bog are degraded, but the inventory and rate of loss of blanket bog globally is not fully known. Rapid identification of the rate and drivers of erosion and peat loss in blanket bogs more widely could inform localised approaches to protection and restoration of these important ecosystems. This study developed the application of Terrestrial Laser Scanning (TLS) to quantify the rate of surface change in restored and degraded blanket bogs by adopting a single scan strategy with fixed ground markers for repeat scanner location and fixed reference markers for scan alignment. Three recently mapped and remote areas of blanket bog in the Cantabrian Mountains (northern Spain) were scanned in May 2017 and July 2017 with a portable TLS (FARO X330) and 3D change in exposed peat surfaces was determined using a mesh to cloud (M2C) algorithm. The mean resolution of scan data across the sites was <3 mm, and where reference markers remained visible the maximum error of scan alignment was <1 mm, increasing to 6.5 mm where markers were obscured or lost. The rate of erosion determined over two months at Zalama (a protected blanket bog where reference markers were not disturbed) was -5.9 +/- 4.6 mm (mean +/- SD), but significantly higher (p < 0.001) rates of erosion and peat loss were determined for two unprotected blanket bogs under grazing regimes at Ilsos de Zalama (-22.9 +/- 20.5 mm) and Collado de Hornaza (-35.7 +/- 37 mm). This rate of change is already equal to the mean annual rate of erosion reported for bare peat in England and Wales (22.4-23.1 mm yr(-1)) and for Scotland (36.3 mm yr(-1)). This study demonstrates that portable TLS units can be used to make rapid assessment of surface change (erosion and peat loss) in blanket bog and indicates that trampling by cattle and horses is significantly increasing the rate of peat surface change in unprotected blanket bog in north Spain. This technique has direct application for peatlands under grazing regimes globally, and further installation of fences around blanket bog in northern Spain may be required imminently to reduce the loss of peat, the associated carbon store and priority habitat.
+C1 [Chico, G.; Clutterbuck, B.; Midgley, N. G.; Labadz, J.] Nottingham Trent Univ, Sch Anim Rural & Environm Sci, Southwell NG25 OQF, Notts, England.
+RP Chico, G (corresponding author), Nottingham Trent Univ, Sch Anim Rural & Environm Sci, Southwell NG25 OQF, Notts, England.
+EM guaduneth.chicoleon@ntu.ac.uk
+RI Midgley, Nicholas/S-8171-2018
+OI Midgley, Nicholas/0000-0003-0076-1785; Chico,
+   Guaduneth/0000-0002-5915-3373; Clutterbuck, Ben/0000-0003-3239-8220
+FU Nottingham Trent University; LIFE+ Ordunte Sostenible
+FX This research was undertaken as part of a PhD sponsored by Nottingham
+   Trent University. We would also like to thank LIFE+ Ordunte Sostenible
+   for funding equipment and fieldwork, and the Provincial Council of
+   Bizkaia and Gobierno de Cantabria for providing permission to undertake
+   surveys and for their assistance with transportation of equipment. We
+   also thank HAZI, Basalan, and particularly Ana Gracianteparaluceta, Jose
+   Maria Fernandez, Javier Perez and Maite Aguirre for their input to the
+   project and Mark Chaney Baxter and Miles Shirtcliffe for assistance in
+   the field. Finally, we would like to thank two anonymous reviewers for
+   their comments and the editor.
+NR 89
+TC 2
+Z9 2
+U1 2
+U2 3
+PU INT PEAT SOC
+PI DUNDEE
+PA INT PEAT SOC, DUNDEE, DD1 4HN, ENGLAND
+SN 1819-754X
+J9 MIRES PEAT
+JI Mires Peat
+PY 2019
+VL 24
+AR 14
+DI 10.19189/MaP.2018.JSP.368
+PG 24
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA IT2DQ
+UT WOS:000482659000004
+OA DOAJ Gold
+DA 2021-07-21
+ER
+
+PT J
+AU Tomlinson, RW
+AF Tomlinson, R. W.
+TI Changes in the extent of peat extraction in Northern Ireland 1990-2008
+   and associated changes in carbon loss
+SO APPLIED GEOGRAPHY
+LA English
+DT Article
+DE Peat extraction; Peat carbon loss; Northern Ireland
+AB A 1990-1991 survey of peat extraction in Northern Ireland for use as fuel and in horticulture was followed by an estimate of carbon loss resulting from this extraction. This estimate formed part of UK annual estimates of carbon emissions and removals due to land use, land-use change and forestry. Subsequently, extraction of peat for fuel appeared to decline so a resurvey of its extent was required. Peat extraction for horticulture continued after 1991, but data comparable with that for 1990-1991 became unavailable. It was necessary to recalculate the amount of extraction for horticulture, and consequent carbon loss, for 1991 using a method that could be applied in a 2007-2008 resurvey. Methodology for the 2007-2008 resurvey of peat extraction for fuel, for the revision of the amount of peat extracted for horticulture in 1990-1991 and in 2007-2008, and for estimation of carbon losses due to peat extraction is described. Between 1990-1991 and 2007-2008 there was an overall decline in carbon loss due to peat extraction to 30-40% of the 19901991 estimates, caused mainly by a marked fall in extraction for fuel. (C) 2009 Elsevier Ltd. All rights reserved.
+C1 Queens Univ Belfast, Sch Geog Archaeol & Palaeoecol, Belfast 8T7 1NN, Antrim, North Ireland.
+RP Tomlinson, RW (corresponding author), Queens Univ Belfast, Sch Geog Archaeol & Palaeoecol, Belfast 8T7 1NN, Antrim, North Ireland.
+EM r.tomlinson@qub.ac.uk
+NR 17
+TC 5
+Z9 5
+U1 0
+U2 14
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0143-6228
+J9 APPL GEOGR
+JI Appl. Geogr.
+PD APR
+PY 2010
+VL 30
+IS 2
+BP 294
+EP 301
+DI 10.1016/j.apgeog.2009.08.004
+PG 8
+WC Geography
+SC Geography
+GA 567IA
+UT WOS:000275438700011
+DA 2021-07-21
+ER
+
+PT J
+AU Paal, T
+   Starast, M
+   Noormets-Sanski, M
+   Vool, E
+   Tasa, T
+   Karp, K
+AF Paal, T.
+   Starast, M.
+   Noormets-Sanski, M.
+   Vool, E.
+   Tasa, T.
+   Karp, K.
+TI Influence of liming and fertilization on lowbush blueberry in harvested
+   peat field condition
+SO SCIENTIA HORTICULTURAE
+LA English
+DT Article
+DE Vaccinium angustifolium; Limestone; Soil pH; Weeds; Growth
+ID SOIL-PH; YIELD; GROWTH; CHEMISTRY; SULFUR; WATER
+AB The objectives of the study were to determine: (a) if the addition of lime reduces the peat soil acidity to a suitable level for lowbush blueberry (Vaccinium angustifolium Ait.) plant growth and yield formation; (b) if the fertilizer rates used create favourable conditions for plant growth on peat soil; and (c) if the nutrients uptake will be sufficient for the lowbush blueberry plant growth in changed soil conditions. The experiment was set up in early spring 2000 on the harvested peat field of the Tartu region, South Estonia (58 degrees 22'N, 26 degrees 43'E). The soil type on the experimental area is Fibric-Dystric Histosol. In the experiment the complex fertilizer and limestone powder were used. The use of a mineral fertilizer increased the growth of blueberry plants significantly. Liming reduced soil acidity but decreased blueberry vegetative growth and increased weed numbers. In the given experiment the strongest blueberry bushes developed with the pH(Kcl) level of 2.5-2.7. General recommendations are to fertilize lowbush blueberries on peat fields every year with a small amount of mineral fertilizer to secure stabile annual productivity of plants. In the plantations of lowbush blueberry on harvested peat fields one should be careful with the use of limestone. (C) 2011 Elsevier B.V. All rights reserved.
+C1 [Starast, M.; Noormets-Sanski, M.; Vool, E.; Tasa, T.; Karp, K.] Estonian Univ Life Sci, Inst Agr & Environm Sci, EE-51014 Tartu, Estonia.
+   [Paal, T.] Estonian Univ Life Sci, Inst Forestry & Rural Engn, EE-51014 Tartu, Estonia.
+RP Starast, M (corresponding author), Estonian Univ Life Sci, Inst Agr & Environm Sci, Kreutzwaldi 1, EE-51014 Tartu, Estonia.
+EM Taimi.Paal@emu.ee; Marge.Starast@emu.ee; Merrit.Noormets@emu.ee;
+   Ele.Vool@emu.ee; Tea.Tasa@pma.agri.ee; Kadri.Karp@emu.ee
+FU ESFEuropean Commission [4726, 6046]
+FX This research was supported by ESF grant 4726 and 6046. We would like to
+   express our thanks to our colleague Evans Estabrooks from Canada. We are
+   grateful to Toomas Jaadla for supporting the field works.
+NR 44
+TC 14
+Z9 17
+U1 0
+U2 41
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0304-4238
+EI 1879-1018
+J9 SCI HORTIC-AMSTERDAM
+JI Sci. Hortic.
+PD AUG 26
+PY 2011
+VL 130
+IS 1
+BP 157
+EP 163
+DI 10.1016/j.scienta.2011.06.031
+PG 7
+WC Horticulture
+SC Agriculture
+GA 820YV
+UT WOS:000294942900025
+DA 2021-07-21
+ER
+
+PT J
+AU O'Mahony, MJ
+   Ward, SM
+   Lynch, J
+AF O'Mahony, MJ
+   Ward, SM
+   Lynch, J
+TI A small-scale prototype peat harvester, using NIR moisture content
+   sensing. Part 2: Harvester evaluation
+SO JOURNAL OF AGRICULTURAL ENGINEERING RESEARCH
+LA English
+DT Article
+AB A small-scale prototype peat harvester which selectively harvests the dry layer which forms on top of a milled peat spread has been developed. The near-infrared (NIR) sensor, described in Part 1 of the paper, and control system is robust, portable and self-contained. The object of this study was to explore the applicability of NIR sensing to determine the moisture content of milled peat and the use of programmable logic controller (PLC) technology to control the harvesting height of a surface layer drying (SLD) harvester. The peat moisture content sensor was integrated with a small-scale prototype pear harvester. Three calibration equations were determined for low-, medium- and, high-density peat. The control system used this information to position the harvesting brush so that it operated at the interface between the dry surface layer and the wet peat beneath it. The small-scale prototype SLD machine proved effective in harvesting the dry surface layer, albeit with a degree of contamination (viz. ca. 1-6% point increase in moisture content). The degree of contamination of the dry layer by the wet layer was smallest (< 3%) for low-density peat. It was concluded that the harvester was capable of causing a 0.5 m wide harvesting brush to follow the wet/dry interface beneath the sensor at speeds of up to 0.5 m/s. (C) 1998 Silsoe Research Institute.
+C1 Natl Univ Ireland Univ Coll Dublin, Dept Agr & Food Engn, Dublin 2, Ireland.
+   Bord Na Mona, Peat Energy Div, Tullamore, Offaly, Ireland.
+RP O'Mahony, MJ (corresponding author), Natl Univ Ireland Univ Coll Dublin, Dept Agr & Food Engn, Earlsfort Terrace, Dublin 2, Ireland.
+RI Ward, Shane/AAN-5937-2020
+NR 4
+TC 1
+Z9 1
+U1 0
+U2 1
+PU ACADEMIC PRESS LTD
+PI LONDON
+PA 24-28 OVAL RD, LONDON NW1 7DX, ENGLAND
+SN 0021-8634
+J9 J AGR ENG RES
+JI J. Agr. Eng. Res.
+PD JUL
+PY 1998
+VL 70
+IS 3
+BP 275
+EP 283
+DI 10.1006/jaer.1998.0271
+PG 9
+WC Agricultural Engineering
+SC Agriculture
+GA 102DY
+UT WOS:000074909700004
+DA 2021-07-21
+ER
+
+PT J
+AU ELLIOTT, DC
+   BAKER, EG
+   PISKORZ, J
+   SCOTT, DS
+   SOLANTAUSTA, Y
+AF ELLIOTT, DC
+   BAKER, EG
+   PISKORZ, J
+   SCOTT, DS
+   SOLANTAUSTA, Y
+TI PRODUCTION OF LIQUID-HYDROCARBON FUELS FROM PEAT
+SO ENERGY & FUELS
+LA English
+DT Note
+C1 UNIV WATERLOO, DEPT CHEM ENGN, WATERLOO N2L 3G1, ONTARIO, CANADA.
+   TECH RES CTR FINLAND, FUELS & LUBRICANTS LAB, SF-02150 ESPOO 15, FINLAND.
+RP ELLIOTT, DC (corresponding author), PACIFIC NW LAB, RICHLAND, WA 99352 USA.
+OI Elliott, Douglas/0000-0002-2807-4648
+NR 4
+TC 33
+Z9 33
+U1 0
+U2 11
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036
+SN 0887-0624
+J9 ENERG FUEL
+JI Energy Fuels
+PD MAR-APR
+PY 1988
+VL 2
+IS 2
+BP 234
+EP 235
+DI 10.1021/ef00008a023
+PG 2
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA M7353
+UT WOS:A1988M735300023
+DA 2021-07-21
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI PEAT - A NEW INDUSTRIAL FUEL
+SO CIM BULLETIN
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU CANADIAN INST MINING METALLURGY PETROLEUM
+PI CALGARY
+PA 101 6TH AVE SW, STE 320, CALGARY AB TZP 3P4, CANADA
+SN 0317-0926
+J9 CIM BULL
+JI CIM Bull.
+PD MAY
+PY 1990
+VL 83
+IS 937
+BP 26
+EP 26
+PG 1
+WC Metallurgy & Metallurgical Engineering; Mining & Mineral Processing
+SC Metallurgy & Metallurgical Engineering; Mining & Mineral Processing
+GA DG825
+UT WOS:A1990DG82500002
+DA 2021-07-21
+ER
+
+PT J
+AU Chasmer, LE
+   Hopkinson, CD
+   Petrone, RM
+   Sitar, M
+AF Chasmer, L. E.
+   Hopkinson, C. D.
+   Petrone, R. M.
+   Sitar, M.
+TI Using Multitemporal and Multispectral Airborne Lidar to Assess Depth of
+   Peat Loss and Correspondence With a New Active Normalized Burn Ratio for
+   Wildfires
+SO GEOPHYSICAL RESEARCH LETTERS
+LA English
+DT Article
+ID FIRE SEVERITY; BOREAL FOREST; WESTERN BOREAL; ORGANIC SOILS; CARBON
+   LOSSES; BULK-DENSITY; CANADA; VEGETATION; PEATLANDS; EMISSIONS
+AB Accuracy of depth of burn (an indicator of consumption) in peatland soils using prefire and postfire airborne light detection and ranging (lidar) data is determined within a wetland-upland forest environment near Fort McMurray, Alberta, Canada. The relationship between peat soil burn depth and an "active" normalized burn ratio (ANBR) is also examined beneath partially and fully burned forest and understory canopies using state-of-the-art active reflectance from a multispectral lidar compared with normalized burn ratio (NBR) derived from Landsat 7 ETM+. We find significant correspondence between depth of burn, lidar-derived ANBR, and difference NBR (dNBR) from Landsat. However, low-resolution optical imagery excludes peatland burn losses in transition zones, which are highly sensitive to peat loss via combustion. The findings presented here illustrate the utility of this new remote sensing technology for expanding an area of research where it has previously been challenging to spatially detect and quantify such wildfire burn losses.
+C1 [Chasmer, L. E.; Hopkinson, C. D.] Univ Lethbridge, Dept Geog, Lethbridge, AB, Canada.
+   [Petrone, R. M.] Univ Waterloo, Dept Geog & Environm Management, Waterloo, ON, Canada.
+   [Sitar, M.] Teledyne Optech Inc, Vaughan, ON, Canada.
+RP Chasmer, LE (corresponding author), Univ Lethbridge, Dept Geog, Lethbridge, AB, Canada.
+EM laura.chasmer@uleth.ca
+OI hopkinson, chris/0000-0002-3998-4778; Petrone,
+   Richard/0000-0002-9569-4337
+FU NSERCNatural Sciences and Engineering Research Council of Canada (NSERC)
+   [40375]
+FX The authors would like to acknowledge Teledyne Optech Inc. for providing
+   the ALTM Titan multispectral LiDAR and Kalus Aviation Services for
+   aircraft support and operations. Field support, data processing, and
+   discussion were provided by Joshua Montgomery, Maxim Okhrimenko, Daniel
+   Thompson, and Kevin Devito. Funding was provided by an NSERC Discovery
+   grant (40375) to L. Chasmer, and lab and logistical support to Hopkinson
+   through the Campus Alberta Innovates Program, Canadian Foundation for
+   Innovation, and Alberta Environment and Parks. The 2008 lidar data were
+   provided by Airborne Imaging Inc. and licensed to the Province of
+   Alberta. Shane Patterson and Chris Bater are acknowledged for 2008 data
+   organization, discussion, and support. Landsat data are available from
+   the U.S. Geological Survey and distributed by the Land Processes
+   Distributed Active Archive Center (LP DAAC), located at USGS/EROS, Sioux
+   Falls, SD (https://landsat.usgs.gov). Climatic data were accessed via
+   Natural Resources Canada (http://climate.weather.gc.ca/climate_normals).
+   Lidar data are available through data sharing agreements with the
+   Government of Alberta (Shane Patterson, contact for the 2008 data set)
+   and Chris Hopkinson (contact for the 2016 data set). We would also like
+   to thank two anonymous reviewers for their helpful comments.
+NR 44
+TC 11
+Z9 11
+U1 0
+U2 20
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 0094-8276
+EI 1944-8007
+J9 GEOPHYS RES LETT
+JI Geophys. Res. Lett.
+PD DEC 16
+PY 2017
+VL 44
+IS 23
+BP 11851
+EP 11859
+DI 10.1002/2017GL075488
+PG 9
+WC Geosciences, Multidisciplinary
+SC Geology
+GA FR5JI
+UT WOS:000419102400020
+OA Bronze
+DA 2021-07-21
+ER
+
+PT J
+AU AYUB, AL
+   SHEPPARD, JD
+   KWAK, JCT
+AF AYUB, AL
+   SHEPPARD, JD
+   KWAK, JCT
+TI THE EFFECT OF SURFACTANT AND POLYMER ADDITION TO A FUEL GRADE PEAT -
+   ADSORPTION, ELECTROKINETICS AND DEWATERING
+SO COLLOIDS AND SURFACES
+LA English
+DT Article
+C1 DALHOUSIE UNIV,DEPT CHEM,HALIFAX B3H 4J3,NS,CANADA.
+RP AYUB, AL (corresponding author), NRC,ATLANTIC RES LAB,1411 OXFORD ST,HALIFAX B3H 3Z1,NS,CANADA.
+RI Kwak, Jan/AAQ-2012-2020
+NR 22
+TC 4
+Z9 4
+U1 0
+U2 0
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-6622
+J9 COLLOID SURFACE
+PD SEP
+PY 1987
+VL 26
+BP 305
+EP 315
+DI 10.1016/0166-6622(87)80123-3
+PG 11
+WC Chemistry, Physical
+SC Chemistry
+GA K1140
+UT WOS:A1987K114000022
+DA 2021-07-21
+ER
+
+PT J
+AU Orru, H
+AF Orru, H.
+TI Peat as fuel - The co-use of environmental scenarios and
+   exposure-response functions as a simple key for health impact assessment
+SO EPIDEMIOLOGY
+LA English
+DT Meeting Abstract
+CT ISEE/ISEA 2006 Conference
+CY 2006
+CL Paris, FRANCE
+SP ISEE, ISEA
+C1 Univ Tartu, Dept Publ Hlth, EE-50090 Tartu, Estonia.
+   Umea Univ, Dept Publ Hlth & Clin Med, Umea, Sweden.
+RI Orru, Hans/B-1324-2019
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 1044-3983
+J9 EPIDEMIOLOGY
+JI Epidemiology
+PD NOV
+PY 2006
+VL 17
+IS 6
+SU S
+BP S499
+EP S499
+DI 10.1097/00001648-200611001-01342
+PG 1
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 097JL
+UT WOS:000241443402363
+DA 2021-07-21
+ER
+
+PT J
+AU Huhtala, K
+   Piirainen, V
+   Lehtovaara, J
+AF Huhtala, K
+   Piirainen, V
+   Lehtovaara, J
+TI Optimizing the sampling of fuel peat by computer-simulated experiments
+SO FUEL
+LA English
+DT Article
+DE peat; sampling; computer simulation
+AB Experiences in using computer-simulated experiments and response surface methodology to optimize the sampling of fuel peat are reported. After the development of the simulation scheme to assess the quality of the sampling scheme, the study started with a screening design, evolved through more complicated designs and ended with a model describing the sampling process. The model is suitable for optimizing the sampling from both the economic and precision aspects.
+C1 VAPO OY,CENT ADM,SF-40101 JYVASKYLA,FINLAND.
+RP Huhtala, K (corresponding author), UNIV JYVASKYLA,DEPT STAT,POB 35,SF-40351 JYVASKYLA,FINLAND.
+NR 5
+TC 0
+Z9 0
+U1 0
+U2 0
+PU BUTTERWORTH-HEINEMANN LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0016-2361
+J9 FUEL
+JI Fuel
+PD JAN
+PY 1996
+VL 75
+IS 2
+BP 157
+EP 160
+DI 10.1016/0016-2361(95)00254-5
+PG 4
+WC Energy & Fuels; Engineering, Chemical
+SC Energy & Fuels; Engineering
+GA TV334
+UT WOS:A1996TV33400008
+DA 2021-07-21
+ER
+
+PT J
+AU Vaisanen, SE
+   Silvan, NR
+   Ihalainen, AVJ
+   Soukka, RM
+AF Vaisanen, Sanni E.
+   Silvan, Niko R.
+   Ihalainen, Antti V. J.
+   Soukka, Risto M.
+TI PEAT PRODUCTION IN HIGH-EMISSION LEVEL PEATLANDS - A KEY TO REDUCING
+   CLIMATIC IMPACTS?
+SO ENERGY & ENVIRONMENT
+LA English
+DT Article
+DE GHG emissions; land use; peatland; soil emissions; system analysis;
+   life-cycle emissions
+ID CO2; EXCHANGE; N2O; CH4
+AB Both peat utilization and peatlands themselves contribute to increases in greenhouse gas (GHG) emissions. This article examines how peatlands with naturally high GHG emission levels affect net GHG emissions during the life cycle of peat. GHG emissions were measured from three drained peatland sites with high GHG emission levels. The impact of peatland type on the GHG emissions was considered when peat was assumed to replace coal in an energy production facility. The emission reduction levels achieved with the use of peat fuel originating from high-emission level peatlands stood at 35% compared to coal use and 30% compared to the average peat emission value. The findings indicate that GHG emissions can be reduced overall when peat from high-emission peatlands is utilized instead of coal. Lower emissions are primarily achieved because the harvesting of peat from high-emission level peatlands reduces the GHG emission levels of those lands.
+C1 [Vaisanen, Sanni E.; Soukka, Risto M.] Lappeenranta Univ Technol, Dept Energy & Environm Technol, FI-53851 Lappeenranta, Finland.
+   [Silvan, Niko R.] Finnish Forest Res Inst, Parkano Res Unit, FIN-39700 Parkano, Finland.
+   [Ihalainen, Antti V. J.] Finnish Forest Res Inst, Vantaa Res Unit, FIN-01301 Vantaa, Finland.
+RP Vaisanen, SE (corresponding author), Lappeenranta Univ Technol, Dept Energy & Environm Technol, POB 20, FI-53851 Lappeenranta, Finland.
+EM sanni.vaisanen@lut.fi
+OI Soukka, Risto/0000-0002-8439-3854
+NR 49
+TC 3
+Z9 3
+U1 0
+U2 8
+PU SAGE PUBLICATIONS LTD
+PI LONDON
+PA 1 OLIVERS YARD, 55 CITY ROAD, LONDON EC1Y 1SP, ENGLAND
+SN 0958-305X
+EI 2048-4070
+J9 ENERG ENVIRON-UK
+JI Energy Environ.
+PY 2013
+VL 24
+IS 5
+BP 757
+EP 778
+PG 22
+WC Environmental Studies
+SC Environmental Sciences & Ecology
+GA 209ZZ
+UT WOS:000323800400008
+DA 2021-07-21
+ER
+
+PT J
+AU Mikhailov, AS
+   Piralishvili, SA
+   Stepanov, EG
+   Evdokimov, OA
+   Spesivtseva, NS
+AF Mikhailov, A. S.
+   Piralishvili, Sh A.
+   Stepanov, E. G.
+   Evdokimov, O. A.
+   Spesivtseva, N. S.
+TI FEATURES OF BURNING OF PULVERIZED PEAT FUEL IN A VORTEX BURNER DEVICE
+SO JOURNAL OF ENGINEERING PHYSICS AND THERMOPHYSICS
+LA English
+DT Article
+DE combustion; peat; pulverized burning; swirling flow; vortex burner
+   device
+AB The authors have substantiated the relevance of development and implementation of novel combustion schemes ensuring stabilization of the furnace process due to the burning of the basic pulverized fuel without using additional energy sources and high-reactive fields. Distinctive features of burning of pulverized peat fuel in a straight-flow vortex burner device have been investigated experimentally. Regimes of stable combustion of peat dust without addition of high-reactive gaseous and liquid fuels have been determined; transient regimes of operation of the burner device have been found, whose analysis enabled the authors to determine the required character of distribution of air when it is fed into the combustion zone. Emission characteristics of burning of peat dust in a swirling flow have been investigated; the most efficient conditions of organization of the combustion process from the viewpoint of ensuring a high combustion efficiency and minimum emissions of nitric oxides NOx have been determined.
+C1 [Mikhailov, A. S.] OOO Generating Co Regionenergo, 44 Gertsen Str, Rybinsk 152934, Yaroslavl Regio, Russia.
+   [Piralishvili, Sh A.; Evdokimov, O. A.] PA Solovev Rybinsk State Aviat Tech Univ, Fed State Budgetary Educ Inst Higher Educ, 53 Pushkin Str, Rybinsk 152934, Yaroslavl Regio, Russia.
+   [Stepanov, E. G.; Spesivtseva, N. S.] OOO Ekspert Energo, 27 Malaya Kaluzhskaya Str, Moscow 119071, Russia.
+RP Mikhailov, AS (corresponding author), OOO Generating Co Regionenergo, 44 Gertsen Str, Rybinsk 152934, Yaroslavl Regio, Russia.
+EM tema-miha@yandex.ru; piral@nauka-plus.com;
+   nadezhda.spesivtseva@energo.ru
+RI Евдокимов, Олег/U-6410-2019; Evdokimov, Oleg A./A-5875-2014
+OI Евдокимов, Олег/0000-0002-9122-0142; Evdokimov, Oleg
+   A./0000-0002-9122-0142
+FU Ministry of Education and Science of RussiaMinistry of Education and
+   Science, Russian Federation [14.579.21.0034, RFMEFI57914X0034]
+FX The applied research is carried out with financial support from the
+   Ministry of Education and Science of Russia (Subsidies Agreement No.
+   14.579.21.0034 of June 5, 2014) by the contractor OOO "Ekspert Energo"
+   and by the co-contractor OOO "Teploenergotekh." The unique identifier
+   assigned to the applied research is RFMEFI57914X0034.
+NR 10
+TC 6
+Z9 6
+U1 0
+U2 1
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1062-0125
+EI 1573-871X
+J9 J ENG PHYS THERMOPH+
+JI J. Eng. Phys. Thermophys.
+PD JUL
+PY 2018
+VL 91
+IS 4
+BP 925
+EP 932
+DI 10.1007/s10891-018-1818-8
+PG 8
+WC Thermodynamics
+SC Thermodynamics
+GA HH8UG
+UT WOS:000456007900011
+DA 2021-07-21
+ER
+
+PT J
+AU FREEDMAN, B
+   MAASS, W
+   PARFENOV, P
+AF FREEDMAN, B
+   MAASS, W
+   PARFENOV, P
+TI THE THREAD-LEAVED SUNDEW, DROSERA-FILIFORMIS IN NOVA-SCOTIA - AN
+   ASSESSMENT OF RISKS OF A PROPOSAL TO MINE FUEL PEAT FROM ITS HABITAT
+SO CANADIAN FIELD-NATURALIST
+LA English
+DT Article
+DE THREAD-LEAVED SUNDEW; DROSERA-FILIFORMIS; NOVA-SCOTIA; ENDANGERED
+   SPECIES; RISK ASSESSMENT; RAISED BOGS; PEAT MINING
+AB Drosera filiformis Raf. is a rare and endangered species that only occurs in Canada in four raised bogs, all in Shelburne County, Nova Scotia. One of these sites has been proposed for development as a fuel-peat mine. An assessment that focused on D. filiformis and its habitat concluded that the peat mining would pose substantial direct and indirect risks to the survival the species in Canada. As a result, the proposed project was not allowed to proceed. This represents a rare case in which consideration for the integrity of a rare and endangered species of plant has resulted in blocking of a proposed resource-extraction development.
+RP FREEDMAN, B (corresponding author), DALHOUSIE UNIV,DEPT BIOL,HALIFAX B3H 4J1,NS,CANADA.
+NR 0
+TC 4
+Z9 4
+U1 0
+U2 6
+PU OTTAWA FIELD-NATURALISTS CLUB
+PI OTTAWA
+PA BOX 3264 POSTAL STATION C, OTTAWA ON K1Y 4J5, CANADA
+SN 0008-3550
+J9 CAN FIELD NAT
+JI Can. Field-Nat.
+PD OCT-DEC
+PY 1992
+VL 106
+IS 4
+BP 534
+EP 542
+PG 9
+WC Biodiversity Conservation; Ecology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology
+GA MZ491
+UT WOS:A1992MZ49100021
+DA 2021-07-21
+ER
+
+PT J
+AU HEDVALL, R
+   ERLANDSSON, B
+AF HEDVALL, R
+   ERLANDSSON, B
+TI RADIOACTIVITY IN PEAT FUEL AND ASH FROM A PEAT-FIRED POWER-PLANT
+SO JOURNAL OF ENVIRONMENTAL RADIOACTIVITY
+LA English
+DT Article
+AB There is very little information in the literature concerning radioactivity concentrations in biomass fuel and the radiation dose to the population resulting from the burning of this fuel. We have performed an investigation on both natural and artificial radionuclides in the peat bog, in the mixed peat fuel and in the various ash products from a district heating plant in central Sweden. Samples from 1984 to 1990 were analysed. In spite of a 'high' fall-out after the Chernobyl accident, more than 99% of the calculated annual effective dose equivalent from internal irradiation is due to naturally occurring radionuclides, which is equivalent to about 6-mu-Sv. The maximum Cs-137 concentration found in peat fly-ash was 100 kBq kg-1. Estimates per caput annual effective dose equivalent from natural sources in areas of normal background is 2400-mu-Sv (United Nations (1988). Ionizing Radiation: Sources and Biological Effects, UNSCEAR, Report to General Assembly, United Nations. New York).
+RP HEDVALL, R (corresponding author), STUDSVIK NUCL AB,S-61182 NYKOPING,SWEDEN.
+NR 0
+TC 7
+Z9 7
+U1 0
+U2 6
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, OXON, ENGLAND OX5 1GB
+SN 0265-931X
+J9 J ENVIRON RADIOACTIV
+JI J. Environ. Radioact.
+PY 1992
+VL 16
+IS 3
+BP 205
+EP 228
+DI 10.1016/0265-931X(92)90001-A
+PG 24
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA HW145
+UT WOS:A1992HW14500001
+DA 2021-07-21
+ER
+
+PT J
+AU JANTUNEN, MJ
+   REPONEN, A
+   MUSTONEN, R
+   ITKONEN, A
+   KAURANEN, P
+AF JANTUNEN, MJ
+   REPONEN, A
+   MUSTONEN, R
+   ITKONEN, A
+   KAURANEN, P
+TI BEHAVIOR OF CHERNOBYL FALLOUT RADIONUCLIDES IN PEAT COMBUSTION
+SO HEALTH PHYSICS
+LA English
+DT Article
+DE CHERNOBYL; FALLOUT; NUCLEAR POWER PLANT; CS-137
+ID FIRED POWER-PLANT; FLY-ASH; RADIOACTIVITY; EMISSIONS
+AB The fallout from the explosion and fire at the Chernobyl nuclear power plant concentrated levels of up to 10 kBq Cs-137 kg-1 dry weight in the fuel peat harvested during the summer of 1986 in Finland. We investigated the behavior of fallout radionuclides Cs-137, Cs-134, Ru-106, Ce-144, Sb-125, Zr-95, and Ag-110m together with naturally occurring Pb-210 and Ra-226 in the combustion of this contaminated peat in four different power plants. The elements antimony, ruthenium, lead, and cesium were enriched on the smallest particles, indicating that they were in a volatile chemical form, while cerium, zirconium, and radium were nonvolatile at the combustion temperatures. This result confirms the previous finding that ruthenium is volatile in combustion. Although metallic ruthenium requires 2,310-degrees-C to melt, some of its oxides melt and evaporate at much lower temperatures.
+C1 FINNISH CTR RADIAT & NUCL SAFETY, SF-00101 HELSINKI, FINLAND.
+   KUOPIO REG GOVT, OFF ENVIRONM PROTECT, SF-70100 KUOPIO, FINLAND.
+   UNIV KUOPIO, DEPT CHEM, SF-70211 KUOPIO, FINLAND.
+RP JANTUNEN, MJ (corresponding author), NATL PUBL HLTH INST, DEPT ENVIRONM HYG & TOXICOL, POB 95, SF-70701 KUOPIO, FINLAND.
+OI Jantunen, Matti/0000-0002-7942-7669
+NR 13
+TC 2
+Z9 2
+U1 0
+U2 6
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA 530 WALNUT ST, PHILADELPHIA, PA 19106-3621 USA
+SN 0017-9078
+EI 1538-5159
+J9 HEALTH PHYS
+JI Health Phys.
+PD MAR
+PY 1992
+VL 62
+IS 3
+BP 245
+EP 249
+DI 10.1097/00004032-199203000-00006
+PG 5
+WC Environmental Sciences; Public, Environmental & Occupational Health;
+   Nuclear Science & Technology; Radiology, Nuclear Medicine & Medical
+   Imaging
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational
+   Health; Nuclear Science & Technology; Radiology, Nuclear Medicine &
+   Medical Imaging
+GA HE210
+UT WOS:A1992HE21000006
+PM 1735645
+DA 2021-07-21
+ER
+
+PT J
+AU Wind-Mulder, HL
+   Vitt, DH
+AF Wind-Mulder, HL
+   Vitt, DH
+TI Comparisons of water and peat chemistries of a post-harvested and
+   undisturbed peatland with relevance to restoration
+SO WETLANDS
+LA English
+DT Article
+DE peatland; peat harvesting; restoration; reclamation; water chemistry;
+   peat chemistry
+ID WESTERN CANADA; VEGETATION; PATTERNS; FIELD; BOGS
+AB Peat harvesting has altered site water and peat chemistry at the Seba Beach peatland through removal of surface bog peat, moving the site back in the fen-to-bog succession time sequence. The post-harvested site is more similar to a moderate-rich fen in water and peat chemistry than the bog that it was originally. The exposure of fen peat has resulted in significantly higher concentrations for almost all water and peat chemical components compared to the neighboring natural bog. During five years of sampling this study found no significant differences between years in the water and peat chemistry within the natural area. A few significant yearly differences were found in the harvested area water chemistry, while the harvested area peat chemistry had many significant yearly differences. Several patterns were noted in the nitrogen concentrations in the harvested field. First, the harvested site had significantly higher concentrations of aqueous NH4+-N and NO3--N, as well as available NO3-N in the peat, compared to the neighboring natural area. A variety of possible factors, such as increased aeration, high pH values, and low vegetation cover may account for these high nitrogen concentrations. Second, peat nitrogen concentrations seem to be affected by soil moisture. Harvested areas with high soil moisture had high concentrations of available NH4-N and lower available NO3-N concentrations, while drier areas had high concentrations of available NO3-N and lower available NH4-N concentrations. Third, the concentrations of these nutrients in the harvested area did not remain static over the years. In the peat, available NO3-N concentrations were significantly reduced in 1995, and in the well samples, NH4+-N was significantly reduced in 1994 and 1995 compared to earlier years. This research shows that the chemistry of the harvested site has significantly changed from the original bog ecosystem. As the site is more similar to a moderate-rich fen, ombrotrophic bog species are unlikely to thrive on this site.
+C1 Univ Alberta, Dept Biol Sci, Edmonton, AB T6G 2E9, Canada.
+RP Wind-Mulder, HL (corresponding author), 376 Castlegrove Blvd, London, ON N6G 3X5, Canada.
+NR 37
+TC 29
+Z9 30
+U1 0
+U2 27
+PU SOC WETLAND SCIENTISTS
+PI LAWRENCE
+PA 810 E TENTH ST, P O BOX 1897, LAWRENCE, KS 66044 USA
+SN 0277-5212
+J9 WETLANDS
+JI Wetlands
+PD DEC
+PY 2000
+VL 20
+IS 4
+BP 616
+EP 628
+DI 10.1672/0277-5212(2000)020[0616:COWAPC]2.0.CO;2
+PG 13
+WC Ecology; Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 386XG
+UT WOS:000166089700005
+DA 2021-07-21
+ER
+
+PT J
+AU Gronlund, A
+   Hauge, A
+   Hovde, A
+   Rasse, DP
+AF Gronlund, Arne
+   Hauge, Atle
+   Hovde, Anders
+   Rasse, Daniel P.
+TI Carbon loss estimates from cultivated peat soils in Norway: a comparison
+   of three methods
+SO NUTRIENT CYCLING IN AGROECOSYSTEMS
+LA English
+DT Article
+DE soil loss; peat subsidence; peat compaction; soil CO(2) flux
+ID AGRICULTURAL SOILS; CO2 EXCHANGE; PASTURE; SEQUESTRATION; PATTERNS;
+   DRAINAGE; BIOMASS; STOCKS
+AB Drainage and cultivation of peat soils stimulates soil organic matter (SOM) mineralization, which substantially increases CO(2) emissions from soils. Large uncertainties are associated with this CO(2) flux, and little data are available, especially in Norway. The objective of the present research was to estimate C losses from cultivated peatlands in West Norway by three independent methods: (1) long-term monitoring of subsidence rates, (2) changes in ash contents, and (3) soil CO(2) flux measurements. Subsidence of cultivated peat soils averaged about 2.5 cm year(-1). We estimated that peat loss and compaction were respectively responsible for 38% and 62% of the total subsidence during a 25-year period after drainage. Based on this estimate the corresponding C loss equals 0.80 kg C m(-2) year(-1). The observed increase in mineral concentration of the topsoil of cultivated peat is proportional to their C loss, providing no mineral particles other than lime and fertilizers are added to the soil. Using this novel approach across 11 sites, we estimated a mean C loss of 0.86 kg C m(-2) year(-1). Soil CO(2) flux measurements, corrected for autotrophic respiration, yielded a C loss estimate from cultivated peat soils of 0.60 kg C m(-2) year(-1). The three methods yielded fairly similar estimates of C losses from Norwegian cultivated peatlands. Cultivated peatlands in Norway cover an estimated 63,000 ha. Total annual C losses from peat degradation were estimated to range between 1.8 and 2 million tons CO(2) year(-1), which equals about 3-4% of total anthropogenic greenhouse gas emissions from Norway.
+C1 [Gronlund, Arne; Hauge, Atle; Rasse, Daniel P.] Norwegian Inst Agr & Environm Res, Soil & Environm Div, N-1432 As, Norway.
+   [Hovde, Anders] Dept Agr & Forestry, More, Norway.
+   [Hovde, Anders] Dept Agr & Forestry, Romsdal, Norway.
+RP Gronlund, A (corresponding author), Norwegian Inst Agr & Environm Res, Soil & Environm Div, Frederik A Dahls Vei 20, N-1432 As, Norway.
+EM arne.gronlund@bioforsk.no
+RI Rasse, Daniel/H-7279-2019
+OI Rasse, Daniel/0000-0002-5977-3863
+NR 25
+TC 50
+Z9 51
+U1 2
+U2 49
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 1385-1314
+J9 NUTR CYCL AGROECOSYS
+JI Nutr. Cycl. Agroecosyst.
+PD JUN
+PY 2008
+VL 81
+IS 2
+BP 157
+EP 167
+DI 10.1007/s10705-008-9171-5
+PG 11
+WC Soil Science
+SC Agriculture
+GA 303AF
+UT WOS:000256010800005
+DA 2021-07-21
+ER
+
+PT J
+AU Pitkanen, A
+   Turunen, J
+   Tahvanainen, T
+   Simola, H
+AF Pitkanen, Aki
+   Turunen, Jukka
+   Tahvanainen, Teemu
+   Simola, Heikki
+TI Carbon storage change in a partially forestry-drained boreal mire
+   determined through peat column inventories
+SO BOREAL ENVIRONMENT RESEARCH
+LA English
+DT Article
+ID FLUX MEASUREMENTS; EMISSION FACTORS; NITROUS-OXIDE; PINE MIRES; SOIL;
+   PEATLANDS; DYNAMICS; CO2; DECOMPOSITION; NUTRIENTS
+AB To study the impact of forestry drainage on peat carbon storage, we cored paired quantitative peat samples from undrained and drained sides of an eccentric bog. Five pairs of 0 to <= 100-cm-deep surface-peat cores, and a pair of profiles representing the full peat deposit provided stratigraphic evidence of marked loss of surface peat due to drainage. For the drained side cores, we found a relative subsidence of 25-37 cm of the surface, and a loss of about 10 kg(DW) m(-2), corresponding to 131 +/- 28 g C m(-2) a(-1) (mean +/- SE) for the post-drainage period Similar peat loss was also found in the full deposit profiles, thus lending credibility to the whole-column inventory approach, even though the decrease (9 kg(DW) m(-2)) was relatively small in comparison with the total carbon storage (233 and 224 kg(DW) m(-2) for the undrained and drained sides, respectively).
+C1 [Pitkanen, Aki; Tahvanainen, Teemu; Simola, Heikki] Univ Eastern Finland, Dept Biol, FI-80101 Joensuu, Finland.
+   [Turunen, Jukka] Geol Survey Finland, FI-70211 Kuopio, Finland.
+RP Pitkanen, A (corresponding author), Univ Eastern Finland, Dept Biol, POB 111, FI-80101 Joensuu, Finland.
+FU Academy of FinlandAcademy of FinlandEuropean Commission [127107]
+FX The study is a part of a research project "Carbon storage changes of
+   drained peatland forests in Finland: decomposition and accumulation
+   studied by re-investigation of previous study sites" funded by Academy
+   of Finland (project code 127107). Ms. Kirsti Kyyronen helped in drawing
+   the figures.
+NR 38
+TC 19
+Z9 20
+U1 0
+U2 27
+PU FINNISH ENVIRONMENT INST
+PI HELSINKI
+PA P O BOX 140, FIN-00251 HELSINKI, FINLAND
+SN 1239-6095
+EI 1797-2469
+J9 BOREAL ENVIRON RES
+JI Boreal Environ. Res.
+PD JUN 28
+PY 2013
+VL 18
+IS 3-4
+BP 223
+EP 234
+PG 12
+WC Environmental Sciences
+SC Environmental Sciences & Ecology
+GA 174OJ
+UT WOS:000321165000004
+DA 2021-07-21
+ER
+
+PT J
+AU Koronatova, NG
+   Shibareva, SV
+AF Koronatova, N. G.
+   Shibareva, S. V.
+TI Change of peat mass during decomposition in mires of Poland and West
+   Siberia
+SO CONTEMPORARY PROBLEMS OF ECOLOGY
+LA English
+DT Article
+DE ombrotrophic mire; decomposition; peat; degree of peat decomposition;
+   living below ground organs of plants
+ID PEATLANDS; QUALITY; LITTER
+AB The paper presents the results of field experiment on peat decomposition in peat deposits of mires in West Siberia and Poland. Two principal factors determining the dynamics of peat mass are revealed: position in relief and contribution from the below ground organs of herbaceous plants. In a raised bog, an upland microlandscape, maximum values of peat mass loss were obtained in the upper layer of peat and minimum values in the lower layer. In all poor fen ecosystems which are lowland microlandscapes, similar values of peat mass losses at different depths were obtained. In mire ecosystems with a considerable proportion of grasses in the phytocenosis, the supply of peat in the upper half-meter layer is replenished by dead below ground organs of plants.
+C1 [Koronatova, N. G.; Shibareva, S. V.] Russian Acad Sci, Siberian Branch, Inst Soil Sci & Agrochem, Novosibirsk 630099, Russia.
+RP Koronatova, NG (corresponding author), Russian Acad Sci, Siberian Branch, Inst Soil Sci & Agrochem, Ul Sovetskaya 18, Novosibirsk 630099, Russia.
+EM coronat@mail.ru
+RI Koronatova, Natalia/AAR-3957-2021
+OI Koronatova, Natalia/0000-0002-0557-0083
+NR 13
+TC 0
+Z9 0
+U1 0
+U2 6
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING ST, NEW YORK, NY 10013 USA
+SN 1995-4255
+J9 CONTEMP PROBL ECOL+
+JI Contemp. Probl. Ecol.
+PD JUN
+PY 2010
+VL 3
+IS 3
+BP 312
+EP 317
+DI 10.1134/S1995425510030094
+PG 6
+WC Ecology
+SC Environmental Sciences & Ecology
+GA 615IQ
+UT WOS:000279128600009
+DA 2021-07-21
+ER
+
+EF
