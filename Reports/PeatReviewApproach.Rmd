@@ -61,6 +61,16 @@ The workflow is depicted below (use your mouse to zoom in and out of the figure)
 withr::with_dir(here::here(), targets::tar_visnetwork())
 ```
 
+The wordcloud function is only applied to the full corpus (all subtopics combined) at the moment. You could adapt the code in the "_targets.R" list to include wordclouds for each subtopic. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+withr::with_dir(here::here(), targets::tar_read(all_wordC))
+```
+
+
+
+
+
 ## Outputs
 
 The list of words for each cluster in each subtopic can be found in the "PeatReview/Reports" folder. 
