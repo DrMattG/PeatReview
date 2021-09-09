@@ -54,7 +54,7 @@ We used the R package targets [@targets] to develop a workflow that can be adapt
 
 ## Workflow
 
-The workflow is depicted below. For each subtopic a corpus is created and then a co-word analysis is applied. This results in a list of words representing each cluster for each subtopic and a list of papers in order of centrality. 
+The workflow is depicted below (use your mouse to zoom in and out of the figure). For each subtopic a corpus is created and then a co-word analysis is applied. This results in a list of words representing each cluster for each subtopic and a list of papers in order of centrality. 
 
 ```{r viznetwork, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
 #withr::with_dir(here::here(), targets::tar_make())
@@ -80,6 +80,12 @@ withr::with_dir(here::here(), targets::tar_read(Carb_acc_papers)) %>%
   kableExtra::kable() %>% 
   kableExtra::kable_styling()
 ```
+
+## Caveats and condsiderations
+
+Co-word analysis is reliant on the search terms used in the first step so there maybe an unavoidable bias in this process. Given the assumption that the search terms are representative the co-word analysis may not identify highly-cited papers as being the most important in the evidence-base. Highly cited papers are often not "important" in determining a theme of a topic but reviewers expect them to be so perhaps some sensitivity analysis might be appropriate to see if focusing on highly cited papers (and/or review papers) would give a different outcome. Other techniques such as snow-ball citation searches ("citation chasing") may be appropriate here (see:https://www.eshackathon.org/software/citationchaser.html)
+
+Given the task is to reduce the number of papers to a manageable level given limited resource this approach will achieve that - the measures of importance are based on centrality and not any value judgement about the quality of the paper. Full critical appraisal is need to achieve an understanding of how good papers are in answering the questions asked by the paper itself and the review. Critical appraisal is difficult and time consuming however..... 
 
 
 ## Packages used
