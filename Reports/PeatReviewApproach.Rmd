@@ -1,0 +1,85 @@
+---
+title: "Peat Review"
+author: "Matt"
+date: "9 9 2021"
+output: html_document
+bibliography: "packages.bib"  
+nocite: '@*'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+All the R code and outputs are stored in a public GitHub repository (https://github.com/DrMattG/PeatReview). The whole project can be downloaded and run locally in an RStudio session. [File: "New Project" -> Version Control -> Git -> Repository URL: "https://github.com/DrMattG/PeatReview.git"]
+
+## Approach
+
+### Search terms
+
+Search terms were developed using an iterative process in consultation with Frode Thomassen Singsaas (NINA librarian). Searches were conducted using the Web of Science core collection (1987 to present) [WE NEED TO FIND OUT WHAT THE CORE COLLECTION CONSISTS OF FOR NINA]. The search terms for the 10 subtopics are shown in the table below.  
+
+```{r search strings table, echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(tidyverse)
+WoSsearchstrings <- read_excel(paste0(here::here(),"/data/WoSsearchstrings.xlsx"), skip = 2)
+WoSsearchstrings %>% 
+  select(!starts_with("...")) %>% 
+  select(!"ExcludeAlways:") %>% 
+  drop_na() %>% 
+  kableExtra::kable() %>% 
+  kableExtra::kable_styling()
+```
+
+### Co-word analysis
+
+To reduce the number of papers that need to be manually screened in the review we used co-word analysis in the R package bibliometrix [@bib] to develop a priority list of literature in each subtopic. We focused on the keywords (bibliometrix's default co-word analysis uses both the author keywords and "KeywordsPlus" from the Web Of Science. This includes keywords extracted from the title and abstract of each paper and not author supplied keywords). 
+
+Code word analysis identifies the most frequently used or co-occurring set of terms within a group of documents. Briefly, co-word analysis computes a matrix of co-occurrence of keywords by counting the number of documents in which two words occur together. Then it computes an index of equivalence which is the number of documents with a shared pair of keywords divided by the number of documents containing one or the other in each pair. From this index a clustering algorithm (k-means clustering) is used to assign documents to clusters based on their keyword co-occurrences. 
+
+For each cluster we extracted the keyword set that best described the cluster and manually assessed if the cluster was relevant to the aims of the review. We then sorted the documents in each cluster by betweenness centrality scores (which indicates how close to the centre of the cluster each document falls - a document in the centre of the cluster would share a majority of keywords with the other documents in the cluster meaning it represents the theme of the cluster well). 
+
+
+
+#### A note on the Targets R package
+
+We used the R package targets [@targets] to develop a workflow that can be adapted and updated easily without re-running the full analysis step (examining the corpus and building networks can be computationally expensive). Targets (see https://books.ropensci.org/targets/) allows one to develop a pipe-line of analysis and to skip runtime where tasks are up to date. Targets requires an "_targets.R" scriptfile that lists the steps in the workflow and a "R/functions.R" script which lists the custom functions that are used in the workflow. The main functions for the targets package are: 
+
+* tar_manifest() - lists the target workflow
+* tar_visnetwork() - shows a visualiation of the workflow and highlights which tasks are complete and which are out of date (if a previous step has been changed for example), as well as highlighting where errors have occurred. 
+* tar_make() - runs the pipeline updating out of date targets and running incomplete targets
+* tar_read() - reads the output of the target in to the R session. 
+
+
+
+## Workflow
+
+The workflow is depicted below. For each subtopic a corpus is created and then a co-word analysis is applied. This results in a list of words representing each cluster for each subtopic and a list of papers in order of centrality. 
+
+```{r viznetwork, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+#withr::with_dir(here::here(), targets::tar_make())
+withr::with_dir(here::here(), targets::tar_visnetwork())
+```
+
+## Outputs
+
+The list of words for each cluster in each subtopic can be found in the "PeatReview/Reports" folder. 
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+list.files(paste0(here::here(), "/Reports"), pattern=".csv")
+```
+
+To inspect the lists of papers you can run the following code (using the Carbon accounting subtopic as an example):
+
+tar_read(Carb_acc_papers)
+
+(note that the output is truncated to 10 rows here for brevity)
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+withr::with_dir(here::here(), targets::tar_read(Carb_acc_papers)) %>% 
+  head(10) %>% 
+  kableExtra::kable() %>% 
+  kableExtra::kable_styling()
+```
+
+
+## Packages used

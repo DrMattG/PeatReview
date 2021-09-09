@@ -1,7 +1,10 @@
 library(targets)
-source("R/functions.R")
+source(paste0(here::here(),"/R/functions.R"))
+#source("R/functions.R")
 options(tidyverse.quiet = TRUE)
 tar_option_set(packages = c("tidyverse", "bibliometrix", "here"))
+
+Sys.setenv(TAR_WARN = "false")
 
 list(
   tar_target(
