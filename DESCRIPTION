@@ -1,0 +1,15 @@
+Package: PeatReview
+Title: Targets pipeline for the Peat Structured review
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Matthew",
+           family = "Grainger",
+           role = c("aut", "cre"),
+           email = "matthew.grainger@nina.no",
+           comment = c(ORCID = "0000-0001-8426-6495"))
+Description: The targets pipeline takes runs co-word analysis on each literature search and extracts the clusters as lists of papers in each cluster with each keyword
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
