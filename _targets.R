@@ -9,7 +9,7 @@ Sys.setenv(TAR_WARN = "false")
 list(
   tar_target(
     filelist,
-    list.files(paste0(here::here(),"/data/"), 
+    list.files(paste0(here::here(),"/data/"),
                pattern = ".txt",full.names = TRUE)
     ),
   tar_target(
@@ -53,7 +53,7 @@ list(
     Peat_acc_corpus,
     create_corpus(files = c(filelist[21],filelist[22],filelist[23],filelist[24], filelist[25],filelist[26]))
   ),
-  
+
   tar_target(
     all_wordC,
     create_wordcloud(all_corpus)
@@ -129,6 +129,68 @@ list(
   tar_target(
     Peat_RM_papers,
     get_list_of_papers(Peat_RM_corpus)
+  ),
+  tar_target(
+    Top_fifteen_Agri,
+    Agri_papers %>%
+      group_by(grp) %>%
+      top_n(15) %>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Carb,
+    Carb_acc_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Clim,
+    clim_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Drain,
+    Drain_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_F_on_P,
+    F_on_P_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Gas,
+    Gas_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Hydro,
+    Hydrology_papers %>%
+      group_by(grp) %>%
+      top_n(15) %>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Peat_acc,
+    Peat_acc_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
+  ),
+  tar_target(
+    Top_fifteen_Peat_RM,
+    Peat_RM_papers %>%
+      group_by(grp) %>%
+      top_n(15)%>%
+      select(label)
   )
-  
 )
