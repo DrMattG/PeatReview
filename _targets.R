@@ -370,7 +370,42 @@ list(
   tar_target(
     Peat_acc_papers_major,
     CS_major_grp(Peat_acc_papers_con,Peat_acc_papers,Peat_acc_corpus)
-  )
-
+  ),
+  tar_target(
+    Agricultural_rev,
+    Get_important_Reviews(Agri_papers_major, Agri_corpus, "Agricultural_rev")
+  ),
+  tar_target(
+    Carb_acc_rev,
+    Get_important_Reviews(Carb_acc_papers_major, Carb_acc_corpus, "CarbonAcc_rev")
+  ),
+  tar_target(
+    Clim_rev,
+    Get_important_Reviews(clim_papers_major, clim_corpus, "Climate_rev")
+  ),
+  tar_target(
+    Drain_rev,
+    Get_important_Reviews(Drain_papers_major, Drain_corpus, "Drain_rev")
+  ),
+  tar_target(
+    F_on_P_rev,
+    Get_important_Reviews(F_on_P_papers_major, F_on_P_corpus, "Forest_rev")
+  ),
+  tar_target(
+    Gas_rev,
+    Get_important_Reviews(Gas_papers_major, Gas_corpus, "Gas_rev")
+  ),
+  tar_target(
+    Hydrology_rev,
+    Get_important_Reviews(Hydrology_papers_major, Hydrology_corpus, "Hydrology_rev")
+  ),
+  tar_target(
+    Peat_RM_rev,
+    Get_important_Reviews(Peat_RM_papers_major, Peat_RM_corpus, "Peat_rev")
+  ),
+  tar_target(
+    Peat_acc_rev,
+    Get_important_Reviews(Peat_acc_papers_major, Peat_acc_corpus, "Peat_acc_rev")
+    )
 
 )

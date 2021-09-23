@@ -137,6 +137,22 @@ CS_major_grp=function(CS, papers,corpus){
   # NetMatrix <- biblioNetwork(grp1, analysis = "co-occurrences", network = "keywords", sep = ";")
   # # full network
   # net=networkPlot(NetMatrix, normalize="association", weighted=T, n =  length(grp1$TI) , Title = "Keyword Co-occurrences", type = "fruchterman", size=T,edgesize = 5,label= TRUE)
- CS <- conceptualStructure(grp1,field="ID", method="CA",ngrams=1, minDegree=6, clust=5, stemming=TRUE, labelsize=10, documents=10)
+ CS <- conceptualStructure(grp1,field="ID", method="CA",ngrams=3, minDegree=6, clust=5, stemming=TRUE, labelsize=10, documents=10)
   #
 }
+
+Get_important_Reviews=function(major, corpus, saveName){
+  papers_major=major
+  AP=papers_major$docCoord %>%
+    filter(Cluster==1)
+  AC=corpus
+
+  Out=AC[toupper(rownames(AP)) %in% rownames(AC),]
+  Out %>% arrange(desc(TC)) %>%
+    select(AU,AB,TI, SO, DT,PD,PY, DI, WC,UT) %>%
+    filter(DT=="REVIEW") %>%
+    write.csv(., paste0("Reports/Review_out/",saveName, ".csv"))
+
+}
+
+
