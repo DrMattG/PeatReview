@@ -192,5 +192,185 @@ list(
       group_by(grp) %>%
       top_n(15)%>%
       select(label)
+  ),
+  tar_target(
+    save_top15_PeatRM,
+    save_top15(Top_fifteen_Peat_RM)
+  ),
+  tar_target(
+    save_top15_Agri,
+    save_top15(Top_fifteen_Agri)
+  ),
+  tar_target(
+    save_top15_Carb,
+    save_top15(Top_fifteen_Carb)
+  ),
+  tar_target(
+    save_top15_Clim,
+    save_top15(Top_fifteen_Clim)
+  ),
+  tar_target(
+    save_top15_Drain,
+    save_top15(Top_fifteen_Drain)
+  ),
+  tar_target(
+    save_top15_FonP,
+    save_top15(Top_fifteen_F_on_P)
+  ),
+  tar_target(
+    save_top15_Gas,
+    save_top15(Top_fifteen_Gas)
+  ),
+  tar_target(
+    save_top15_Hydro,
+    save_top15(Top_fifteen_Hydro)
+  ),
+  tar_target(
+    save_top15_Peat_acc,
+    save_top15(Top_fifteen_Peat_acc)
+  ),
+  tar_target(
+    cut_off_Agri,
+    get_cut_off(Agri_papers)
+  ),
+  tar_target(
+    cut_off_Carb,
+    get_cut_off(Carb_acc_papers)
+  ),
+  tar_target(
+    cut_off_Clim,
+    get_cut_off(clim_papers)
+  ),
+  tar_target(
+    cut_off_Drain,
+    get_cut_off(Drain_papers)
+  ),
+  tar_target(
+    cut_off_FonP,
+    get_cut_off(F_on_P_papers)
+  ),
+  tar_target(
+    cut_off_Gas,
+    get_cut_off(Gas_papers)
+  ),
+  tar_target(
+    cut_off_Hydrology,
+    get_cut_off(Hydrology_papers)
+  ),
+  tar_target(
+    cut_off_Peat_acc,
+    get_cut_off(Peat_acc_papers)
+  ),
+  tar_target(
+    Agri_papers_con,
+    Check_conceptual_structure(Agri_papers,Agri_corpus)
+  ),
+  tar_target(
+    Carb_acc_papers_con,
+    Check_conceptual_structure(Carb_acc_papers,Carb_acc_corpus)
+  ),
+  tar_target(
+    clim_papers_con,
+    Check_conceptual_structure(clim_papers, clim_corpus)
+  ),
+  tar_target(
+    Drain_papers_con,
+    Check_conceptual_structure(Drain_papers, Drain_corpus)
+  ),
+  tar_target(
+    F_on_P_papers_con,
+    Check_conceptual_structure(F_on_P_papers,F_on_P_corpus)
+  ),
+  tar_target(
+    Gas_papers_con,
+    Check_conceptual_structure(Gas_papers, Gas_corpus)
+  ),
+  tar_target(
+    Hydrology_papers_con,
+    Check_conceptual_structure(Hydrology_papers,Hydrology_corpus)
+  ),
+  tar_target(
+    Peat_acc_papers_con,
+    Check_conceptual_structure(Peat_acc_papers, Peat_acc_corpus)
+  ),
+  tar_target(
+    Peat_RM_papers_con,
+    Check_conceptual_structure(Peat_RM_papers,Peat_RM_corpus)
+  ),
+  tar_target(
+    Agri_papers_check,
+    CS_check_groups(Agri_papers_con)
+  ),
+  tar_target(
+    Carb_acc_papers_check,
+    CS_check_groups(Carb_acc_papers_con)
+  ),
+  tar_target(
+    clim_papers_check,
+    CS_check_groups(clim_papers_con)
+  ),
+  tar_target(
+    Drain_papers_check,
+    CS_check_groups(Drain_papers_con)
+  ),
+  tar_target(
+    F_on_P_papers_check,
+    CS_check_groups(F_on_P_papers_con)
+  ),
+  tar_target(
+    Gas_papers_check,
+    CS_check_groups(Gas_papers_con)
+  ),
+  tar_target(
+    Hydrology_papers_check,
+    CS_check_groups(Hydrology_papers_con)
+  ),
+
+  tar_target(
+    Peat_RM_papers_check,
+    CS_check_groups(Peat_RM_papers_con)
+  ),
+  tar_target(
+    Peat_acc_papers_check,
+    CS_check_groups(Peat_acc_papers_con)
+  ),
+  tar_target(
+    Agri_papers_major,
+    CS_major_grp(Agri_papers_con, Agri_papers, Agri_corpus)
+  ),
+  tar_target(
+    Carb_acc_papers_major,
+    CS_major_grp(Carb_acc_papers_con, Carb_acc_papers, Carb_acc_corpus)
+  ),
+  tar_target(
+    clim_papers_major,
+    CS_major_grp(clim_papers_con, clim_papers, clim_corpus)
+  ),
+  tar_target(
+    Drain_papers_major,
+    CS_major_grp(Drain_papers_con, Drain_papers, Drain_corpus)
+  ),
+  tar_target(
+    F_on_P_papers_major,
+    CS_major_grp(F_on_P_papers_con, F_on_P_papers,F_on_P_corpus)
+  ),
+  tar_target(
+    Gas_papers_major,
+    CS_major_grp(Gas_papers_con, Gas_papers,Gas_corpus)
+  ),
+  tar_target(
+    Hydrology_papers_major,
+    CS_major_grp(Hydrology_papers_con, Hydrology_papers,Hydrology_corpus)
+  ),
+
+  tar_target(
+    Peat_RM_papers_major,
+    CS_major_grp(Peat_RM_papers_con, Peat_RM_papers,Peat_RM_corpus)
+  ),
+  tar_target(
+    Peat_acc_papers_major,
+    CS_major_grp(Peat_acc_papers_con,Peat_acc_papers,Peat_acc_corpus)
   )
+
+
 )

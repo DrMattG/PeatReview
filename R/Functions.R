@@ -86,3 +86,57 @@ get_list_of_papers=function(corpus){
 
 }
 
+save_top15<-function(filename,loc=paste0(here::here(),"/Reports")){
+  filenameX=deparse(substitute(filename))
+  write.csv(filename,paste0(loc,"/" ,filenameX, ".csv"))
+}
+
+get_cut_off<-function(papers){
+   maxT=papers %>%
+    group_by(grp) %>%
+    tally() %>%
+    summarise(quants = quantile(n, probs = c(0.2, 0.5, 0.8))) %>%
+    summarise(max(quants))
+
+  outgrps=papers %>%
+    group_by(grp) %>%
+    tally() %>%
+    filter(n>maxT$`max(quants)`)
+
+
+  papers=papers %>%
+    filter(grp%in%outgrps$grp)
+
+  papers=group_split(papers)
+
+
+}
+
+Check_conceptual_structure<-function(papers, corpus){
+papers_grp=papers
+corpgrp=corpus[corpus$TI %in% papers_grp$label,]
+
+require(bibliometrix)
+require(dplyr)
+
+CS <- conceptualStructure(corpgrp,field="ID", method="CA",ngrams=1, minDegree=3, clust=5, stemming=TRUE, labelsize=10, documents=10)
+
+}
+
+CS_check_groups=function(CS){
+  CS$graph_terms$data %>%
+   group_by(cluster) %>%
+   arrange(desc(cluster))
+}
+
+CS_major_grp=function(CS, papers,corpus){
+  papers_grp=papers
+  corpgrp=corpus[corpus$TI %in% papers_grp$label,]
+  tmp=CS$docCoord[CS$docCoord$Cluster==1,]
+ grp1=corpgrp[rownames(corpgrp) %in% toupper(rownames(tmp)),]
+  # NetMatrix <- biblioNetwork(grp1, analysis = "co-occurrences", network = "keywords", sep = ";")
+  # # full network
+  # net=networkPlot(NetMatrix, normalize="association", weighted=T, n =  length(grp1$TI) , Title = "Keyword Co-occurrences", type = "fruchterman", size=T,edgesize = 5,label= TRUE)
+ CS <- conceptualStructure(grp1,field="ID", method="CA",ngrams=1, minDegree=6, clust=5, stemming=TRUE, labelsize=10, documents=10)
+  #
+}
