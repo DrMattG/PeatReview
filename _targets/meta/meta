@@ -57,37 +57,57 @@ cut_off_Clim|stem|6ca0756b55911ed3|f49e03fb067ddefe|fa99324dbbf919f7|-1232754239
 cut_off_Peat_acc|stem|fd8970ad9101bf6b|c7756c6af8603806|9006bc8a597d0fd1|-384904746||t18890.5208039544s|de0c217b01a7b34c|345724|rds|vector|||0.01||
 Peat_acc_papers_con|stem|6bf1f3daa62e3536|c2855eb94be367e2|3b97cab617d543c6|-2141648215||t18892.6114338435s|5abd61fa1c63eaa2|36754240|rds|vector|||900.82|ggrepel 29 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Peat_acc_papers_check|stem|09efe004a1186063|812571a9961965df|23dd2cf97768276a|8180524||t18892.6144792557s|a10f6f996af6ab90|64939|rds|vector|||0.57|package bibliometrix was built under R version 4.0.5|
-Peat_acc_papers_major|stem|5ac77cd3484d73d5|c98c7a8412400157|0b81ccde059a5a57|-1968303123||t18892.6253189965s|29d43495e0c98ce5|16444298|rds|vector|||207.14|ggrepel 34 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Agri_papers_con|stem|0427896c9070b4ca|6ee7776c86a5dade|1c010f2d41bb2605|-1104400600||t18892.6281001524s|21731954943fe8d5|6235562|rds|vector|||21.32|ggrepel 6 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Drain_papers_con|stem|3590f351d204ee9f|99a81119dc1d9054|94add02308c24ac7|837894628||t18892.6317462002s|ef116e467fadc3ef|19966959|rds|vector|||284.06|ggrepel 15 unlabeled data points too many overlaps. Consider increasing max.overlaps|
-get_cluster_words|function|6818eccce12cd689||||||||||||||
-get_cut_off|function|0441015b00dae1d4||||||||||||||
-Check_conceptual_structure|function|27f9087b669f6f39||||||||||||||
-create_wordcloud|function|0d6cd062e9b998ea||||||||||||||
-CS_major_grp|function|6a7b983b46649c29||||||||||||||
-CS_check_groups|function|31ac1814a8a33d7f||||||||||||||
-get_list_of_papers|function|6e15fc56e32a86e9||||||||||||||
-save_top15|function|8603a1d9e75849f9||||||||||||||
-create_corpus|function|943f6d55a1243397||||||||||||||
 clim_papers_con|stem|f8fea9d215f3e79c|1ebee3ed6fa86159|dd68ad8b9edcaed3|1553555000||t18892.640801298s|515a4205bbcbf65d|12893566|rds|vector|||109.85|ggrepel 26 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Hydrology_papers_con|stem|7c2f312c63986558|cd2c8baa0c09c0e8|f9efb3a3ec208e87|-1846001537||t18892.6424501898s|c6e6a2eaafe5bb1f|9056801|rds|vector|||132.89|ggrepel 10 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Carb_acc_papers_con|stem|bf264b845e4b4b27|05e12eaa2ed2a028|cb1ff3afd9759a98|886408602||t18892.6444124145s|cbd4e94d54df43d3|9538164|rds|vector|||161.57|ggrepel 14 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Peat_RM_papers_con|stem|b46c4af198e33600|5044da0b7f5b1ee4|7c2310039f983b5d|748525845||t18892.6456565188s|f1d5c1df26465755|9683231|rds|vector|||100.11|ggrepel 19 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Gas_papers_con|stem|a8b42d12b73857f7|cb23ed7aa59c240c|06c4c64d621fd653|-1249958983||t18892.6463452583s|3186dfdcc4d6814f|6999748|rds|vector|||52.89|ggrepel 11 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 F_on_P_papers_con|stem|61b6dc51476cedf6|82ac70e8d9864b59|a9bbccd109d4ca70|-1665034919||t18892.6466451184s|b9eb56ed2c7d59b7|4755600|rds|vector|||20.03|ggrepel 13 unlabeled data points too many overlaps. Consider increasing max.overlaps|
-clim_papers_major|stem|f31f0d62d3492f4c|12d17cbcdf0946d8|ba6344c56fa81cc6|-208252462||t18892.6470606907s|8b5a3177669ae962|6807223|rds|vector|||29.56|ggrepel 30 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 clim_papers_check|stem|7f3a36e5259d7f8c|05a2880b68e72f77|e3a4c83567fd185e|879801078||t18892.6470610916s|cc801d5e6b4a1995|25772|rds|vector|||0||
 Hydrology_papers_check|stem|42a26206c495bd5a|a197d0c13aca127c|3002bafca52dd0d3|1715622022||t18892.6470614302s|c67aad41370be818|26556|rds|vector|||0||
-Hydrology_papers_major|stem|9b097bea11eea172|f8d358ba741f9ea5|8165d3ef5d4aaf0a|683729508||t18892.6474667647s|f21d764bb61a76ca|6830766|rds|vector|||28.67|ggrepel 43 unlabeled data points too many overlaps. Consider increasing max.overlaps|
-Agri_papers_major|stem|36ee64e298466f59|930b3d1eb7001ba3|9ef847225c0c3cb6|-822502439||t18892.6476618324s|f874c47fecf2354b|3974488|rds|vector|||7.09|ggrepel 25 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Agri_papers_check|stem|cb4fbfc5b4a68360|c573ca3b73905fd5|8e8a9e7787c34153|-226585568||t18892.6476621311s|ad71e3aececa2ba6|10159|rds|vector|||0||
 Carb_acc_papers_check|stem|94992860648fa75d|9c1f9ba2a0d8fbb9|fe085541950dad41|-815948724||t18892.6476624432s|d94ea1d97c7bbfe9|29302|rds|vector|||0||
-Carb_acc_papers_major|stem|c9730b9bb38ecc65|6c0413d29f00654e|09d9432e69dc0a12|-796784221||t18892.6483442992s|530eef176748b40c|7756504|rds|vector|||52.17|ggrepel 27 unlabeled data points too many overlaps. Consider increasing max.overlaps|
-Peat_RM_papers_major|stem|5762f8c4cbfd5455|35b701146084ab4a|5a3a57af1762dd1c|993903||t18892.648731054s|54ba4271fbe7e929|8293970|rds|vector|||26.83|ggrepel 35 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Peat_RM_papers_check|stem|5ede7805fafe53c0|13e32ee2ff754fac|ef9919eabae9ab16|-508161592||t18892.64873147s|90f157f3802282ac|18523|rds|vector|||0.01||
 Gas_papers_check|stem|d3ef45cd51e2912d|6db4da32016854cd|17f7b5b7ed36544e|-1372114835||t18892.6487317342s|568647b6a709dbd7|17896|rds|vector|||0||
-Gas_papers_major|stem|42ac0722c9aaeffc|84d37241e84cfd79|238e22f303178ecc|417743605||t18892.6490350045s|0147c2f233a2f895|5970387|rds|vector|||20.18|ggrepel 33 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 F_on_P_papers_check|stem|20d2ae860ed48b69|082cafc8afbc43e6|8c85427e2425f7af|-547512428||t18892.6490354359s|bcbf16c2837512cc|10577|rds|vector|||0.02||
-F_on_P_papers_major|stem|3367db6c267b4365|f38d1fa4c6996130|a4ec89ac37765119|1868179226||t18892.6491958063s|1511659dca33f760|4087470|rds|vector|||8.33|ggrepel 33 unlabeled data points too many overlaps. Consider increasing max.overlaps|
 Drain_papers_check|stem|581864eed2518d50|1c63e8f958c04e40|f8692af289dfc111|1611393220||t18892.6492969447s|520cb33060600282|37767|rds|vector|||0.02||
-Drain_papers_major|stem|504700d8e61b60db|72dfb3aaffaf535a|ed7f05a266a19b51|82477716||t18892.6504897752s|1788da2c981be717|9851274|rds|vector|||91.87|ggrepel 34 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+clim_papers_major|stem|6d7e853f2d667a71|12d17cbcdf0946d8|066f5b3da922c759|-208252462||t18893.2237102309s|c501ae553fbc2462|6804649|rds|vector|||28.47|ggrepel 30 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Hydrology_papers_major|stem|fb8de846b4567476|f8d358ba741f9ea5|ee193ca2c401588e|683729508||t18893.2241602992s|d22a8b892c6c57fd|6830761|rds|vector|||28.1|ggrepel 43 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Agri_papers_major|stem|edd549087c529b18|930b3d1eb7001ba3|5b7ec654f4c6c326|-822502439||t18893.2243518815s|d163d1d118dcdc29|3974490|rds|vector|||6.95|ggrepel 25 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Carb_acc_papers_major|stem|dba1a2934e482f1f|6c0413d29f00654e|5b94d6e44e6a6394|-796784221||t18893.2249159437s|9eecab246b5f839c|7756522|rds|vector|||37.28|ggrepel 27 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Peat_RM_papers_major|stem|fd16fb0dc3c9a39e|35b701146084ab4a|d0f5e904f6cd1fc3|993903||t18893.2253671735s|c243f066d460417a|8293967|rds|vector|||27.92|ggrepel 35 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Gas_papers_major|stem|33c5c484ea9f6339|84d37241e84cfd79|a5c675ed730562d4|417743605||t18893.2257300569s|0147c2f233a2f895|5970387|rds|vector|||20.92|ggrepel 33 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+F_on_P_papers_major|stem|79af1971f9d9ee00|f38d1fa4c6996130|9bf62e783e8ead42|1868179226||t18893.2259402417s|df06cb52029d4e6b|4087471|rds|vector|||8.55|ggrepel 33 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Drain_papers_major|stem|a71145db2adb157e|72dfb3aaffaf535a|50cf7b9a8e6e52e1|82477716||t18893.2269193917s|089225fe7dbc9ef1|9851273|rds|vector|||70.31|ggrepel 34 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Peat_acc_papers_major|stem|c8244de694c20ee4|c98c7a8412400157|653d60905b001782|-1968303123||t18893.2299454227s|334a25f4de43d9ba|16447303|rds|vector|||238.87|ggrepel 34 unlabeled data points too many overlaps. Consider increasing max.overlaps|
+Clim_rev|stem|251c0487fdd7dc4f|1709146e0af189f1|cc6582594ec83342|692884421||t18893.4445295378s|10da61cba4cac40f|44|rds|vector|||0.55|package bibliometrix was built under R version 4.0.5|
+F_on_P_rev|stem|251c0487fdd7dc4f|172fe37b12209dfa|73a795437b8ce828|559957147||t18893.4445818429s|10da61cba4cac40f|44|rds|vector|||0.02||
+Drain_rev|stem|251c0487fdd7dc4f|92d3075fe8e2b000|ce0dd0d09c8ebfbc|-58405186||t18893.4446502312s|10da61cba4cac40f|44|rds|vector|||0.03||
+Agricultural_rev|stem|251c0487fdd7dc4f|5539efd08f0d8fea|8d141f9529c402e7|-599079943||t18893.4447083439s|10da61cba4cac40f|44|rds|vector|||0.02||
+Carb_acc_rev|stem|251c0487fdd7dc4f|56a47d72507bff27|7c46060b867957b5|-1595799321||t18893.4447800706s|10da61cba4cac40f|44|rds|vector|||0.03||
+Gas_rev|stem|251c0487fdd7dc4f|1dd5a5537e17a465|e816db98a7c3b6f2|1498437332||t18893.4448463855s|10da61cba4cac40f|44|rds|vector|||0.04||
+Peat_acc_rev|stem|251c0487fdd7dc4f|752babcdb1c4d500|b977f5ff1083de0b|-765935213||t18893.4449464653s|10da61cba4cac40f|44|rds|vector|||0.11||
+Hydrology_rev|stem|251c0487fdd7dc4f|9362f9c6630d0010|69574ecfa6e8eac5|2114773989||t18893.4450170752s|10da61cba4cac40f|44|rds|vector|||0.02||
+Peat_RM_rev|stem|251c0487fdd7dc4f|3df2e5079d3816e0|786ce121f3901099|715431095||t18893.4450848801s|10da61cba4cac40f|44|rds|vector|||0.02||
+get_cluster_words|function|6818eccce12cd689||||||||||||||
+get_cut_off|function|0441015b00dae1d4||||||||||||||
+Check_conceptual_structure|function|27f9087b669f6f39||||||||||||||
+create_wordcloud|function|0d6cd062e9b998ea||||||||||||||
+CS_major_grp|function|3f3a6ea0ebdb7e02||||||||||||||
+CS_check_groups|function|31ac1814a8a33d7f||||||||||||||
+get_list_of_papers|function|6e15fc56e32a86e9||||||||||||||
+save_top15|function|8603a1d9e75849f9||||||||||||||
+Get_recent_papers|function|e89b15e228ea235f||||||||||||||
+create_corpus|function|943f6d55a1243397||||||||||||||
+Get_important_Reviews|function|c3918584f76a6fde||||||||||||||
+Hydrology_rec|stem|251c0487fdd7dc4f|955e55a4ea1d5c4e|61752eef5c02cd5b|934663956||t18900.4488631118s|10da61cba4cac40f|44|rds|vector|||0.55|package bibliometrix was built under R version 4.0.5|
+Peat_acc_rec|stem|251c0487fdd7dc4f|85f36c8d70ebc791|d19c450e6bf2756e|2047185142||t18900.4489403689s|10da61cba4cac40f|44|rds|vector|||0.1||
+Drain_rec|stem|251c0487fdd7dc4f|d60ae90bbec01e48|2151bf256742f12b|88465460||t18900.4489990803s|10da61cba4cac40f|44|rds|vector|||0.05||
+F_on_P_rec|stem|251c0487fdd7dc4f|4611137086b2dc77|93e28e3709c1594a|755948516||t18900.4490441842s|10da61cba4cac40f|44|rds|vector|||0.03||
+Agricultural_rec|stem|251c0487fdd7dc4f|d60201be885cdfc0|f24975cbeaf447f0|463585986||t18900.4490916449s|10da61cba4cac40f|44|rds|vector|||0.01||
+Carb_acc_rec|stem|251c0487fdd7dc4f|9592454c46818bdd|ecb73c762356b052|563055180||t18900.4491448288s|10da61cba4cac40f|44|rds|vector|||0.04||
+Peat_RM_rec|stem|251c0487fdd7dc4f|b9d602383a78f317|3b92f59aa64fecd5|-1937481603||t18900.4491936608s|10da61cba4cac40f|44|rds|vector|||0.03||
+Gas_rec|stem|251c0487fdd7dc4f|d1681167d619ba13|157deb9bbd6aa113|-906479514||t18900.4492480119s|10da61cba4cac40f|44|rds|vector|||0.03||
+Clim_rec|stem|251c0487fdd7dc4f|a4b354a6c3e9a3c3|08b983a197ef288c|63457457||t18900.4492996483s|10da61cba4cac40f|44|rds|vector|||0.05||

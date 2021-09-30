@@ -148,10 +148,30 @@ Get_important_Reviews=function(major, corpus, saveName){
   AC=corpus
 
   Out=AC[toupper(rownames(AP)) %in% rownames(AC),]
-  Out %>% arrange(desc(TC)) %>%
+  Out=Out %>% arrange(desc(TC)) %>%
     select(AU,AB,TI, SO, DT,PD,PY, DI, WC,UT) %>%
     filter(DT=="REVIEW") %>%
-    write.csv(., paste0("Reports/Review_out/",saveName, ".csv"))
+    rownames_to_column()
+  names(Out)=c("Short_name", "Authors", "Abstract", "Title", "Source", "DocumentType", "PubDate", "PubYear", "DoI", "WoSCat", "WoSID")
+
+  Out %>%
+    write.csv(., paste0("Reports/Review_out/",saveName, ".txt"))
+
+}
+Get_recent_papers=function(major, corpus, saveName){
+papers_major=major
+AP=papers_major$docCoord %>%
+  filter(Cluster==1)
+AC=corpus
+Out=AC[toupper(rownames(AP)) %in% rownames(AC),]
+Out=Out %>% arrange(desc(TC)) %>%
+  select(AU,AB,TI, SO, DT,PD,PY, DI, WC,UT) %>%
+  filter(!DT=="REVIEW") %>%
+  rownames_to_column()
+names(Out)=c("Short_name", "Authors", "Abstract", "Title", "Source", "DocumentType", "PubDate", "PubYear", "DoI", "WoSCat", "WoSID")
+Out %>%
+  filter(PubYear>2015)%>%
+  write.csv(., paste0("Reports/Review_out/",saveName, ".txt"))
 
 }
 

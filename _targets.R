@@ -406,6 +406,42 @@ list(
   tar_target(
     Peat_acc_rev,
     Get_important_Reviews(Peat_acc_papers_major, Peat_acc_corpus, "Peat_acc_rev")
-    )
+    ),
+  tar_target(
+    Agricultural_rec,
+    Get_recent_papers(Agri_papers_major, Agri_corpus, "Agricultural_rec")
+  ),
+  tar_target(
+    Carb_acc_rec,
+    Get_recent_papers(Carb_acc_papers_major, Carb_acc_corpus, "CarbonAcc_rec")
+  ),
+  tar_target(
+    Clim_rec,
+    Get_recent_papers(clim_papers_major, clim_corpus, "Climate_rec")
+  ),
+  tar_target(
+    Drain_rec,
+    Get_recent_papers(Drain_papers_major, Drain_corpus, "Drain_rec")
+  ),
+  tar_target(
+    F_on_P_rec,
+    Get_recent_papers(F_on_P_papers_major, F_on_P_corpus, "Forest_rec")
+  ),
+  tar_target(
+    Gas_rec,
+    Get_recent_papers(Gas_papers_major, Gas_corpus, "Gas_rec")
+  ),
+  tar_target(
+    Hydrology_rec,
+    Get_recent_papers(Hydrology_papers_major, Hydrology_corpus, "Hydrology_rec")
+  ),
+  tar_target(
+    Peat_RM_rec,
+    Get_recent_papers(Peat_RM_papers_major, Peat_RM_corpus, "Peat_rec")
+  ),
+  tar_target(
+    Peat_acc_rec,
+    Get_recent_papers(Peat_acc_papers_major, Peat_acc_corpus, "Peat_acc_rec")
+  )
 
 )
